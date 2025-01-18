@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>websites on Kevin&#39;s corner of the web</title>
+    <link>http://bashblog.local/tags/websites/</link>
+    <description>Recent content in websites on Kevin&#39;s corner of the web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://bashblog.local/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates on Technology Projects</title>
+      <link>http://bashblog.local/posts/updates-to-technology-projects/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/updates-to-technology-projects/</guid>
+      <description>I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.
+Nextcloud, OnlyOffice, and the Like Back in February I set up a Nextcloud server and incorporated OnlyOffice. The concepts are pretty cool, but I have abandoned both of those projects. In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice.</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud, OnlyOffice and the Like </title>
+      <link>http://bashblog.local/posts/nextcloud-onlyoffice-and-the-like/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/nextcloud-onlyoffice-and-the-like/</guid>
+      <description>Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.
+I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the</description>
+    </item>
+    
+    <item>
+      <title> Learning the Challenges of Jekyll</title>
+      <link>http://bashblog.local/posts/learning-the-challenges-of-jekyll/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/learning-the-challenges-of-jekyll/</guid>
+      <description>So a few days ago I decided to use Jekyll to generate a static website to host all &amp;ndash; well, most &amp;ndash; of my writing. Jekyll, I&amp;rsquo;ve learned, is a different beast from most applications used for these purposes. I&amp;rsquo;ve found several themes that I really liked, but they all had some sort of quirks that made them less easy to use. I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong in the same sentence.</description>
+    </item>
+    
+    <item>
+      <title>Blogging with Jekyll</title>
+      <link>http://bashblog.local/posts/blogging-with-jekyll/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/blogging-with-jekyll/</guid>
+      <description>Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a blog. I enjoy writing and figured it would be a good way not only to practice the skill, but to share my thoughts with others. I don&amp;rsquo;t really care whether anyone reads my work, to be honest; I just want to write. The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want to be able to keep my files and refer back to them from time to time &amp;ndash; something of a journal (which is what the blog was originally conceived to be).</description>
+    </item>
+    
+  </channel>
+</rss>

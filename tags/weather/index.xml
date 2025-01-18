@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weather on Kevin&#39;s corner of the web</title>
+    <link>http://bashblog.local/tags/weather/</link>
+    <description>Recent content in weather on Kevin&#39;s corner of the web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Sat, 04 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://bashblog.local/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weewx on the Raspberry PI</title>
+      <link>http://bashblog.local/posts/weewx-on-the-raspberry-pi/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/weewx-on-the-raspberry-pi/</guid>
+      <description>I&amp;rsquo;ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&amp;rsquo;d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn&amp;rsquo;t do all that I had hoped. It wasn&amp;rsquo;t the device&amp;rsquo;s fault; the software just didn&amp;rsquo;t quite match up with my particular use case.</description>
+    </item>
+    
+    <item>
+      <title>Changes in my Weather Station</title>
+      <link>http://bashblog.local/posts/changes-in-my-weather-station/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/changes-in-my-weather-station/</guid>
+      <description>For the past 8 years I&amp;rsquo;ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn&amp;rsquo;t use a lot of power, perhaps 25 W, but if I could do better, I would.</description>
+    </item>
+    
+  </channel>
+</rss>

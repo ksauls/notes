@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curiosity on Kevin&#39;s corner of the web</title>
+    <link>http://localhost:1313/ksauls/hugo/tags/curiosity/</link>
+    <description>Recent content in Curiosity on Kevin&#39;s corner of the web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ksauls/hugo/tags/curiosity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review - A Curious Mind</title>
+      <link>http://localhost:1313/ksauls/hugo/book_reviews/book-review-a-curious-mind/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/book_reviews/book-review-a-curious-mind/</guid>
+      <description>A Curious Mind I am, and have always been, a curious person so when I saw this book at the book store I had no choice but to select it.&#xA;Curiosity is a driving force that pushes us to learn more, understand more, and to find or create new things. Curiosity is also the foundation for creativity, which is the premise for Brian Grazer&amp;rsquo;s book, &amp;ldquo;A Curious Mind&amp;rdquo;.&#xA;If the name sound familiar, but you can&amp;rsquo;t quite nail down his name, Brian is the producer of many hit movies, including Splash, Apollo 13, Friday Night Lights, and A Beautiful Life among many others.</description>
+    </item>
+  </channel>
+</rss>

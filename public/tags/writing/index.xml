@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Kevin&#39;s corner of the web</title>
+    <link>http://localhost:1313/ksauls/hugo/tags/writing/</link>
+    <description>Recent content in Writing on Kevin&#39;s corner of the web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ksauls/hugo/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Power of Curiosity</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/the-power-of-curiosity/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/the-power-of-curiosity/</guid>
+      <description>The Power of Curiosity I have always been a curious person. I&amp;rsquo;m the kid that took toys apart to see how they worked (and was sometimes able to put them back together again, too!) I was the kid that enjoyed reading the WorldBook Encyclopedia because, well, just because. Learning about different stuff fascinated me. Even as a very small child I was curious. My mother used to tell the story of the time when I was maybe 3 or 4 years old and came in crying because my eyes were filled with sand.</description>
+    </item>
+    <item>
+      <title>Blogging with Jekyll</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</guid>
+      <description>Blogging with Jekyll Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a blog. I enjoy writing and figured it would be a good way not only to practice the skill, but to share my thoughts with others. I don&amp;rsquo;t really care whether anyone reads my work, to be honest; I just want to write. The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want to be able to keep my files and refer back to them from time to time &amp;ndash; something of a journal (which is what the blog was originally conceived to be).</description>
+    </item>
+  </channel>
+</rss>

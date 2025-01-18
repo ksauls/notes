@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal finance on Kevin&#39;s corner of the web</title>
+    <link>http://bashblog.local/tags/personal-finance/</link>
+    <description>Recent content in personal finance on Kevin&#39;s corner of the web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://bashblog.local/tags/personal-finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Think Crypto is Stupid</title>
+      <link>http://bashblog.local/posts/why-i-think-crypto-is-stupid/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/why-i-think-crypto-is-stupid/</guid>
+      <description>I recently read an article on Wired about Faruk Ozer, The CEO of Turkey&amp;rsquo;s biggest Cryptocurrency business. That article outlines how tens of thousands of Turkish people were victims of Ozer&amp;rsquo;s theft of their crypto wallets and all of their assets. The thing that stood out to me is how easy it was for him to simply download their accounts onto a thumb drive and be off with their money. In the wake of the crypto crimes of Sam Bankman-Fried (FTX) and ChangpengZhao (Binance) I fail to understand why anyone would trust their financial assets and future to something so easily stolen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/ksauls/hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=ksauls/hugo/livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Changes in my Weather Station | Kevin&#39;s corner of the web</title>
+<meta name="title" content="Changes in my Weather Station" />
+<meta name="description" content="Changes in my Weather Station For the past 8 years I&rsquo;ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn&rsquo;t use a lot of power, perhaps 25 W, but if I could do better, I would." />
+<meta name="keywords" content="weather," />
+
+
+<meta property="og:url" content="http://localhost:1313/ksauls/hugo/posts/changes-in-my-weather-station/">
+  <meta property="og:site_name" content="Kevin&#39;s corner of the web">
+  <meta property="og:title" content="Changes in my Weather Station">
+  <meta property="og:description" content="Changes in my Weather Station For the past 8 years I’ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn’t use a lot of power, perhaps 25 W, but if I could do better, I would.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2017-11-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2017-11-01T00:00:00+00:00">
+    <meta property="article:tag" content="Weather">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Changes in my Weather Station">
+  <meta name="twitter:description" content="Changes in my Weather Station For the past 8 years I’ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn’t use a lot of power, perhaps 25 W, but if I could do better, I would.">
+
+
+
+
+  <meta itemprop="name" content="Changes in my Weather Station">
+  <meta itemprop="description" content="Changes in my Weather Station For the past 8 years I’ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn’t use a lot of power, perhaps 25 W, but if I could do better, I would.">
+  <meta itemprop="datePublished" content="2017-11-01T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2017-11-01T00:00:00+00:00">
+  <meta itemprop="wordCount" content="441">
+  <meta itemprop="keywords" content="Weather">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: monospace;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 2.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+    font-size: 18px;  
+}
+
+  textarea {
+    width: 100%;
+    font-size: 24px;
+  }
+
+  input {
+    font-size: 24px;
+  }
+
+  content {
+    line-height: 2;
+    font-size: 16px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+.footnotes {
+  font-size: small;
+}
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/ksauls/hugo/" class="title">
+  <h2>Kevin&#39;s corner of the web</h2>
+</a>
+<nav><a href="/ksauls/hugo/">Home</a>
+
+<a href="/ksauls/hugo/posts/">Posts</a>
+
+<a href="/ksauls/hugo/book_reviews/">Book Reviews</a>
+
+<a href="/ksauls/hugo/projects/">Projects</a>
+
+<a href="/ksauls/hugo/tags/">tags</a>
+
+<a href="/ksauls/hugo/categories/">categories</a>
+
+<a href="/ksauls/hugo/about/">About</a>
+
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <h1 id="changes-in-my-weather-station">Changes in my Weather Station</h1>
+<p>For the past 8 years I&rsquo;ve managed a personal weather station consisting of a
+Davis Vantagse Pro and a Windows computer running the excellent Weather Display
+software.  Last December I decided that the inexpensive computer I was running
+the scripts on may well be coming to its end-of-life and went looking for
+alternatives. Another goal of this move was to lower my cost of operations.  The
+Jetway computer I was running didn&rsquo;t use a lot of power, perhaps 25 W, but if I
+could do better, I would. After all, at 25 watts, that&rsquo;s about 219 kW or $26.25
+annually.  With the growth of small computers such as the Raspberry Pi, I knew I
+could do better. <!-- raw HTML omitted --></p>
+<p>After some mucking around, I found Meteobridge.  Meteobridge is software that
+gets flashed onto a TP-Link TL-3060Mr (and some other similar devices).  While
+not nearly as full-featured as Weather Display,  the Meteobridge software works
+well and sends the data to my website without problems.  Best of all, the total
+price was about $100 and will use about 0.6 W, that&rsquo;s about 5.256 kW or a
+whopping 63 cents per year!  The whole shebang will pay for it self in about 3.5
+years.  Sweet!</p>
+<p>But the Meteobridge has a couple of caveats.  One is that it doesn&rsquo;t store data,
+so a separate device is needed for that (it does have the ability to save to a
+mysql database hosted elsewhere). Nor does it generate the NOAA style reports
+that are needed for some of the calculations and webpages that I generate (for
+example, the freeze data &ndash; first and last freeze dates for the year, number of
+days below freezing, etc). Another caveat is that the updates are available only
+for two years, then you have to buy an update license.  Having not had to do
+that yet, I don&rsquo;t know the cost.  Perhaps another caveat is that the product is
+dependent on the Meteobridge server.  The OS is not actually stored on the
+device but is downloaded each time the server reboots. Now, my server has run
+for as many as 133 days without a hiccup, so that doesn&rsquo;t happen often. But it
+could.  This can be mitigated by including a USB stick on the device so that the
+data are saved, together with a copy of software for those eventualities when
+the MB server isn&rsquo;t available. Good to know!</p>
+<p>So, for now, I&rsquo;m sticking with the Meteobridge.  Overall, I like it and have
+found workarounds to the issues that have cropped up.  One of those is the
+Raspberry Pi and weewx.  I&rsquo;ll deal with that in another post.</p>
+
+</content>
+<p>
+  
+  <a href="http://localhost:1313/ksauls/hugo/tags/weather/">#Weather</a>
+  
+</p>
+
+  </main>
+  <footer>© 2024 - Kevin Sauls ||
+Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

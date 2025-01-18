@@ -1,0 +1,33 @@
+---
+title: 'Why Do People Use Chromeos'
+date: 2024-06-10
+tags:
+ - technology
+---
+# Why Do People Use ChromeOS?
+
+It seems like people have jumping on the ChromeOS bandwagon in droves since the first Chromebooks debuted in 2011.  The draw, as I understand it, was that the laptops were small and inexpensive and required little knowledge of computing.  Boot it up, create a Google account (if you didn't already have one), and go.  Schools and even businesses bought into the ecosystem quickly.  Today many schools are almost entirely connected using Chromebooks and often students are given a Chromebook for them to take home and use.
+
+And I don't understand it.
+
+Way back in the day, before personal computers were a thing, computers were generally mainframes that individual users accessed via a dumb terminal or thin client.  Little to no actual processing occurred on the terminal and nothing was stored locally.  According to [Wikipedia](https://en.wikipedia.org/wiki/ChromeOS) this was also the model used for the original ChromeOS -- the laptop was nothing more than a thin client that connected the server using a traditional server-client model.  While that model has evolved over time, the reality is that it is still, by and large, a client-sever model where most of the computing activity and storage occurs.  For a time, Google encouraged developers to create apps that would run on the limited OS. However, that activity has subsided and the move now is to "Web Applications" where everything is through the web.  
+
+Now, to be fair, if a user's primary need for a computer is to surf the web, check email, and write an occasional document, ChromeOS is fine.  Google's office suite is not bad and is, for most people, quite sufficient. Where I start running into problems is with the limitations of web apps, the ridiculous cost of the hardware relative to what it provides, and privacy.
+
+Let's talk, first, about the hardware.  ChromeOS requires little processing power on the user's end.  Generally speaking, it only needs to generate a webpage. This uses very little processing power.  Even with web apps that are heavily weighed down with JavaScript neither processing power nor memory are issues. Even the most minimal computer should easily be able to handle the load.  Yet, a quick visit to Best Buy shows that Chromebooks range in price from $169 US to $699 US.  Those higher end machines tend to have specs that simply aren't needed for ChromeOS.  What gives?  I mean, do you really need an Intel i5 Ultra processor with 8 GB ram and a 256GB hard drive on a device that does almost all of its work in a browser and saves the results of that work in the cloud?
+
+Now, in fairness, those machines apparently are designed to run not just ChromeOS but to also allow you to run Linux apps on the device, though you have to jump through some hoops to make that happen.  Once upon a time more processing power, more memory, and more storage was a good thing, particularly when using Microsoft Windows.  But that is not really needed with Chrome.  It seems that manufacturers recognized that the "more, more, more" mindset still influences user's buying decisions and so are building and selling machines that simply don't need that much capacity but which generate more revenue for them.
+
+Another concern I have with ChromeOS is that all Chrome devices have an expiration date.  That's right.  Depending on the [machine](https://support.google.com/chrome/a/answer/6220366?hl=en) ChromeOS will no longer receive updates for the OS.  That means that, among other things, while Google touts the security benefits of the OS, once that device has expired it will no longer get that benefit. Now, you might argue that Microsoft and Apple do the same thing and, to some degree, that is true.  But if I buy a new Windows computer two months before a new version of the OS comes out, I can generally upgrade my OS to that new version for free and I will then have the same benefits of every other user of the new version.  That has generally been true of Mac, as well, so long as they don't change the actual hardware (e.g. moving from Intel to their own silicon).  But, if I unknowingly buy a Chromebook that expires in three months, well, I'm just SOL.
+
+And, maybe I'm wrong, but I don't really see why that is necessary given that you're talking about an OS that runs little more than a web browser.  Just seems very arbitrary to me.
+
+Now, let's move on to another area that I'm just scratching my head over.
+
+A few years ago the school system that my wife worked for moved to Chromebooks.  Their rational was that it was training students in the use of technology so that they are better positioned to transfer those skills into the workforce. Huh?  By far the majority of businesses rely on Microsoft Office products to conduct business.  Microsoft Office does not run on Chromebooks, so are you really teaching students how to be successful in that environment?  And, what about teaching programming?  It ain't happening on a Chromebook!  The OS simply doesn't provide the environment for proper programming.  
+
+It's important, too, to remember that everything you do on a Chromebook is sent to Google.  All of your Documents are stored in their cloud.  While they *claim* to be a highly secure environment, [I'm not so sure](../i-dont-trust-gmail-heres-why).  Do you really want your financials and health information stored on Google's servers?  
+
+Now, stop and think about this for just a minute.  You buy, let's say, that $169 chromebook from Best Buy, you create a google account and then begin using their OS and their storage for all their documents.  According to [Google](https://blog.google/outreach-initiatives/education/chromebook-plus-education/#:~:text=Chromebooks%20are%20used%20by%2050,research%20centers%20and%20collaboration%20hubs.) some 50 MILLION students use chromebooks.  That is a TON of storage and a TON of bandwidth that is needed to support those users. And that doesn't include the millions of other business  and individual users.  And yet, there is no cost for that service. No business is going to give away that much of their resources for free.  So, how does Google benefit from this?  I don't have a definitive answer but I have my suspicions. And I'll bet they're the same as yours.
+
+So, I come back to, "why do people use ChromeOS".  I tried it briefly but didn't find it terribly useful so, for me, I'll stick with my Mac, Linux, and BSD machines where I can actually do what I want to do, my way (generally) without the arbitrary limitations of web apps.

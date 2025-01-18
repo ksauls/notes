@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Kevin&#39;s corner of the web</title>
+    <link>http://localhost:1313/ksauls/hugo/categories/technology/</link>
+    <description>Recent content in Technology on Kevin&#39;s corner of the web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ksauls/hugo/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revisiting WordStar</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/revisiting-wordstar/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/revisiting-wordstar/</guid>
+      <description>Revisiting WordStar A day or so ago I ran across an article where science fiction writer Robert J. Sawyer had released his version of WordStar 7.0 for DOS, noting that it is now abandonware and, thus, he felt comfortable releasing it into the wild. What was interesting was that, as he noted, not only he, but several other quite successful writers had developed quite an affinity for the ancient software that ran on a long outdated operating system.</description>
+    </item>
+    <item>
+      <title>PlainText Preferences</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/plaintext-preference/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/plaintext-preference/</guid>
+      <description>PlainText Preferences Over the last ten years there have been a couple of preferences that have driven many of my technology decisions. One is a preference for using plain text rather than proprietary software. The other is a preference for flat files over databases.&#xA;Let&amp;rsquo;s Talk about Plain Text My move toward plain text came about for several reasons.&#xA;First, I just wanted to take notes that I could quickly create and reference as needed.</description>
+    </item>
+    <item>
+      <title>My Technology</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/my-technology/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/my-technology/</guid>
+      <description>My Technology A common discussion in any of the technology forums is which platform is better. Some argue that Windows is best, others that Mac is and others, still, argue that Linux beats them all. What is my take? Well&amp;hellip; it depends.&#xA;###I am Operating System Agnostic&#xA;Truly, I am. I have all three operating systems in use in my home as I write this.&#xA;I started my technology back in 1984 or 1985 with a Commodore 128.</description>
+    </item>
+  </channel>
+</rss>

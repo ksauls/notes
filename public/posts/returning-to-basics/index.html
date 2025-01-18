@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/ksauls/hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=ksauls/hugo/livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Returning to Basics | Kevin&#39;s corner of the web</title>
+<meta name="title" content="Returning to Basics" />
+<meta name="description" content="Returning to Basics The title of this blog is iamcuri.us. That title was chosen to reflect the many and sundry interests that I have and the drive I have to explore new ideas and to learn new things. While I think some of my posts here have reflected that, others seems to skew in specific directions that seem to narrow the focus on the blog. Maybe I&rsquo;m wrong. Maybe the posts that outline my tinkering in websites and self-hosting do reflect my questioning and exploring and learning." />
+<meta name="keywords" content="general thoughts,education," />
+
+
+<meta property="og:url" content="http://localhost:1313/ksauls/hugo/posts/returning-to-basics/">
+  <meta property="og:site_name" content="Kevin&#39;s corner of the web">
+  <meta property="og:title" content="Returning to Basics">
+  <meta property="og:description" content="Returning to Basics The title of this blog is iamcuri.us. That title was chosen to reflect the many and sundry interests that I have and the drive I have to explore new ideas and to learn new things. While I think some of my posts here have reflected that, others seems to skew in specific directions that seem to narrow the focus on the blog. Maybe I’m wrong. Maybe the posts that outline my tinkering in websites and self-hosting do reflect my questioning and exploring and learning.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2021-11-12T00:00:00+00:00">
+    <meta property="article:modified_time" content="2021-11-12T00:00:00+00:00">
+    <meta property="article:tag" content="General Thoughts">
+    <meta property="article:tag" content="Education">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Returning to Basics">
+  <meta name="twitter:description" content="Returning to Basics The title of this blog is iamcuri.us. That title was chosen to reflect the many and sundry interests that I have and the drive I have to explore new ideas and to learn new things. While I think some of my posts here have reflected that, others seems to skew in specific directions that seem to narrow the focus on the blog. Maybe I’m wrong. Maybe the posts that outline my tinkering in websites and self-hosting do reflect my questioning and exploring and learning.">
+
+
+
+
+  <meta itemprop="name" content="Returning to Basics">
+  <meta itemprop="description" content="Returning to Basics The title of this blog is iamcuri.us. That title was chosen to reflect the many and sundry interests that I have and the drive I have to explore new ideas and to learn new things. While I think some of my posts here have reflected that, others seems to skew in specific directions that seem to narrow the focus on the blog. Maybe I’m wrong. Maybe the posts that outline my tinkering in websites and self-hosting do reflect my questioning and exploring and learning.">
+  <meta itemprop="datePublished" content="2021-11-12T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2021-11-12T00:00:00+00:00">
+  <meta itemprop="wordCount" content="935">
+  <meta itemprop="keywords" content="General Thoughts,Education">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: monospace;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 2.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+    font-size: 18px;  
+}
+
+  textarea {
+    width: 100%;
+    font-size: 24px;
+  }
+
+  input {
+    font-size: 24px;
+  }
+
+  content {
+    line-height: 2;
+    font-size: 16px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+.footnotes {
+  font-size: small;
+}
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/ksauls/hugo/" class="title">
+  <h2>Kevin&#39;s corner of the web</h2>
+</a>
+<nav><a href="/ksauls/hugo/">Home</a>
+
+<a href="/ksauls/hugo/posts/">Posts</a>
+
+<a href="/ksauls/hugo/book_reviews/">Book Reviews</a>
+
+<a href="/ksauls/hugo/projects/">Projects</a>
+
+<a href="/ksauls/hugo/tags/">tags</a>
+
+<a href="/ksauls/hugo/categories/">categories</a>
+
+<a href="/ksauls/hugo/about/">About</a>
+
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <h1 id="returning-to-basics">Returning to Basics</h1>
+<p>The title of this blog is iamcuri.us.  That title was chosen to reflect the many and sundry interests that I have and the drive I have to explore new ideas and to learn new things.  While I think some of my posts here have reflected that, others seems to skew in specific directions that seem to narrow the focus on the blog.  Maybe I&rsquo;m wrong.  Maybe the posts that outline my tinkering in websites and self-hosting do reflect my questioning and exploring and learning. Still, I think that it&rsquo;s time I pushed into some new areas a<!-- raw HTML omitted -->nd revisit in more detail some old areas, too.</p>
+<h3 id="philosopy">Philosopy</h3>
+<p>My first real introduction to philosophy was through my doctoral program.  In fact, the introduction to the topic was a bit abrupt and jarring.  The very first class in my doctoral program was in the philosophy of science course. To say it was bewildering was an understatement.  The lectures were interesting, though I can&rsquo;t say that I understood a great deal of them.  The readings, likewise, were challenging. Still, I persisted and managed to do fairly well in the course, even while feeling I had no idea what it was all about.</p>
+<p>Fast forward a couple of years and I became interested in the concepts of critical thinking.  Now, thinking is a core aspect of philosophy so if I was to gain any understanding of critical thinking I realized I would need to get a better handle on philosophy.  In fits and starts I&rsquo;ve been adding to my understanding by reading, somewhat haphazardly, the writings of various philosophers, notably the ancient ones such as Plato, Aristotle, and the like but also some more recent ones such as Kuhn, Popper, and Watts.  But my approach was disjointed and I didn&rsquo;t feel like I was building the proper foundation.  What I needed was a structured approach to learning more about philosophy.  But, where to start? What are the best first readings?  How do I layer my learning so that I build on prior learning without jumping into the deep end of the pool and feeling totally lost?</p>
+<p>I think I&rsquo;ve found a way.</p>
+<h3 id="physics">Physics</h3>
+<p>As I&rsquo;ve expanded my reading on a variety of topics over the last several years, one topic that keeps coming up in various ways is that of physics.  I know nothing of physics, though I do find the articles I&rsquo;ve read on topics related to physics interesting and I&rsquo;ve found myself wanting to know more.  As with philosophy, though, the question was where to begin.  Physics is a huge and confusing field.  Would a &ldquo;dummies&rdquo; book benefit me?  I didn&rsquo;t know.</p>
+<p>Recently, while reading <em>The Structure of Science</em> by Thomas Kuhn.  Kuhn was a physicist by training who stumbled into the history of science and later into the philosphy of science. That transition actually made sense to me.  But, in reading that essay I was struck by the broad range of topics in which Kuhn seemed to be conversant. Ponder this, of course, I realized that his background in the history of science required him to understand the basics of the broad range of concepts that constitute &ldquo;science&rdquo;. I also realized that his background in physics seemed to provide him a particularly sound starting point for mastering these other topics.</p>
+<p>So I&rsquo;ve set my cap to learning a bit more about physics (In fact, I did this about four years ago but never acted on it.)  How to begin.</p>
+<h3 id="a-path-forward">A Path Forward</h3>
+<p>While searching for some hints on how to begin teaching myself physics, quite by accident I ran across an article by Susan Fleming entitled, &ldquo;<a href="https://www.susanjfowler.com/blog/2016/8/26/from-the-fledgling-physicist-archives-if-susan-can-learn-physics-so-can-you%22">If Susan Can Learn Physics, So Can You</a>.  This blog post laid out, step-by-step, a course of study that reflected a bachelor&rsquo;s degree in physics.  Now, I really don&rsquo;t care to get <em>that</em> deep into it (or maybe I do), but at least she gave me a starting point.</p>
+<p>But, as they say on TV, &ldquo;But Wait!  There&rsquo;s More!&rdquo;  Ms. Fleming is now Mrs. Rigetti and she has changed her website, but provided follow up post for a bachelor&rsquo;s degree in philosopy entitled, <a href="https://www.susanrigetti.com/philosophy">So You Want to Learn Philosopy &hellip;</a>.  She was the answer to my dreams!  How did it come to be that she was able to do this?  I briefly read her bio and it seems she was a philosphy major who, with no prior experience in physics and little mathematical background, was cajoled by college advisor to take physics as an elective.  I&rsquo;ll let you follow the two links to her sites to get the lowdown on her path to two majors.</p>
+<h3 id="the-road-map">The Road Map</h3>
+<p>So, now I have two paths to follow.  How to proceed.  My plan, perhaps foolish as it might be, is to begin with philosophy. I intend to follow, as closely as possible the curriculum she has laid out for that domain.  I figure two years to get through it all.</p>
+<p>Then, because I&rsquo;m really a glutton for punishment, I&rsquo;ll tackle the physics curriculum.  That&rsquo;s at least another two years.</p>
+<p>Now, let&rsquo;s be honest about something: I have no intentions of ever using the knowledge gained for anything other than self edification.  I do not aspire to by a &lsquo;Philosopher&rsquo; (though I suspect most everyone becomes one at some point in time) and I certainly do not expect to make a career or even get a job in physics.  But, having the knowledge, being able to understand just a little better some of the topics that seem so esoteric to me, at the moment seems worth the time.</p>
+<p>Wish me luck!</p>
+
+</content>
+<p>
+  
+  <a href="http://localhost:1313/ksauls/hugo/tags/general-thoughts/">#General Thoughts</a>
+  
+  <a href="http://localhost:1313/ksauls/hugo/tags/education/">#Education</a>
+  
+</p>
+
+  </main>
+  <footer>© 2024 - Kevin Sauls ||
+Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

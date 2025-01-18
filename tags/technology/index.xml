@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Kevin&#39;s corner of the web</title>
+    <link>http://bashblog.local/tags/technology/</link>
+    <description>Recent content in technology on Kevin&#39;s corner of the web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://bashblog.local/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Wife Always Wanted to Marry a Pilot</title>
+      <link>http://bashblog.local/posts/my-wife-always-wanted-to-marry-a-pilot/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/my-wife-always-wanted-to-marry-a-pilot/</guid>
+      <description>A Bit of Background I became interested in drones in the spring of 2021. My wife was preparing to retire from her teaching gig and considering a new career in real estate. After 15 years in our relatively small town in the mountains of North Georgia, we were planning a move to a little larger town with fewer challenging hills and more conveniences. We were building a new home in our soon-to-be new town.</description>
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Trust Gmail. Here&#39;s Why</title>
+      <link>http://bashblog.local/posts/i-dont-trust-gmail-heres-why/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/i-dont-trust-gmail-heres-why/</guid>
+      <description>I have had an email address with Gmail for probably 20 years. I mean my email address is my name @ Gmail. No numbers, no weird abbreviations, no strange punctuations, just my firstnamelastname @gmail.com How long has it been since that was possible?
+Three or four years ago I began receiving emails to my address that were clearly intended for another person with my same name. Their email was literally my email address!</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud, OnlyOffice and the Like </title>
+      <link>http://bashblog.local/posts/nextcloud-onlyoffice-and-the-like/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/nextcloud-onlyoffice-and-the-like/</guid>
+      <description>Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.
+I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the</description>
+    </item>
+    
+    <item>
+      <title>Moving to a Self-Hosted Bookmarking Service</title>
+      <link>http://bashblog.local/posts/moving-to-a-self-hosted-bookmarking-service/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/moving-to-a-self-hosted-bookmarking-service/</guid>
+      <description>There&amp;rsquo;s a hint that bookmarks are going away. Services like Delicious that used to provide great web-based book marking services have closed down. In their place are the likes of Instapaper and Pinboard and the like that break stuff into different types. Instapaper to store sites that you want to read later, Pinterest for images you like, and so forth. That doesn&amp;rsquo;t work well for me, though. I want everything in one place.</description>
+    </item>
+    
+    <item>
+      <title>Technology For Its Own Sake</title>
+      <link>http://bashblog.local/posts/technology-for-its-own-sake/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/technology-for-its-own-sake/</guid>
+      <description>About eight years ago I spent a couple of years teaching high school. Being a nurse, and coming into the experience with no real educational background it was quite an interesting, and eye-opening experience. Needless to say, I probably learned more than my students did. One of the things that left me scratching my head was the approach the school system took toward education. Tons of money was spent on technology and teachers were required to have at least one “technology lesson” each week.</description>
+    </item>
+    
+    <item>
+      <title>The State of the MOOC</title>
+      <link>http://bashblog.local/posts/the-state-of-the-mooc/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/the-state-of-the-mooc/</guid>
+      <description>Two recent articles about Massive Open Online Courses(MOOC) got my attention this week.
+Fail? The first article brings to the fore the reality that only about 7% of those who start a MOOC course complete it. This is, of course, a major concern for educators, given that completion rates are the major metric for colleges. It is completely understandable that many would see that number and conclude that MOOCs are failing.</description>
+    </item>
+    
+  </channel>
+</rss>

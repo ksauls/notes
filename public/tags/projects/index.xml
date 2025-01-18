@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kevin&#39;s corner of the web</title>
+    <link>http://localhost:1313/ksauls/hugo/tags/projects/</link>
+    <description>Recent content in Projects on Kevin&#39;s corner of the web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ksauls/hugo/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving from Exchange to Zoho Mail</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/moving-from-exchange-to-zoho-mail/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/moving-from-exchange-to-zoho-mail/</guid>
+      <description>Moving from Exchange to Zoho Mail Somewhere back around 2011 or 2012 I moved from my ISP&amp;rsquo;s email service to Microsoft Office 365 Business plan that offered access to MS Exchange server. I had previously toyed with using Gmail&amp;rsquo;s services with my own domain name but didn&amp;rsquo;t find that it met my specific needs. Too, I really didn&amp;rsquo;t have a great love for Gmail.&#xA;My motivation for moving, as I recall now more than a dozen years later, is that I was starting my doctoral studies and needed to be able to coordinate more easily with classmates, access calendars and documents across multiple platforms, and generally have better control over my workflows.</description>
+    </item>
+    <item>
+      <title>My History with Self Hosting</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/my-history-with-self-hosting/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/my-history-with-self-hosting/</guid>
+      <description>My History with Self-Hosting My journey with Linux started in the summer of 2020 when I enrolled in an intensive course in IT designed for a specific ISP (which no longer exists). The course was provide through a state university in cooperation with that company and in conjunction with a state level push to encourage tech companies to settle in Georgia. I ended up not taking a job with that company.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/ksauls/hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=ksauls/hugo/livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Weewx on the Raspberry PI | Kevin&#39;s corner of the web</title>
+<meta name="title" content="Weewx on the Raspberry PI" />
+<meta name="description" content="Weewx on the Raspberry Pi I&rsquo;ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&rsquo;d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn&rsquo;t do all that I had hoped. It wasn&rsquo;t the device&rsquo;s fault; the software just didn&rsquo;t quite match up with my particular use case." />
+<meta name="keywords" content="weather," />
+
+
+<meta property="og:url" content="http://localhost:1313/ksauls/hugo/posts/weewx-on-the-raspberry-pi/">
+  <meta property="og:site_name" content="Kevin&#39;s corner of the web">
+  <meta property="og:title" content="Weewx on the Raspberry PI">
+  <meta property="og:description" content="Weewx on the Raspberry Pi I’ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I’d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn’t do all that I had hoped. It wasn’t the device’s fault; the software just didn’t quite match up with my particular use case.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2017-11-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2017-11-04T00:00:00+00:00">
+    <meta property="article:tag" content="Weather">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Weewx on the Raspberry PI">
+  <meta name="twitter:description" content="Weewx on the Raspberry Pi I’ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I’d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn’t do all that I had hoped. It wasn’t the device’s fault; the software just didn’t quite match up with my particular use case.">
+
+
+
+
+  <meta itemprop="name" content="Weewx on the Raspberry PI">
+  <meta itemprop="description" content="Weewx on the Raspberry Pi I’ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I’d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn’t do all that I had hoped. It wasn’t the device’s fault; the software just didn’t quite match up with my particular use case.">
+  <meta itemprop="datePublished" content="2017-11-04T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2017-11-04T00:00:00+00:00">
+  <meta itemprop="wordCount" content="381">
+  <meta itemprop="keywords" content="Weather">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: monospace;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 2.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+    font-size: 18px;  
+}
+
+  textarea {
+    width: 100%;
+    font-size: 24px;
+  }
+
+  input {
+    font-size: 24px;
+  }
+
+  content {
+    line-height: 2;
+    font-size: 16px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+.footnotes {
+  font-size: small;
+}
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/ksauls/hugo/" class="title">
+  <h2>Kevin&#39;s corner of the web</h2>
+</a>
+<nav><a href="/ksauls/hugo/">Home</a>
+
+<a href="/ksauls/hugo/posts/">Posts</a>
+
+<a href="/ksauls/hugo/book_reviews/">Book Reviews</a>
+
+<a href="/ksauls/hugo/projects/">Projects</a>
+
+<a href="/ksauls/hugo/tags/">tags</a>
+
+<a href="/ksauls/hugo/categories/">categories</a>
+
+<a href="/ksauls/hugo/about/">About</a>
+
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <h1 id="weewx-on-the-raspberry-pi">Weewx on the Raspberry Pi</h1>
+<p>I&rsquo;ve always loved gadgets.  When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&rsquo;d get one.  About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job.  While it works, it didn&rsquo;t do all that I had hoped.  It wasn&rsquo;t the device&rsquo;s fault; the software just didn&rsquo;t quite match up with my particular use case.  So, the device sat idle for a while.  5}</p>
+<!-- raw HTML omitted -->
+<p>Eventually, though, another use came along in the form of a VPN server for my internal network. For this I used the excellent <a href="http://softether.org">SoftEther VPN</a> software.  If you have need for a VPN server to access your internal network, I strongly recommend this software.</p>
+<p>Along the way, though, other uses for the little device began to emerge.  One
+such use is to provide some of the weather data that I couldn&rsquo;t provide via my
+<a href="http://www.meteobridge.com/wiki/index.php/Home">Meteobridge</a> device as I
+outlined in <a href="../changes-in-my-weather-station">this post</a>.</p>
+<p>While the Meteobridge device could provide almost all of the data I needed to serve the weather website, it cannot generate NOAA-type files in order to feed some of the scripts I run on my website. So, I started looking for alternatives.   In keeping with my motivation for moving to the Meteobridge, I didn&rsquo;t want to have to run a Windows machine. Rather,  I wanted another small, low-power device.  the RPI came to mind.  After doing some digging around I discovered <a href="http://weewx.com">weewx</a>, an opensource software that did exactly what I wanted.</p>
+<p>In truth, the RPI running weewx can do everything that the Meteobridge can do
+and a whole lot more.  Had I started a bit earlier, I might have chosen to use
+only weewx rather than Meteobridge. I believe that the Meoteobridge license
+comes up for renewall in a year or so.  I may chose to drop it in favor of
+Weewx.</p>
+<p>The one thing holdimg me back, though, will be the really nice imaging that
+Meteobridge provides for webcams.  I do have a webcam that I include on my
+website.  Having that really nice, clean banner across the bottom of the image
+makes for a very nice looking presentation.</p>
+<p>I guess I&rsquo;ll have to ponder that one a while!</p>
+
+</content>
+<p>
+  
+  <a href="http://localhost:1313/ksauls/hugo/tags/weather/">#Weather</a>
+  
+</p>
+
+  </main>
+  <footer>© 2024 - Kevin Sauls ||
+Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

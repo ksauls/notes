@@ -1,0 +1,30 @@
+---
+title: 'Using the Right Tool for the Job'
+date: 2024-07-01
+categories:
+  - general
+tags:
+  - technology
+---
+# Using the Right Tool for the Job
+Back in the late 1980's, when I first began working with computers, there were a fairly wide variety of devices and OSes from which to choose.  TRS-80, Commodore (I had the C-128), MS-Dos based PCs, Apple, Amiga, and so on.  The challenge was to determine which device worked best for your intended use.  DOS based PCs were best for office type work, Apple was the choice if you were doing multimedia, Amiga for gaming, etc.  While you *could* do anything on most of those devices, each had particular strengths and weaknesses.  The question you faced in making a purchase was, "which device is best for what I want to do?"  
+
+I'm sure there were folks who asked why a particular device didn't do "such-and-so" but, for the most part, it was understood that different platforms had different options. Despite having been adopted by businesses early on (Thanks, IBM) the MS-DOS PC didn't have a spreadsheet program.  The first spreadsheet, VisiCalc, was introduced on the Apple, so if a business wanted to leverage that application, they invested in an Apple machine, they didn't carp about VisiCalc not being available on the PC.  
+
+Today the industry has pretty well consolidated in a way that blurs the lines between the various devices and their OSes.  Many of the manufacturers of computers have evaporated and their OSes have disappeared.  What remains are really three major  players (Windows, Mac OS, and Linux) and one minor player (BSD), along with a few "also rans" (Haiku, BeOS, etc). These are centered around two primary hardware platforms -- Apple, and everything else.
+
+I work primarily with Mac OS, though I also have numerous Linux and even BSD machines.  Linux and BSD are used for what they're best suited for -- servers. My Mac OS devices are my daily drivers and what I use for web browsing, email, writing, tracking finances, etc. The Mac is also what I do video and photo editing on. That's not to say that I don't do Linux (or BSD) desktop -- I do.  I just don't currently use those desktops regularly. And the reason is rather mundane: the M2 Mac Mini is what sits on my desktop and my Intel Macbook Air (2020 model) is what lives in the living room for quick browsing when I'm not at my desk.
+
+I do own a Windows 10 device, though it generally sits on a shelf, waiting to be turned on for those rare occasions when I have no other option because the software I need is only available on Windows (PlayOn TV, for example).   Maybe I'll discuss my reasons for avoiding Windows at some later date. Or not.
+
+As I noted in an earlier post I have begun exploring FreeBSD.  Anytime you're learning a new system, program, service, etc. you tend to peruse the forums and message boards for hints, tips, and answers to specific issues you encounter.  One of the topics that seems to come up frequently, not only on the BSD boards, but Linux, as well, is why a particular OS doesn't support a particular device (wireless, printer, whatever) or piece of software.  There are folks that seem to think that Adobe ought to be available on Linux. Or Microsoft Office.  Or whatever specific piece of software they want.  And it's a whine that I don't understand.
+
+One of the complaints I've read about FreeBSD is that it lacks certain "vital" pieces of software.  Of course what is "vital" to you may not be vital to me, so that whole complaint is a bit subjective. But, from what I've read there are some 28,000 programs available for FreeBSD.  Surely there's a program in that bunch that will meet your needs.  Now, I admit that my needs are not that big, but I have had no problem locating and installing every application I need to do my daily work in either the packages or ports for FreeBSD. Scanning the ports lists, I am absolutely astonished at the wide range of applications that are available, including quite a few that I would consider rather arcane.
+
+I've seen the same complaint levied against various Linux distributions, along with complaints of difficulty in installing them.  These complaints generally come, it seems to me, from folks that are trying to move from Windows to Linux and expecting the exact same experience.  Reminds me of those House Hunter International folks that move from the US to Lithuania for the "experience" then complain that housing in Vilnius (the capital of Lithuania) is not the same as in the US.  The kitchen is smaller, the rooms are smaller, there is no oven, there's no expansive yard, etc.  When you move to a different country, you should expect significant differences in how the people in your new home live and what conveniences are available.  That's the experience you came to have. When you move to a different OS you should expect differences in how the systems work and what software is available.  If there were no differences then there would be no reason to move. 
+
+And that kind of brings me back to my topic. If you're wanting to get work done, you choose the best tool for the job.  You might be able to drive a nail in with a screwdriver, but it won't be easy and it won't be pretty.  You might be able to get your work done in Linux, but if your work relies on some specific software which is not available in Linux, then Linux is not the best tool for the job.  Stick with Windows.  Don't whine that the Windows-only application "W"[^1] is not available in Linux.  Stick with Windows.
+
+Now, if you're curious about Linux and want to see what applications are available or what Linux (or BSD) applications might be acceptable alternatives to Windows applications, by all means install and explore Linux (or BSD). Take your time. Explore widely and deeply.  You might just find that there is an alternative that is as good as, and perhaps better than, the Windows version.  Then you can jump out of Windows and into something more interesting, more challenging, and more fun.
+
+[^1]: I was gonna us "X" but since that's now the new name of Twitter, the argument didn't make sense.

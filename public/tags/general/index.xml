@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Kevin&#39;s corner of the web</title>
+    <link>http://localhost:1313/ksauls/hugo/tags/general/</link>
+    <description>Recent content in General on Kevin&#39;s corner of the web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ksauls/hugo/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driving a Hybrid Pickup Truck</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/driving-a-hybrid-pickup-truck/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/driving-a-hybrid-pickup-truck/</guid>
+      <description>Driving a Hybrid Pickup Truck I drove a 2000 Ford Ranger for over 20 years. I loved that truck and basically just wore it out. I think when I finally sold it in 2021 I had put over 250K miles on it. But, alas, all good things come to an end and as it got longer in the tooth it began to have more problems, with their associated costs, than I was willing to deal with.</description>
+    </item>
+  </channel>
+</rss>

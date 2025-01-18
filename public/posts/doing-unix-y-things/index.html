@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/ksauls/hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=ksauls/hugo/livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Doing Unix-y Things | Kevin&#39;s corner of the web</title>
+<meta name="title" content="Doing Unix-y Things" />
+<meta name="description" content="Doing Unix-y Things In an earlier post I noted that my foray into Linux began when I started an intensive program in network administration, etc back in 2000. That&rsquo;s not precisely true. That course did not teach me anything about Linux. I don&rsquo;t even recall it being mentioned. What it did teach me was Unix. Sun Solaris Unix, to be precise, running on a Sun Sparc server (rest their souls). Linux came along a bit later." />
+<meta name="keywords" content="technology," />
+
+
+<meta property="og:url" content="http://localhost:1313/ksauls/hugo/posts/doing-unix-y-things/">
+  <meta property="og:site_name" content="Kevin&#39;s corner of the web">
+  <meta property="og:title" content="Doing Unix-y Things">
+  <meta property="og:description" content="Doing Unix-y Things In an earlier post I noted that my foray into Linux began when I started an intensive program in network administration, etc back in 2000. That’s not precisely true. That course did not teach me anything about Linux. I don’t even recall it being mentioned. What it did teach me was Unix. Sun Solaris Unix, to be precise, running on a Sun Sparc server (rest their souls). Linux came along a bit later.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-06-17T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-06-17T00:00:00+00:00">
+    <meta property="article:tag" content="Technology">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Doing Unix-y Things">
+  <meta name="twitter:description" content="Doing Unix-y Things In an earlier post I noted that my foray into Linux began when I started an intensive program in network administration, etc back in 2000. That’s not precisely true. That course did not teach me anything about Linux. I don’t even recall it being mentioned. What it did teach me was Unix. Sun Solaris Unix, to be precise, running on a Sun Sparc server (rest their souls). Linux came along a bit later.">
+
+
+
+
+  <meta itemprop="name" content="Doing Unix-y Things">
+  <meta itemprop="description" content="Doing Unix-y Things In an earlier post I noted that my foray into Linux began when I started an intensive program in network administration, etc back in 2000. That’s not precisely true. That course did not teach me anything about Linux. I don’t even recall it being mentioned. What it did teach me was Unix. Sun Solaris Unix, to be precise, running on a Sun Sparc server (rest their souls). Linux came along a bit later.">
+  <meta itemprop="datePublished" content="2024-06-17T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-06-17T00:00:00+00:00">
+  <meta itemprop="wordCount" content="1172">
+  <meta itemprop="keywords" content="Technology">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: monospace;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 2.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+    font-size: 18px;  
+}
+
+  textarea {
+    width: 100%;
+    font-size: 24px;
+  }
+
+  input {
+    font-size: 24px;
+  }
+
+  content {
+    line-height: 2;
+    font-size: 16px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+.footnotes {
+  font-size: small;
+}
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/ksauls/hugo/" class="title">
+  <h2>Kevin&#39;s corner of the web</h2>
+</a>
+<nav><a href="/ksauls/hugo/">Home</a>
+
+<a href="/ksauls/hugo/posts/">Posts</a>
+
+<a href="/ksauls/hugo/book_reviews/">Book Reviews</a>
+
+<a href="/ksauls/hugo/projects/">Projects</a>
+
+<a href="/ksauls/hugo/tags/">tags</a>
+
+<a href="/ksauls/hugo/categories/">categories</a>
+
+<a href="/ksauls/hugo/about/">About</a>
+
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <h1 id="doing-unix-y-things">Doing Unix-y Things</h1>
+<p>In an <a href="/ksauls/hugo/posts/my-history-with-self-hosting/">earlier post</a> I noted that my foray into Linux began when I started an intensive program in network administration, etc  back in 2000.  That&rsquo;s not precisely true.  That course did not teach me <em>anything</em> about Linux.  I don&rsquo;t even recall it being mentioned.  What it <em>did</em> teach me was Unix.  Sun Solaris Unix, to be precise, running on a Sun Sparc server (rest their souls). Linux came along a bit later.</p>
+<p>I remember, even today, our introduction to the commandline.  I don&rsquo;t really know why, but that black screen, devoid of anything other than a dollar sign and a blinking cursor reminded me of some bottomless pit.  It seemed the whole internet universe was opened up and I was staring into the abyss.  It was a weird feeling.  And, I got over it pretty quick. And I wanted more.</p>
+<p>I found that I was intrigued by Unix. The problem was Unix at that time was not cheap and required specific &ndash; and expensive &ndash; hardware. Now a couple of my classmates were rather competent at the commandline and introduced (I should say re-introduced) me to Linux. Unlike that time around 1995 when I got a Linux disk in some PC magazine, popped the floppy disk into the drive, fired up the computer and stared at a blank screen with no idea what to do next, this time I had some inkling of what to do at the commandline. In fact, I felt fairly confident in those unix-y things.</p>
+<p>So, for the next twenty or so years I&rsquo;ve bounced around the Linux world trying out various distros, figuring out how to do what I wanted to do, and how to make things happen.  I&rsquo;ve said a lot of bad words along the way and threw more than one item across the room in frustration. But I learned. And I continue to learn.  Sometimes I amaze myself at how much I&rsquo;ve learned. Am I an expert<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>? Not by any means. but, I&rsquo;m pretty damn confident in getting things done, or at least knowing where to look to get the answers. All that said, in truth, though, I&rsquo;ve mostly stumbled through my efforts to get a handle on Linux.</p>
+<p>Recently I revisited an old friend. Unix.  In the form of FreeBSD.  Now, to be legal, I must say that FreeBSD is not Unix.  It is Unix-like.  Why? <a href="https://www.opengroup.org/">The Open Group</a> owns the trademark to Unix. They set the standards and provide certification for Unix systems and, therefore, they get to say which systems can call themselves Unix. Systems, such as FreeBSD, which function almost identically to Unix (and that pretty much include Linux, too, I suppose) may say they&rsquo;re &ldquo;Unix-like&rdquo; but cannot use the actual title of Unix.  Potayto, potahto, in my view. I imagine there&rsquo;s some serious money mixed in there somewhere.</p>
+<p>The BSD experience is both quite familiar and quite different from the Linux experience.  It&rsquo;s familiar because much of the work is done at the commandline and the commands are generally the same.  On the other hand, there are generally fewer problems with getting software to work in BSD because the entire system is designed to work cohesively.  There&rsquo;s a handful of programmers that oversee the entire process and only software packages that are fully compliant with the overall design find their way into the ecosystem. BSD systems (yes, there are several) each have specific philosophical approaches and they adhere quite tightly to those approaches.  In short, they don&rsquo;t try to be everything to everybody. They try to tailor their systems to the needs of specific groups.</p>
+<p>Because BSDs are more focused, their individual markets are smaller which, in turn, means that fewer programs tend to be developed for a given system.  And this is where BSD really diverges from Linux.  Linux, being a more generalized system, and having thousands more users, has literally thousands of applications<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that will run on that platform (though not without significant issues at times, it must be noted).  And part of that is the draw of Linux. Versatility.</p>
+<p>Linux powers a lot of servers on the internet.  So does Unix.  In fact, some of the pretty big names on the internet, such as Netflix, use FreeBSD.  The challenge for me is that there are dozens of flavors of Linux, each with their unique take on what is important and how to go about getting things done.  That&rsquo;s not necessarily bad but it does make working on different systems a bit challenging.  And, at least from my point of view, doesn&rsquo;t really make a lot of sense.</p>
+<p>So, back to the topic at hand.  Why did I decide to revisit Unix?  I wanted to revisit those roots.  I wanted to recall what the true Unix experience is about. I wanted to add to my knowledge base and understanding of operating systems And, I was curious if I could run all the things I&rsquo;m now doing on my linux devices on a BSD system.  The jury is still out on that, by the way, as I&rsquo;m still learning and playing.</p>
+<p>Rather than take a fly-by-the-seat-of-my-pants, also known as a learn-by-screwing-up, approach I decided to actually take the time to learn, in a more or less systematic manner, the BSD system.  <a href="https://mwl.io">Michael W Lucas</a> has written a great book on FreeBSD called <em>Absolute FreeBSD</em>.  I have to admit that it is probably the single most easily read and digested tech books I&rsquo;ve seen. And I&rsquo;ve read a bunch of them.  I&rsquo;m only about half-way through the book at this point but already I have a much clearer understanding of a lot of concepts that I was aware of but didn&rsquo;t fully understand.  And, because both FreeBSD and Linux share that common Unix foundation, much (but not all) that I&rsquo;ve learned is transferable to the Linux environment.  I&rsquo;ll probably do a book review on this one when I&rsquo;m done.</p>
+<p>I like the Unix-y way of doing things.  I like the philosophy that underlies the BSDs. And, I like the knowledge that there are no corporate overlords looking for ways to squeeze more money out of my pocket.  I mean, I read recently that Microsoft is looking at including ads in the start menu. Seriously?  And, I like the fact that the data on my computer, sitting in my office, is confined to my office.  No one is trying to get me to store my data in the cloud (OneDrive, anyone? Oh, and Google, what can I say?)</p>
+<p>The BSDs are run by volunteers and not-for-profit organizations rather than corporations.  They are not out to make a gazillion dollars for their stockholders while screwing their customers. And they&rsquo;re not turning their customers into the product.</p>
+<p>And I kinda like all that.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Remind me sometime to tell you about my response to the question, &ldquo;do you consider yourself an expert&rdquo; as posed by one of my dissertation professors.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Do we <em>really</em> need all those thousands of applications?  How many of them are just tweaks to earlier programs?&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</content>
+<p>
+  
+  <a href="http://localhost:1313/ksauls/hugo/tags/technology/">#Technology</a>
+  
+</p>
+
+  </main>
+  <footer>© 2024 - Kevin Sauls ||
+Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

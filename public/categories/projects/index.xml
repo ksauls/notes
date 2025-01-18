@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kevin&#39;s corner of the web</title>
+    <link>http://localhost:1313/ksauls/hugo/categories/projects/</link>
+    <description>Recent content in Projects on Kevin&#39;s corner of the web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ksauls/hugo/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Wife Always Wanted to Marry a Pilot</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/my-wife-always-wanted-to-marry-a-pilot/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/my-wife-always-wanted-to-marry-a-pilot/</guid>
+      <description>My Wife Always Wanted to Marry a Pilot A Bit of Background I became interested in drones in the spring of 2021. My wife was preparing to retire from her teaching gig and considering a new career in real estate. After 15 years in our relatively small town in the mountains of North Georgia, we were planning a move to a little larger town with fewer challenging hills and more conveniences.</description>
+    </item>
+    <item>
+      <title>Updates on Technology Projects</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/updates-to-technology-projects/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/updates-to-technology-projects/</guid>
+      <description>Updates to Technology Projects I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&#xA;Nextcloud, OnlyOffice, and the Like Back in February I set up a Nextcloud server and incorporated OnlyOffice. The concepts are pretty cool, but I have abandoned both of those projects. In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice.</description>
+    </item>
+    <item>
+      <title>Nextcloud, OnlyOffice and the Like </title>
+      <link>http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/</guid>
+      <description>Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.&#xA;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the</description>
+    </item>
+    <item>
+      <title>Moving to a Self-Hosted Bookmarking Service</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/moving-to-a-self-hosted-bookmarking-service/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/moving-to-a-self-hosted-bookmarking-service/</guid>
+      <description>Moving to a Self-Hosted Bookmarking Service There&amp;rsquo;s a hint that bookmarks are going away. Services like Delicious that used to provide great web-based book marking services have closed down. In their place are the likes of Instapaper and Pinboard and the like that break stuff into different types. Instapaper to store sites that you want to read later, Pinterest for images you like, and so forth. That doesn&amp;rsquo;t work well for me, though.</description>
+    </item>
+    <item>
+      <title> Learning the Challenges of Jekyll</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/learning-the-challenges-of-jekyll/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/learning-the-challenges-of-jekyll/</guid>
+      <description>Learning the Challenges of Jekyll So a few days ago I decided to use Jekyll to generate a static website to host all &amp;ndash; well, most &amp;ndash; of my writing. Jekyll, I&amp;rsquo;ve learned, is a different beast from most applications used for these purposes. I&amp;rsquo;ve found several themes that I really liked, but they all had some sort of quirks that made them less easy to use. I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong in the same sentence.</description>
+    </item>
+    <item>
+      <title> Getting Started with Ham Radio</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/getting-started-with-ham-radio/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/getting-started-with-ham-radio/</guid>
+      <description>Getting Started with Ham Radio One of the goals on my bucket list has been getting my Ham radio license. I don&amp;rsquo;t remember, really, when it first landed on my list. I was a teen and it most likely was the result of some movie I saw or book I read that extolled the use and excitement of reaching out to the world through radio. The desire wasn&amp;rsquo;t helped, I&amp;rsquo;m sure, by having an uncle that got into it after he retired.</description>
+    </item>
+    <item>
+      <title>Weewx on the Raspberry PI</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/weewx-on-the-raspberry-pi/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/weewx-on-the-raspberry-pi/</guid>
+      <description>Weewx on the Raspberry Pi I&amp;rsquo;ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&amp;rsquo;d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn&amp;rsquo;t do all that I had hoped. It wasn&amp;rsquo;t the device&amp;rsquo;s fault; the software just didn&amp;rsquo;t quite match up with my particular use case.</description>
+    </item>
+    <item>
+      <title>Changes in my Weather Station</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/changes-in-my-weather-station/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/changes-in-my-weather-station/</guid>
+      <description>Changes in my Weather Station For the past 8 years I&amp;rsquo;ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn&amp;rsquo;t use a lot of power, perhaps 25 W, but if I could do better, I would.</description>
+    </item>
+    <item>
+      <title>Blogging with Jekyll</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</guid>
+      <description>Blogging with Jekyll Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a blog. I enjoy writing and figured it would be a good way not only to practice the skill, but to share my thoughts with others. I don&amp;rsquo;t really care whether anyone reads my work, to be honest; I just want to write. The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want to be able to keep my files and refer back to them from time to time &amp;ndash; something of a journal (which is what the blog was originally conceived to be).</description>
+    </item>
+    <item>
+      <title>Technology For Its Own Sake</title>
+      <link>http://localhost:1313/ksauls/hugo/posts/technology-for-its-own-sake/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ksauls/hugo/posts/technology-for-its-own-sake/</guid>
+      <description>Technology For It&amp;rsquo;s Own Sake About eight years ago I spent a couple of years teaching high school. Being a nurse, and coming into the experience with no real educational background it was quite an interesting, and eye-opening experience. Needless to say, I probably learned more than my students did. One of the things that left me scratching my head was the approach the school system took toward education. Tons of money was spent on technology and teachers were required to have at least one “technology lesson” each week.</description>
+    </item>
+  </channel>
+</rss>

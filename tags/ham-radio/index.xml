@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ham radio on Kevin&#39;s corner of the web</title>
+    <link>http://bashblog.local/tags/ham-radio/</link>
+    <description>Recent content in ham radio on Kevin&#39;s corner of the web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 - Kevin Sauls</copyright>
+    <lastBuildDate>Sun, 12 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://bashblog.local/tags/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Getting Started with Ham Radio</title>
+      <link>http://bashblog.local/posts/getting-started-with-ham-radio/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://bashblog.local/posts/getting-started-with-ham-radio/</guid>
+      <description>One of the goals on my bucket list has been getting my Ham radio license. I don&amp;rsquo;t remember, really, when it first landed on my list. I was a teen and it most likely was the result of some movie I saw or book I read that extolled the use and excitement of reaching out to the world through radio. The desire wasn&amp;rsquo;t helped, I&amp;rsquo;m sure, by having an uncle that got into it after he retired.</description>
+    </item>
+    
+  </channel>
+</rss>
