@@ -1,83 +1,675 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/categories/projects/</link>
-    <description>Recent content in Projects on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Wife Always Wanted to Marry a Pilot</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/my-wife-always-wanted-to-marry-a-pilot/</link>
+      <link>http://localhost:1313/posts/my-wife-always-wanted-to-marry-a-pilot/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/my-wife-always-wanted-to-marry-a-pilot/</guid>
-      <description>My Wife Always Wanted to Marry a Pilot A Bit of Background I became interested in drones in the spring of 2021. My wife was preparing to retire from her teaching gig and considering a new career in real estate. After 15 years in our relatively small town in the mountains of North Georgia, we were planning a move to a little larger town with fewer challenging hills and more conveniences.</description>
+      
+      <guid>http://localhost:1313/posts/my-wife-always-wanted-to-marry-a-pilot/</guid>
+      <description>&lt;h1 id=&#34;my-wife-always-wanted-to-marry-a-pilot&#34;&gt;My Wife Always Wanted to Marry a Pilot&lt;/h1&gt;
+&lt;h3 id=&#34;a-bit-of-background&#34;&gt;A Bit of Background&lt;/h3&gt;
+&lt;p&gt;I became interested in drones in the spring of 2021.  My wife was preparing to retire from her teaching gig and considering a new career in real estate.  After 15 years in our relatively small town in the mountains of North Georgia, we were planning a move to a little larger town with fewer challenging hills and more conveniences. We were building a new home in our soon-to-be new town.  This was, I thought, a great time &lt;!-- raw HTML omitted --&gt;to explore my interest in drones.  After all, I could document the progress of our new home and, if she did go into real estate, I would be positioned to do some of her photography.  Win!&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;my-wife-always-wanted-to-marry-a-pilot&#34;&gt;My Wife Always Wanted to Marry a Pilot&lt;/h1&gt;
+&lt;h3 id=&#34;a-bit-of-background&#34;&gt;A Bit of Background&lt;/h3&gt;
+&lt;p&gt;I became interested in drones in the spring of 2021.  My wife was preparing to retire from her teaching gig and considering a new career in real estate.  After 15 years in our relatively small town in the mountains of North Georgia, we were planning a move to a little larger town with fewer challenging hills and more conveniences. We were building a new home in our soon-to-be new town.  This was, I thought, a great time &lt;!-- raw HTML omitted --&gt;to explore my interest in drones.  After all, I could document the progress of our new home and, if she did go into real estate, I would be positioned to do some of her photography.  Win!&lt;/p&gt;
+&lt;p&gt;Now, while you can fly your drone recreationally without needing a license, if you do anything that has the potential for profit, the FAA requires that you hold a license as a professional drone pilot. The fancy pants way of describing this is that you must hold an Airman certificate for small unmanned aircraft systems, more colloquially this is known as being Part 107 certified.&lt;/p&gt;
+&lt;p&gt;If you were pursuing a private pilot license to fly a manned aircraft (for example, a Piper Cub) you would have to go through some fairly rigorous ground school training, learn a ton about weather, radio lingo, how to navigate between airports (and around an airport) and so on. After completing ground school you have to spend time actually flying an aircraft under the direct tutelage of a qualified instructor before being allowed to solo.&lt;/p&gt;
+&lt;p&gt;In comparison to the manned aircraft certificate, the process for obtaining your unmanned certificate (Part 107) is a bit easier.  You only need to take certain topics from the ground school and pass a knowledge test.  No actual flight time required.  The requirements for the test are laid out for you in the &lt;em&gt;Remote Pilot &amp;ndash; Small Unmanned Aircraft Systems Study Guide (&lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/remote_pilot_study_guide.pdf&amp;amp;ved=2ahUKEwiwuJ33u-eFAxWErIQIHU7lBIUQFnoECAYQAQ&amp;amp;usg=AOvVaw3MXKA-tW2dc0bYz-JcA9Qh&#34;&gt;FAA-G-8082-22&lt;/a&gt;)&lt;/em&gt; provided by the FAA.  This study guide is fairly comprehensible, but sometimes simply reading the content isn&amp;rsquo;t enough.  I like to see and hear what I&amp;rsquo;m learning.&lt;/p&gt;
+&lt;p&gt;So, to make life a bit easier (and easier to understand) I opted to take a paid course to prepare me for the exam.  The cost of theses programs vary considerably and, so far as I know, unlike private pilot training, the FAA does not certify programs that prepare you for the exam. I chose one that seemed reasonable in cost and had good reviews: Pilot Institute. And started studying in earnest.&lt;/p&gt;
+&lt;p&gt;I actually went through the entire training in a few weeks and was ready to take the test. During the interim, however, my wife decided that she didn&amp;rsquo;t want to pursue real estate as a second career and with that motivation gone, I decided not to continue my pursuit of the license.  After all, why pay for testing for a license that I wouldn&amp;rsquo;t likely ever use?&lt;/p&gt;
+&lt;h3 id=&#34;a-renewed-motivation&#34;&gt;A Renewed Motivation&lt;/h3&gt;
+&lt;p&gt;Fast forward a couple of years.  As I prepared for my own retirement, I began looking at my next chapter. I&amp;rsquo;ve always enjoyed writing and thought that I might get serious about blogging regularly.  To add to that, I was fascinated by videography and realized that I could actually make videos that included drone shots.  Motivation for obtaining my license was renewed!&lt;/p&gt;
+&lt;p&gt;With that renewed motivation I again studied in earnest. In fact, I went through the material in about a week or 10 days. I found the information fun and interesting.  There are several areas that I want to dig into a bit more deeply.&lt;/p&gt;
+&lt;h4 id=&#34;why-do-you-need-a-license&#34;&gt;Why do you need a license?&lt;/h4&gt;
+&lt;p&gt;At first, it seems like the need for a license is just a &amp;lsquo;control&amp;rsquo; thing.  The reality is that the FAA is concerned about safety &amp;ndash; for you and the general public.  The license ensures that you are flying in a safe manner and understand what is needed to protect yourself and those around you.&lt;/p&gt;
+&lt;h4 id=&#34;so-what-is-in-the-exam&#34;&gt;So, what is in the exam?&lt;/h4&gt;
+&lt;p&gt;The most obvious, and most applicable, is information on the actual regulations that govern the use of sUAS (small Unmanned Aircraft Systems).  Other information I thought was pretty interesting, but much less useful.  For example, in general you&amp;rsquo;re not permitted to fly your UAS at an airport, yet the exam includes questions about the signage on runways and taxiways.  Similarly, do I really need to know how to enter a landing pattern for an airport?&lt;/p&gt;
+&lt;p&gt;Now, to be fair, &lt;em&gt;all&lt;/em&gt; radio controlled aircraft are considered drones or UASs.  This would include all radio controlled fixed wing model aircraft, so there is some potential applicability for this information.  But to require that knowledge on a licensing exam seems a bit over the top.  The more I studied and considered the exam, the more I began to think that perhaps the FAA felt they needed some type of licensing but didn&amp;rsquo;t really have anything to test on, so they included material that was only tangentially relevant to most drone pilots. And, to be honest, I did find the information interesting and piqued my interest to learn more.&lt;/p&gt;
+&lt;h3 id=&#34;so-whats-on-the-test&#34;&gt;So, What&amp;rsquo;s on the Test?&lt;/h3&gt;
+&lt;p&gt;I alluded to some of the general concepts above. More specifically, the test covers five areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Regulations&lt;/li&gt;
+&lt;li&gt;Airspace and Requirements&lt;/li&gt;
+&lt;li&gt;Weather&lt;/li&gt;
+&lt;li&gt;Loading and Performance&lt;/li&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each of those areas are broken down into submodules so that the overall test covers a dozen topics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Applicable regulations relating to small unmanned aircraft system rating privileges, limitations, and flight operation&lt;/li&gt;
+&lt;li&gt;Airspace classification and operating requirements, and flight restrictions affecting small unmanned aircraft operation&lt;/li&gt;
+&lt;li&gt;Aviation weather sources and effects of weather on small unmanned aircraft performance&lt;/li&gt;
+&lt;li&gt;Small unmanned aircraft loading and performance&lt;/li&gt;
+&lt;li&gt;Emergency procedures&lt;/li&gt;
+&lt;li&gt;Crew resource management&lt;/li&gt;
+&lt;li&gt;Radio communication procedures&lt;/li&gt;
+&lt;li&gt;Determining the performance of small unmanned aircraft&lt;/li&gt;
+&lt;li&gt;Physiological effects of drugs and alcohol&lt;/li&gt;
+&lt;li&gt;Aeronautical decision-making and judgment&lt;/li&gt;
+&lt;li&gt;Airport operations&lt;/li&gt;
+&lt;li&gt;Maintenance and pre-flight inspection procedures&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;taking-the-exam&#34;&gt;Taking the Exam&lt;/h3&gt;
+&lt;p&gt;Once you&amp;rsquo;ve studied and feel prepared to take the exam, you:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create an account on the FAA&amp;rsquo;s Integrated Airman Certification and Rating Application (IACRA) website.&lt;/li&gt;
+&lt;li&gt;Once you&amp;rsquo;ve created your account, you&amp;rsquo;re assigned an FAA Tracking Number (FTN). This number stays with you throughout your aviation career and allows the FAA to keep all of your records together.&lt;/li&gt;
+&lt;li&gt;With your FTN in hand, you then go to the &lt;a href=&#34;https://faa.psiexams.com/faa/login&#34;&gt;Testing Center Website&lt;/a&gt; where you create yet another account.&lt;/li&gt;
+&lt;li&gt;Once you&amp;rsquo;ve created that account you simply look for testing centers that are near you. One of the challenges I ran into is that the information on testing sites is a bit confusing at first.  I found several testing sites near me that I would have preferred but couldn&amp;rsquo;t figure out how to register.  What I discovered is that those sites, while official testing sites, either had no availability or were simply not accepting reservations.  Scrolling a bit further down the page I finally found some (relatively) nearby sites that had availability.  My closest one was about an hour away.  Chose a time and date and I was set.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I arrived about 30 minutes before my exam. One other person was there waiting to take the exam, as well.  I strongly encourage you to arrive early if for no other reason than to gather your wits about yourself before testing.&lt;/p&gt;
+&lt;p&gt;The testing site was quite nice and the people were great.  They check you in, verify your identity and explain the process to you.  You do have to give up anything that&amp;rsquo;s in your pockets (wallet, phone, keys, etc) to ensure that you&amp;rsquo;re not cheating.  They also have cameras and a proctor watching, though I didn&amp;rsquo;t feel intimidated by any of this.&lt;/p&gt;
+&lt;p&gt;Once you&amp;rsquo;re assigned a computer and test code, you go through a brief training program on the computer and, when you&amp;rsquo;re ready, you click start and away you go!  You&amp;rsquo;re given two hours to complete the exam. I took about an hour and that included double-checking every answer.  Most of the answers I knew right off &amp;ndash; my training was quite effective.  There were a few answers that I wasn&amp;rsquo;t sure about and one that I had absolutely no clue. The other guy that was there started about 5 minutes or so before me and was still there when I left.  I have no clue how he did.&lt;/p&gt;
+&lt;p&gt;One odd thing about the testing software: Once you complete all of the questions it returns you to the first question. I assume that is to allow you to review your answers before submitting.  It wasn&amp;rsquo;t exactly clear, though, how to exit that cycle and actually submit the exam.&lt;/p&gt;
+&lt;p&gt;Once you&amp;rsquo;ve completed the exam and clicked submit you&amp;rsquo;re taken to a survey.  Once the survey is completed the software closes and you&amp;rsquo;re directed back to the proctor&amp;rsquo;s office for your score.  I made a 92!  The score report does provide feedback on the areas you missed.&lt;/p&gt;
+&lt;p&gt;But, you&amp;rsquo;re not done yet!  With your score in hand, you go back to the IACRA website to submit your application for a license. You need your Exam ID number that is assigned when you complete the test in order to apply for your license. This ties your score to you in the IACRA system.&lt;/p&gt;
+&lt;p&gt;If all goes well, within a few days you&amp;rsquo;ll receive an email that includes your temporary airman certificate that indicates that you&amp;rsquo;re a remote pilot of small unmanned aircraft systems!&lt;/p&gt;
+&lt;p&gt;I haven&amp;rsquo;t yet received my permanent certificate, but it should be coming in a few weeks.&lt;/p&gt;
+&lt;h3 id=&#34;do-you-need-to-renew-your-license&#34;&gt;Do You Need to Renew your License?&lt;/h3&gt;
+&lt;p&gt;Yes, every two years you&amp;rsquo;ll need to renew your license.  Once upon a time (before 2021) you needed to re-test in order to renew your license.  The rule has changed and now you simply need to take an online refresher course (provided by the FAA). You&amp;rsquo;ll then receive a certificate showing the completion of the course and you&amp;rsquo;re good for another 24 calendar months.  One note, though, just as you&amp;rsquo;ll need to have you Part 107 license on you when you fly, you will also need to keep a copy of the certificate of completion on you to demonstrate compliance with the regulations.&lt;/p&gt;
+&lt;p&gt;So, now my wife can claim to be the wife of a pilot!  (that was her idea, not mine.)&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Updates on Technology Projects</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/updates-to-technology-projects/</link>
+      <link>http://localhost:1313/posts/updates-to-technology-projects/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/updates-to-technology-projects/</guid>
-      <description>Updates to Technology Projects I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&#xA;Nextcloud, OnlyOffice, and the Like Back in February I set up a Nextcloud server and incorporated OnlyOffice. The concepts are pretty cool, but I have abandoned both of those projects. In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice.</description>
+      
+      <guid>http://localhost:1313/posts/updates-to-technology-projects/</guid>
+      <description>&lt;h1 id=&#34;updates-to-technology-projects&#34;&gt;Updates to Technology Projects&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&lt;/p&gt;
+&lt;h3 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h3&gt;
+&lt;p&gt;Back in February I set up a Nextcloud server and incorporated OnlyOffice.  The concepts are pretty cool, but I have abandoned both of those projects.  In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice. And when I do need such &lt;!-- raw HTML omitted --&gt;services, I have LibreOffice available on all of my computers.  MS Office is on its way out since I no longer need to power of a word processor for my writing and my licenses are beginning to expire. (I still have a couple of licenses that will be expiring soon.)&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;updates-to-technology-projects&#34;&gt;Updates to Technology Projects&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&lt;/p&gt;
+&lt;h3 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h3&gt;
+&lt;p&gt;Back in February I set up a Nextcloud server and incorporated OnlyOffice.  The concepts are pretty cool, but I have abandoned both of those projects.  In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice. And when I do need such &lt;!-- raw HTML omitted --&gt;services, I have LibreOffice available on all of my computers.  MS Office is on its way out since I no longer need to power of a word processor for my writing and my licenses are beginning to expire. (I still have a couple of licenses that will be expiring soon.)&lt;/p&gt;
+&lt;p&gt;In terms of document storage, I haven&amp;rsquo;t figured out what benefit Nextclod provides me over a simple document storage device such as my linux server.  I can access everything I need via the VPN.  This approach not only helps keep my data more secure by not opening it to the web, but just streamlines the whole process.&lt;/p&gt;
+&lt;h3 id=&#34;jekyll&#34;&gt;Jekyll&lt;/h3&gt;
+&lt;p&gt;Another project I started back in the fall was to use Jekyll for my website.  I am quite conversant in database design, management, etc and fully understand the benefits that a database e.g.  Mysql, postresql, etc can provide.  On the other hand, I also know how difficult it is to move your writing to another platform or to simply extract your work in a human-readable way.  The promise of Jekyll and other plaintext platforms is that you can write and store your writing in a human readable format that can easily be moved to different platforms, printed, or otherwise shared with ease. As you may infer from this site, however, I&amp;rsquo;ve moved to Grav, which is a bit more intuitive and easier to work with.&lt;/p&gt;
+&lt;p&gt;Several factors led to that decision.  Probably the most signficant is that creating a new post required too many steps.  Not only did I have to write and store the document in a specific location, I then had to run a script that would recompile the entire site, then upload the entire site to the webserver.  That doesn&amp;rsquo;t make sense to me. And, to accomplish this required that I either remember the various commands for compiling the site and uploading it, or remember where I put the script that would run the commands for me.  If it&amp;rsquo;s been a while since I wrote a post, there was no guarantee that I&amp;rsquo;d remember these things.&lt;/p&gt;
+&lt;p&gt;Grav provides an option to use the writing tools through the admin page of the website to write, or I can write off-line and simply upload the one file to the server.  No fuss, no muss, and the page is immediately live.  Grav may present a little bigger hit on the server itself as it processes the page, but probably no more so than would be seen if I was using a database driven site.&lt;/p&gt;
+&lt;p&gt;I did look at several alternatives, including YellowCMS, and Bludit.  I actually liked Bludit quite a lot and would have chosen it but for the fact that it lacked the ability to simply upload a page written offline.  It stores its page data in a JSON database file which would have required that I either write all my posts within the site, or manually update several JSON files in order to get everything set up correctly.  Not an appealing prospect.&lt;/p&gt;
+&lt;h3 id=&#34;self-hosted-bookmark-site&#34;&gt;Self-Hosted Bookmark Site&lt;/h3&gt;
+&lt;p&gt;Three projects that are rocking along well are the self-hosted bookmark, the RSS reader, and the read-it-later sites that I created.  Both of these run on a Raspberry Pi and work very well. In fact, I use all three relatively routinely.&lt;/p&gt;
+&lt;h4 id=&#34;shaarli&#34;&gt;Shaarli&lt;/h4&gt;
+&lt;p&gt;After playing with several other scripts (Unmark, SemanticScuttle, and Shaarl, as well as a couple of others that I don&amp;rsquo;t now remember) I settled on Shaarli.  I can&amp;rsquo;t really say why, other than it seems to be the one that best meshed with how I work.  SemanticScuttle is still up and running and I do have bookmarks stored there, but I rarely send anything to it.  For this one, Shaarli wins the day.&lt;/p&gt;
+&lt;h4 id=&#34;freshrss&#34;&gt;FreshRSS&lt;/h4&gt;
+&lt;p&gt;I don&amp;rsquo;t think I really wrote about an RSS reader earlier but I played with several over the course of several months.  I realize that RSS reader use may be on the decline but I like being able to quickly scan headlines of my favorite sites.  I have to manually mark the entries read and to manually refresh the page to update the headlines, but that&amp;rsquo;s okay.  I find FreshRSS useful and that&amp;rsquo;s what counts.&lt;/p&gt;
+&lt;h4 id=&#34;wallabag&#34;&gt;Wallabag&lt;/h4&gt;
+&lt;p&gt;Was there ever a question that Wallabag would persist? Not for me.  I&amp;rsquo;m not sure why I never really cottoned to Pocket.  It does the same thing as Wallabag, but for whatever reason I find Wallabag useful.  I try to keep my reading list there pruned so I don&amp;rsquo;t end up with hundreds of unread pages.  But being able to save not only the bookmark to a page, but also the content of that page is quite useful.  I also like that the advertising is stripped from the pages and they are made more readable and easier to print if  I want to keep a hard-copy of a particular article.  Pocket may have those capacities (I&amp;rsquo;m sure they do) but Wallabag is the service for me and it runs on my servers, keeping things simple and ensuring that they won&amp;rsquo;t suddenly disappear when the company goes under.&lt;/p&gt;
+&lt;p&gt;There you have it: updates to several of my technology projects.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Nextcloud, OnlyOffice and the Like </title>
-      <link>http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/</link>
+      <link>http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/</guid>
-      <description>Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.&#xA;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the</description>
+      
+      <guid>http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/</guid>
+      <description>&lt;h1 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h1&gt;
+&lt;p&gt;Every once in a while I get this notion that I need to move my data off of sites
+like Dropbox, OneDrive, and so forth. When I do, I start playing around with
+self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in
+one of those cycles and have been playing around a good bit with Nextcloud.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h1&gt;
+&lt;p&gt;Every once in a while I get this notion that I need to move my data off of sites
+like Dropbox, OneDrive, and so forth. When I do, I start playing around with
+self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in
+one of those cycles and have been playing around a good bit with Nextcloud.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Here&amp;rsquo;s where I am right now.&lt;/p&gt;
+&lt;h2 id=&#34;my-current-setup&#34;&gt;My Current Setup&lt;/h2&gt;
+&lt;p&gt;Let me say upfront that I use OneDrive for most of my document storage. That
+came about partly because I use a Microsoft Surface, as well as a Windows laptop
+that doesn&amp;rsquo;t have a large storage capacity.  Being able to write a document in
+Word and send it straight to the cloud service, and then to have that document
+available from any computer I work on (I have several) is a great convenience.&lt;br&gt;
+Now, it&amp;rsquo;s important, here, to note that I actually have two OneDrive accounts:
+The 5 GB free one and a 1 TB paid service through my Office365 account. I
+actually use the paid account as my Exchange server more than for file storage,
+but that option is available to me.&lt;/p&gt;
+&lt;p&gt;Most of my documents, though, are saved to a Linux-based local network file
+server. All of my computers are attached to that file server so that I can
+access my files from that machine. The OneDrive folder that is synced to to
+cloud service actually lives on that local server and is mapped to a drive on my
+Windows laptop.  This ensures both that I have local access and have a backup of
+those files I consider critical. (They&amp;rsquo;re also backed up locally to another
+computer.)  Ensuring that those critical files are backed up off site is
+important
+and one of the arguments I have against self-hosted &amp;ldquo;cloud services&amp;rdquo;. What is
+the point of &amp;ldquo;self-hosting&amp;rdquo; if you&amp;rsquo;re then going to back up those same files to
+an online backup service?&lt;/p&gt;
+&lt;p&gt;One of the arguments that I frequently hear is that these services allow me to
+access my files from anywhere. This is true.  And, if I&amp;rsquo;m not on my own computer
+( a rare occurrence), this can be a very important, even critical, feature.  In
+my case, though, I have all of my mobile devices set to access my local network
+through a VPN. My Ubiquiti Edgerouter X made setting up that VPN almost trivial
+and works flawlessly.  So, so long as I have one of my mobile devices, I can
+access my internal network and all the files available there.  No need for a
+webservice to provide that intermediate layer.&lt;/p&gt;
+&lt;h2 id=&#34;privacy-concerns&#34;&gt;Privacy Concerns&lt;/h2&gt;
+&lt;p&gt;In most of the online discussions surrounding these types of self-hosted
+services, the primary reason for moving from a &amp;ldquo;cloud host&amp;rdquo; to a self-hosted
+solution is privacy.  After all, we don&amp;rsquo;t want those big, bad companies mining
+our files for information.  As I considered this argument, though, I had to come
+to the conclusion that it didn&amp;rsquo;t really matter to me.  First of all, there&amp;rsquo;s
+really nothing in my files that I feel is so important that it needs to be
+secured.  If I have such files (various bills and statements come to mind), I
+don&amp;rsquo;t put them in my Dropbox or OneDrive folder.  They live in a local folder.
+Most of what I store in the online services are downloaded PDF files or
+documents that
+I received through my educational experiences.  Those are already generally
+publicly available. And, while they might provide some insight into what
+interests me, they would hardly provide anything that could be considered
+compromising.  So, privacy, at least for me, isn&amp;rsquo;t much of an issue.&lt;/p&gt;
+&lt;p&gt;Now, having said that, I do have to concede one area that could become
+problematic from the privacy perspective.  I write a lot.  Most of it is for
+working out my own thoughts and ideas.  Some of it is part of various projects
+that I&amp;rsquo;m working on (stories, or my dissertation, for example). Although not
+sensitive in the sense of compromising my privacy, these writings do involve
+some levels of
+copyright.  Should my online account at one of these big providers be
+compromised, my claim to copyright on these documents could be compromised.  The
+likelihood of that occurring is minimal, but it is, nonetheless, a risk.&lt;/p&gt;
+&lt;h2 id=&#34;security&#34;&gt;Security&lt;/h2&gt;
+&lt;p&gt;Security, to me, is part of, but separate from, privacy.  A secure service
+protects my privacy, to be sure.  But what I&amp;rsquo;m referring to here is protecting
+my work from loss.  If I have files that I truly do not want to lose, I want to
+ensure that I&amp;rsquo;ve got them saved in multiple places so that I can be sure that I
+don&amp;rsquo;t lose them.  As I mentioned earlier in this post, I have taken measures to
+ensure that my important files are backed up to another computer in the event
+that my server or hard drive crashes.  But, if my house burns down, I&amp;rsquo;m still
+out of luck.  Except that I&amp;rsquo;ve also saved those files to my OneDrive account.&lt;/p&gt;
+&lt;p&gt;The issue with saving them to an outside vendor, whether it be Dropbox, Box, or
+OneDrive, is that those companies might, at any given moment, decide to simply
+disappear from the face of the Earth, taking my important files with them.&lt;/p&gt;
+&lt;p&gt;Alternately, they may sell out to another company that doesn&amp;rsquo;t take the same
+precautions, or that decides to hold my data hostagse.  Not an enticing scenario
+and, hopefully, an unlikely one. But, taking that risk is &amp;hellip;, well, a risk.&lt;/p&gt;
+&lt;h2 id=&#34;storage----the-defining-factor&#34;&gt;Storage &amp;ndash; The Defining Factor&lt;/h2&gt;
+&lt;p&gt;Perhaps the biggest draw for using a service like Nextcloud is available
+storage. Unlike the online providers, all of which limit storage, storage for
+your self-hosted Nextcloud account is limited only by the available storage on
+the server in your home.  Need More? Add another drive, or upgrade to a larger
+one.&lt;/p&gt;
+&lt;p&gt;As I mentioned earlier, my free OneDrive account is limited to
+5 GB of storage.  Dropbox is currently limited to 2GB and will cost you $100 for
+a 1TB option. Box offers 10 GB storage with their free plan and $120 a year for
+a 100GB plan.  Oh, and all these have upload caps, so if you&amp;rsquo;re uploading big
+files, you might be out of luck.  As I mentioned earlier, I have Office365
+account that provides my Exchange services, as well as 1TB storage.  I&amp;rsquo;m
+probably good there (I don&amp;rsquo;t remember if there are upload limits, though I&amp;rsquo;m
+sure there are!) But, I&amp;rsquo;ve have that account for about 6 years, during which
+time I&amp;rsquo;ve watched the provided services change and generally decline.  I would
+not be surprised if, on my next renewal, the amount of available (paid) storage
+diminishes. And, that is the risk with all of these services, particularly the
+free services: At any time the provide can choose to lower their limits and
+suddenly you&amp;rsquo;re locked out of your data, or required to pony up cash to keep the
+account usable.&lt;/p&gt;
+&lt;p&gt;Again, this is not really an issue for me. Part of the reason is because I do
+have that
+1TB of
+paid-for storage, but more importantly because I have several TB of storage on
+my local server, without upload limits, and have easy access through my VPN.&lt;/p&gt;
+&lt;h2 id=&#34;so-where-am-i-truly-at&#34;&gt;So, Where Am I Truly At?&lt;/h2&gt;
+&lt;p&gt;For right now, I&amp;rsquo;m leaving the Nextcloud and OnlyOffice servers running.&lt;br&gt;
+Whether I will use them is a question that only time will answer.  I&amp;rsquo;m intrigued
+by the ability to do on-line editing much as Office Online and Google Docs can
+do.  In fact, I don&amp;rsquo;t really see any differences between the various online
+editing services based on my general use cases.  I&amp;rsquo;ll continue to play with them
+to see whether they meet any specific need that I might have not yet identified.&lt;/p&gt;
+&lt;p&gt;As I wind down my dissertation work my needs for high-powered writing tools
+diminishes, as does my need for document storage. In that light, Nextcloud may
+provide all the services I need for daily work.  Time will tell that tale.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Moving to a Self-Hosted Bookmarking Service</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/moving-to-a-self-hosted-bookmarking-service/</link>
+      <link>http://localhost:1313/posts/moving-to-a-self-hosted-bookmarking-service/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/moving-to-a-self-hosted-bookmarking-service/</guid>
-      <description>Moving to a Self-Hosted Bookmarking Service There&amp;rsquo;s a hint that bookmarks are going away. Services like Delicious that used to provide great web-based book marking services have closed down. In their place are the likes of Instapaper and Pinboard and the like that break stuff into different types. Instapaper to store sites that you want to read later, Pinterest for images you like, and so forth. That doesn&amp;rsquo;t work well for me, though.</description>
+      
+      <guid>http://localhost:1313/posts/moving-to-a-self-hosted-bookmarking-service/</guid>
+      <description>&lt;h1 id=&#34;moving-to-a-self-hosted-bookmarking-service&#34;&gt;Moving to a Self-Hosted Bookmarking Service&lt;/h1&gt;
+&lt;p&gt;There&amp;rsquo;s a hint that bookmarks are going away.  Services like Delicious that used
+to provide great web-based book marking services have closed down.  In their
+place are the likes of Instapaper and Pinboard and the like that break stuff
+into different types. Instapaper to store sites that you want to read later,
+Pinterest for images you like, and so forth.  That doesn&amp;rsquo;t work well for me,
+though.  I want everything in one place.  That&amp;rsquo;s also why I decided to try a&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;moving-to-a-self-hosted-bookmarking-service&#34;&gt;Moving to a Self-Hosted Bookmarking Service&lt;/h1&gt;
+&lt;p&gt;There&amp;rsquo;s a hint that bookmarks are going away.  Services like Delicious that used
+to provide great web-based book marking services have closed down.  In their
+place are the likes of Instapaper and Pinboard and the like that break stuff
+into different types. Instapaper to store sites that you want to read later,
+Pinterest for images you like, and so forth.  That doesn&amp;rsquo;t work well for me,
+though.  I want everything in one place.  That&amp;rsquo;s also why I decided to try a&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;couple of web-based products.  I realized that I had bookmarks scattered over
+three different browsers, on three different computers. How confusing can it
+get?&lt;/p&gt;
+&lt;h2 id=&#34;why-self-hosted&#34;&gt;Why Self Hosted?&lt;/h2&gt;
+&lt;p&gt;With a variety of services already available on line, why do I want to
+self-host? After all, that&amp;rsquo;s a lot of work to get things set up and to keep
+things running correctly.  It would be much simpler to use a series that
+already exists.&lt;/p&gt;
+&lt;p&gt;The primary reason is safety.  That is, These services like to shut down without
+a lot of notice.  I don&amp;rsquo;t want to collect lots of bookmarks only to have the
+service shutdown, taking my links with them. I want them to persist.  By hosting
+my own, the only risk is that my computer will die.  I back things up for that
+reason.&lt;/p&gt;
+&lt;p&gt;Another reason is privacy.  It&amp;rsquo;s not so much what I&amp;rsquo;m bookmarking. I don&amp;rsquo;t
+really care if you know what I bookmark.  But I &lt;em&gt;do&lt;/em&gt; care that you don&amp;rsquo;t try to
+market me, or sell my information to someone else who will market me. When using
+another service, that risk is real &amp;ndash; they do have to make money.  But, by
+hosting my own, I know that can&amp;rsquo;t happen. And, if it does, I get the financial
+proceeds :).&lt;/p&gt;
+&lt;h2 id=&#34;what-services-am-i-using&#34;&gt;What Services Am I Using?&lt;/h2&gt;
+&lt;p&gt;As I said, these services are falling to the wayside, so there aren&amp;rsquo;t a lot of
+scripts that are still available and being actively maintained.  I found 3:
+SemanticScuttle, Unmark, and Shaarli.  I installed all three so that I could try
+them out to see what works for me.  I&amp;rsquo;m not sure which one I&amp;rsquo;ll settle one. But,
+I&amp;rsquo;m already sure which one I won&amp;rsquo;t be using.&lt;/p&gt;
+&lt;p&gt;Before I get into any specifics, though, let me give you a little background on
+what I prefer. And, where I&amp;rsquo;m likely going.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tags&lt;/em&gt; have been around for a while now and I&amp;rsquo;ve rarely used them.  I&amp;rsquo;ll touch
+on that in another post.  I&amp;rsquo;m a bit old-fashioned and a little linear in my
+thinking.  I like being able to save a bookmark to a specific folder so that I
+can quickly find the list of bookmarks related to a specific subject. Yes, I
+know tagss allow that, and more and, again, I&amp;rsquo;ll talk about that in another post.&lt;br&gt;
+but bear with me for right now.  I wanted something that would allow me to
+import my current bookmarks, maintaining the current structure. None of the
+available scripts allowed this (there is one, but it tried to be too many
+things, I&amp;rsquo;ve tried it in the past, and its interface is hopelessly outdated).  I
+also wanted
+to be able to quickly and easily remove duplicates.  And, of course, it had to
+be easy to access and use. Let&amp;rsquo;s take a quick look at the three
+I installed.&lt;/p&gt;
+&lt;h2 id=&#34;unmark&#34;&gt;Unmark&lt;/h2&gt;
+&lt;p&gt;As I mentioned above, none of the three I found supported folders; all supported
+tagsging, so I ended up going through and tagsging all my bookmarks.  Unmark held
+a lot of promise. I read a lot of good things online about it.  IN practice, I
+wasn&amp;rsquo;t impressed. The biggest issue is that Unmark wouldn&amp;rsquo;t import the tagss
+associated with the links.  That meant I&amp;rsquo;d need to go through and re-tags all
+those links.  That didn&amp;rsquo;t impress me.  Moving forward, of course, it&amp;rsquo;s less an
+issue.  But, initially, at least, Unmark failed. I&amp;rsquo;ve also has some issues with
+Unmark not loading correctly after signing in.&lt;/p&gt;
+&lt;h2 id=&#34;semanticscuttle&#34;&gt;SemanticScuttle&lt;/h2&gt;
+&lt;p&gt;SS imported bookmarks and tagss without issue.  So far, too, it&amp;rsquo;s been easy to
+use.  I&amp;rsquo;m still using this one to try to see what it&amp;rsquo;s limits are. So far,
+though, I&amp;rsquo;m impressed.  The one drawback is that it depends on a MySQL database.&lt;br&gt;
+Now, I&amp;rsquo;ve worked with DBs for years and don&amp;rsquo;t&amp;rsquo; automatically discount a script
+that uses one.  But, I think for my uses, a DB is simply overkill.  It requires
+a lot of resource for little added benefit.&lt;/p&gt;
+&lt;h2 id=&#34;shaarli&#34;&gt;Shaarli&lt;/h2&gt;
+&lt;p&gt;Shaarli and SS are running neck and neck in the which one does Kevin use race.&lt;br&gt;
+From the user perspective, the two are identical.  And, like SS, Shaarli
+imported tagss without issue.  Sweet.  The other thing about Shaarli that I like
+is that it doesn&amp;rsquo;t depend on a database.  It uses a simple XML file to store its
+data.  That not only makes backing up the data dead simple, it also means
+minimal resources.  I could literally copy the files to a new computer and just
+keep going. That is an awesome feature.  Shaarli also allows you tom make short
+notes, or even use it as a pastebin kind of service.&lt;/p&gt;
+&lt;h2 id=&#34;which-one-do-i-recommend&#34;&gt;Which One Do I Recommend?&lt;/h2&gt;
+&lt;p&gt;I don&amp;rsquo;t know yet.  Unlike some folks that spend a day or two playing with a
+service and then making a pronouncement about how good (or bad) it is, I want to
+work with them a while to see which fits into my work flow best.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title> Learning the Challenges of Jekyll</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/learning-the-challenges-of-jekyll/</link>
+      <link>http://localhost:1313/posts/learning-the-challenges-of-jekyll/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/learning-the-challenges-of-jekyll/</guid>
-      <description>Learning the Challenges of Jekyll So a few days ago I decided to use Jekyll to generate a static website to host all &amp;ndash; well, most &amp;ndash; of my writing. Jekyll, I&amp;rsquo;ve learned, is a different beast from most applications used for these purposes. I&amp;rsquo;ve found several themes that I really liked, but they all had some sort of quirks that made them less easy to use. I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong in the same sentence.</description>
+      
+      <guid>http://localhost:1313/posts/learning-the-challenges-of-jekyll/</guid>
+      <description>&lt;h1 id=&#34;learning-the-challenges-of-jekyll&#34;&gt;Learning the Challenges of Jekyll&lt;/h1&gt;
+&lt;p&gt;So a few days ago I decided to use Jekyll to generate a static website to host
+all &amp;ndash; well, most &amp;ndash; of my writing.  Jekyll, I&amp;rsquo;ve learned, is a different beast
+from most applications used for these purposes.  I&amp;rsquo;ve found several themes that
+I really liked, but they all had some sort of quirks that made them less easy to
+use.  I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong
+in the same sentence. Each of the themes I&amp;rsquo;ve looked at require slightly
+different structures, use categories differently, and just generally appear
+rather finicky.  I&amp;rsquo;m sure for people that have played with it for quite a while, &lt;!-- raw HTML omitted --&gt;
+these quirks are just part of the landscape. For people like me, who haven&amp;rsquo;t
+really spent much time with the software, it&amp;rsquo;s a challenge.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;learning-the-challenges-of-jekyll&#34;&gt;Learning the Challenges of Jekyll&lt;/h1&gt;
+&lt;p&gt;So a few days ago I decided to use Jekyll to generate a static website to host
+all &amp;ndash; well, most &amp;ndash; of my writing.  Jekyll, I&amp;rsquo;ve learned, is a different beast
+from most applications used for these purposes.  I&amp;rsquo;ve found several themes that
+I really liked, but they all had some sort of quirks that made them less easy to
+use.  I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong
+in the same sentence. Each of the themes I&amp;rsquo;ve looked at require slightly
+different structures, use categories differently, and just generally appear
+rather finicky.  I&amp;rsquo;m sure for people that have played with it for quite a while, &lt;!-- raw HTML omitted --&gt;
+these quirks are just part of the landscape. For people like me, who haven&amp;rsquo;t
+really spent much time with the software, it&amp;rsquo;s a challenge.&lt;/p&gt;
+&lt;h3 id=&#34;making-links-work&#34;&gt;Making Links Work&lt;/h3&gt;
+&lt;p&gt;One of the challenges that I&amp;rsquo;ve encountered is making links work from the
+dynamically created pages..  Say
+for
+example, I have a a post entitled, &amp;ldquo;Blogging with Jekyll&amp;rdquo;. When I generate the
+site, Jekyll automatically creates a link to that post.  BUT, some of the themes
+I played with didn&amp;rsquo;t generate the full link. They pointed me to the title, but
+had not appended the &amp;lsquo;.html&amp;rsquo; to the page. The result? A blank page.  It took
+some Googling around to find out that adding the &amp;lsquo;.html&amp;rsquo; to the end of the
+&amp;lsquo;:title&amp;rsquo; part of the permalink fixed the problem.  Simple fix, once I finally
+found it, but why was that ever a problem? Why wasn&amp;rsquo;t the &amp;lsquo;.html&amp;rsquo; added by the
+theme creator?  Surely his or her copy of the script didn&amp;rsquo;t work without that
+extension, either.  Not sure what I mean?&lt;/p&gt;
+&lt;p&gt;In the _config.yml file I found:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-permalink:&#34; data-lang=&#34;permalink:&#34;&gt;
+What is needed is 
+ permalink:           /:title.html
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;x
+Again, simple fix &amp;hellip;.&lt;/p&gt;
+&lt;h2 id=&#34;navigation-problems&#34;&gt;Navigation Problems.&lt;/h2&gt;
+&lt;p&gt;Similarly, I wanted a theme that included navigation so that anyone reading the
+site could move around within it.  One of the themes I really like didn&amp;rsquo;t have
+navigation.  I probably could have added it but, frankly, didn&amp;rsquo;t want to take
+the time to figure it out.  So, I settled for one that included navigation.&lt;br&gt;
+Except that the navigation didn&amp;rsquo;t work correctly.  I&amp;rsquo;m not working from my
+webserver root, so a baseurl is needed.  The navigation (home, back, and next
+buttons) didn&amp;rsquo;t account for a non-root structure.  So, after a bit of plugging
+about I finally found the template that contains thenavigation links (they&amp;rsquo;re
+not
+always in the same
+place from one theme to another). Search about until I found the right variables
+to include.  Now, I have:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{% raw %}{{ site.baseurl }}\{{ page.previous.url }} {% endraw %}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This works correctly.  I had to do this for the home button, as well as the
+previous and next buttons.  And, I&amp;rsquo;m sure as I continue to work with the site,
+I&amp;rsquo;ll find other things like this.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As it stands right now, I&amp;rsquo;ll use this theme.  As I work more with the scripts,
+I&amp;rsquo;m beginning to understand them a little better.  But I&amp;rsquo;d much rather spend my
+time writing than trying to fix the platform that I&amp;rsquo;m using to host that
+writing.  Yes, Wordpress or some such would have been easier, but, as I said in
+&lt;a href=&#34;../blogging-with-jekyll&#34;&gt;this post&lt;/a&gt; I
+really
+do think that a database driven website is overkill for my needs.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title> Getting Started with Ham Radio</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/getting-started-with-ham-radio/</link>
+      <link>http://localhost:1313/posts/getting-started-with-ham-radio/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/getting-started-with-ham-radio/</guid>
-      <description>Getting Started with Ham Radio One of the goals on my bucket list has been getting my Ham radio license. I don&amp;rsquo;t remember, really, when it first landed on my list. I was a teen and it most likely was the result of some movie I saw or book I read that extolled the use and excitement of reaching out to the world through radio. The desire wasn&amp;rsquo;t helped, I&amp;rsquo;m sure, by having an uncle that got into it after he retired.</description>
+      
+      <guid>http://localhost:1313/posts/getting-started-with-ham-radio/</guid>
+      <description>&lt;h1 id=&#34;getting-started-with-ham-radio&#34;&gt;Getting Started with Ham Radio&lt;/h1&gt;
+&lt;p&gt;One of the goals on my bucket list has been getting my Ham radio license.  I
+don&amp;rsquo;t remember, really, when it first landed on my list.  I was a teen and it
+most likely was the result of some movie I saw or book I read that extolled the
+use and excitement of reaching out to the world through radio. The desire wasn&amp;rsquo;t
+helped, I&amp;rsquo;m sure, by having an uncle that got into it after he retired.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;getting-started-with-ham-radio&#34;&gt;Getting Started with Ham Radio&lt;/h1&gt;
+&lt;p&gt;One of the goals on my bucket list has been getting my Ham radio license.  I
+don&amp;rsquo;t remember, really, when it first landed on my list.  I was a teen and it
+most likely was the result of some movie I saw or book I read that extolled the
+use and excitement of reaching out to the world through radio. The desire wasn&amp;rsquo;t
+helped, I&amp;rsquo;m sure, by having an uncle that got into it after he retired.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Times have changed, of course, and where once amateur radio was the only  means
+for
+contacting the world beyond my community, the internet has made huge inroads in
+that domain.  In fact, one does have to ask why get a license? As I began to
+ponder that question I began to realize that it is less for the excitement and
+mystique of reaching out to others far away and more about simple
+accomplishment.  Earning a license requires that I gain the necessary knowledge.&lt;br&gt;
+After all, if it was only about communicating with others, I could do that with
+the
+internet or family radios (FRS) or, if I &lt;em&gt;had&lt;/em&gt; to have a license, a General
+Mobile Radio Service license.  No knowledge required.  But it&amp;rsquo;s about learning
+the basics of electronics, of radio waves, and the rules that govern their use.&lt;/p&gt;
+&lt;p&gt;I like to learn.&lt;/p&gt;
+&lt;p&gt;One of the things I&amp;rsquo;ve been thinking about lately is the range of knowledge that
+we all carry around that we don&amp;rsquo;t really recognize or appreciate.  As it turns
+out, as I started to study for the exam I began to realize how much knowledge I
+already had in this domain.  I already understand the basics of electronic
+circuits, for example, In fact, I took a couple of practice tests and the only
+real areas I failed were those related to the rules.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m excited to get started on this bucket list item.  I may never actually do
+much with the license, but going through that process is important for me to
+meet a bucket list goal and to have the option to use amateur radio when, and
+if, I choose to.&lt;/p&gt;
+&lt;p&gt;And options are always good.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Weewx on the Raspberry PI</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/weewx-on-the-raspberry-pi/</link>
+      <link>http://localhost:1313/posts/weewx-on-the-raspberry-pi/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/weewx-on-the-raspberry-pi/</guid>
-      <description>Weewx on the Raspberry Pi I&amp;rsquo;ve always loved gadgets. When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&amp;rsquo;d get one. About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job. While it works, it didn&amp;rsquo;t do all that I had hoped. It wasn&amp;rsquo;t the device&amp;rsquo;s fault; the software just didn&amp;rsquo;t quite match up with my particular use case.</description>
+      
+      <guid>http://localhost:1313/posts/weewx-on-the-raspberry-pi/</guid>
+      <description>&lt;h1 id=&#34;weewx-on-the-raspberry-pi&#34;&gt;Weewx on the Raspberry Pi&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve always loved gadgets.  When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&amp;rsquo;d get one.  About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job.  While it works, it didn&amp;rsquo;t do all that I had hoped.  It wasn&amp;rsquo;t the device&amp;rsquo;s fault; the software just didn&amp;rsquo;t quite match up with my particular use case.  So, the device sat idle for a while.  5}&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;weewx-on-the-raspberry-pi&#34;&gt;Weewx on the Raspberry Pi&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve always loved gadgets.  When the first Raspberry Pis came out a few years ago, I was pretty confident that eventually, I&amp;rsquo;d get one.  About three years ago I decided I wanted to build a media server and the RPI seemed the perfect tool for the job.  While it works, it didn&amp;rsquo;t do all that I had hoped.  It wasn&amp;rsquo;t the device&amp;rsquo;s fault; the software just didn&amp;rsquo;t quite match up with my particular use case.  So, the device sat idle for a while.  5}&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Eventually, though, another use came along in the form of a VPN server for my internal network. For this I used the excellent &lt;a href=&#34;http://softether.org&#34;&gt;SoftEther VPN&lt;/a&gt; software.  If you have need for a VPN server to access your internal network, I strongly recommend this software.&lt;/p&gt;
+&lt;p&gt;Along the way, though, other uses for the little device began to emerge.  One
+such use is to provide some of the weather data that I couldn&amp;rsquo;t provide via my
+&lt;a href=&#34;http://www.meteobridge.com/wiki/index.php/Home&#34;&gt;Meteobridge&lt;/a&gt; device as I
+outlined in &lt;a href=&#34;../changes-in-my-weather-station&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While the Meteobridge device could provide almost all of the data I needed to serve the weather website, it cannot generate NOAA-type files in order to feed some of the scripts I run on my website. So, I started looking for alternatives.   In keeping with my motivation for moving to the Meteobridge, I didn&amp;rsquo;t want to have to run a Windows machine. Rather,  I wanted another small, low-power device.  the RPI came to mind.  After doing some digging around I discovered &lt;a href=&#34;http://weewx.com&#34;&gt;weewx&lt;/a&gt;, an opensource software that did exactly what I wanted.&lt;/p&gt;
+&lt;p&gt;In truth, the RPI running weewx can do everything that the Meteobridge can do
+and a whole lot more.  Had I started a bit earlier, I might have chosen to use
+only weewx rather than Meteobridge. I believe that the Meoteobridge license
+comes up for renewall in a year or so.  I may chose to drop it in favor of
+Weewx.&lt;/p&gt;
+&lt;p&gt;The one thing holdimg me back, though, will be the really nice imaging that
+Meteobridge provides for webcams.  I do have a webcam that I include on my
+website.  Having that really nice, clean banner across the bottom of the image
+makes for a very nice looking presentation.&lt;/p&gt;
+&lt;p&gt;I guess I&amp;rsquo;ll have to ponder that one a while!&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Changes in my Weather Station</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/changes-in-my-weather-station/</link>
+      <link>http://localhost:1313/posts/changes-in-my-weather-station/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/changes-in-my-weather-station/</guid>
-      <description>Changes in my Weather Station For the past 8 years I&amp;rsquo;ve managed a personal weather station consisting of a Davis Vantagse Pro and a Windows computer running the excellent Weather Display software. Last December I decided that the inexpensive computer I was running the scripts on may well be coming to its end-of-life and went looking for alternatives. Another goal of this move was to lower my cost of operations. The Jetway computer I was running didn&amp;rsquo;t use a lot of power, perhaps 25 W, but if I could do better, I would.</description>
+      
+      <guid>http://localhost:1313/posts/changes-in-my-weather-station/</guid>
+      <description>&lt;h1 id=&#34;changes-in-my-weather-station&#34;&gt;Changes in my Weather Station&lt;/h1&gt;
+&lt;p&gt;For the past 8 years I&amp;rsquo;ve managed a personal weather station consisting of a
+Davis Vantagse Pro and a Windows computer running the excellent Weather Display
+software.  Last December I decided that the inexpensive computer I was running
+the scripts on may well be coming to its end-of-life and went looking for
+alternatives. Another goal of this move was to lower my cost of operations.  The
+Jetway computer I was running didn&amp;rsquo;t use a lot of power, perhaps 25 W, but if I
+could do better, I would. After all, at 25 watts, that&amp;rsquo;s about 219 kW or $26.25
+annually.  With the growth of small computers such as the Raspberry Pi, I knew I
+could do better. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;changes-in-my-weather-station&#34;&gt;Changes in my Weather Station&lt;/h1&gt;
+&lt;p&gt;For the past 8 years I&amp;rsquo;ve managed a personal weather station consisting of a
+Davis Vantagse Pro and a Windows computer running the excellent Weather Display
+software.  Last December I decided that the inexpensive computer I was running
+the scripts on may well be coming to its end-of-life and went looking for
+alternatives. Another goal of this move was to lower my cost of operations.  The
+Jetway computer I was running didn&amp;rsquo;t use a lot of power, perhaps 25 W, but if I
+could do better, I would. After all, at 25 watts, that&amp;rsquo;s about 219 kW or $26.25
+annually.  With the growth of small computers such as the Raspberry Pi, I knew I
+could do better. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;After some mucking around, I found Meteobridge.  Meteobridge is software that
+gets flashed onto a TP-Link TL-3060Mr (and some other similar devices).  While
+not nearly as full-featured as Weather Display,  the Meteobridge software works
+well and sends the data to my website without problems.  Best of all, the total
+price was about $100 and will use about 0.6 W, that&amp;rsquo;s about 5.256 kW or a
+whopping 63 cents per year!  The whole shebang will pay for it self in about 3.5
+years.  Sweet!&lt;/p&gt;
+&lt;p&gt;But the Meteobridge has a couple of caveats.  One is that it doesn&amp;rsquo;t store data,
+so a separate device is needed for that (it does have the ability to save to a
+mysql database hosted elsewhere). Nor does it generate the NOAA style reports
+that are needed for some of the calculations and webpages that I generate (for
+example, the freeze data &amp;ndash; first and last freeze dates for the year, number of
+days below freezing, etc). Another caveat is that the updates are available only
+for two years, then you have to buy an update license.  Having not had to do
+that yet, I don&amp;rsquo;t know the cost.  Perhaps another caveat is that the product is
+dependent on the Meteobridge server.  The OS is not actually stored on the
+device but is downloaded each time the server reboots. Now, my server has run
+for as many as 133 days without a hiccup, so that doesn&amp;rsquo;t happen often. But it
+could.  This can be mitigated by including a USB stick on the device so that the
+data are saved, together with a copy of software for those eventualities when
+the MB server isn&amp;rsquo;t available. Good to know!&lt;/p&gt;
+&lt;p&gt;So, for now, I&amp;rsquo;m sticking with the Meteobridge.  Overall, I like it and have
+found workarounds to the issues that have cropped up.  One of those is the
+Raspberry Pi and weewx.  I&amp;rsquo;ll deal with that in another post.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Blogging with Jekyll</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</link>
+      <link>http://localhost:1313/posts/blogging-with-jekyll/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</guid>
-      <description>Blogging with Jekyll Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a blog. I enjoy writing and figured it would be a good way not only to practice the skill, but to share my thoughts with others. I don&amp;rsquo;t really care whether anyone reads my work, to be honest; I just want to write. The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want to be able to keep my files and refer back to them from time to time &amp;ndash; something of a journal (which is what the blog was originally conceived to be).</description>
+      
+      <guid>http://localhost:1313/posts/blogging-with-jekyll/</guid>
+      <description>&lt;h1 id=&#34;blogging-with-jekyll&#34;&gt;Blogging with Jekyll&lt;/h1&gt;
+&lt;p&gt;Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a
+blog.  I enjoy writing and figured it would be a good way not only to practice
+the skill, but to share my thoughts with others.  I don&amp;rsquo;t really care whether
+anyone reads my work, to be honest; I just want to write. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want
+to be able to keep my files and refer back to them from time to time &amp;ndash;
+something
+of a journal (which is what the blog was originally conceived to be). That means
+that I need the writing in form that is easily saved and retrieved. Another
+concern has been that I be able to write from essentially any computer, any
+where.  I started, as most folks do, on Blogger, then moved to Wordpress, each
+time abandoning my work and the platform, as I moved to another. That&amp;rsquo;s not what
+I intended.  Making the process more difficult is that the writing is stored in
+a database. This makes retrieval of the raw data difficult, particularly if
+you&amp;rsquo;ve forgotten the password, or the database is corrupt, etc.  And, to be
+honest, those platforms are simply more complex than my needs. What I needed was
+a simple, easy to use platform that allowed me to maintain a file of my work.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;blogging-with-jekyll&#34;&gt;Blogging with Jekyll&lt;/h1&gt;
+&lt;p&gt;Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a
+blog.  I enjoy writing and figured it would be a good way not only to practice
+the skill, but to share my thoughts with others.  I don&amp;rsquo;t really care whether
+anyone reads my work, to be honest; I just want to write. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want
+to be able to keep my files and refer back to them from time to time &amp;ndash;
+something
+of a journal (which is what the blog was originally conceived to be). That means
+that I need the writing in form that is easily saved and retrieved. Another
+concern has been that I be able to write from essentially any computer, any
+where.  I started, as most folks do, on Blogger, then moved to Wordpress, each
+time abandoning my work and the platform, as I moved to another. That&amp;rsquo;s not what
+I intended.  Making the process more difficult is that the writing is stored in
+a database. This makes retrieval of the raw data difficult, particularly if
+you&amp;rsquo;ve forgotten the password, or the database is corrupt, etc.  And, to be
+honest, those platforms are simply more complex than my needs. What I needed was
+a simple, easy to use platform that allowed me to maintain a file of my work.&lt;/p&gt;
+&lt;h2 id=&#34;flat-files&#34;&gt;Flat files&lt;/h2&gt;
+&lt;p&gt;A year or so ago I became aware of flat-file blogging systems such as
+Grav, HTMLy, Pico, and the like.  These were awesome!  They allowed me to write
+my entries in plain text or Markup, upload the file to my server and, Viola!  I
+had a blog.  These were awesome &amp;ndash; and still are. On the whole, these systems
+meet my needs but, being the curious soul that I am, I wondered if there were
+other ways.  Wouldn&amp;rsquo;t it be nice if my setup didn&amp;rsquo;t depend on which PHP version
+I was running?  Wouldn&amp;rsquo;t it be nice if the system didn&amp;rsquo;t break every time
+something changed on the back end?&lt;/p&gt;
+&lt;h2 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;A few weeks ago I started playing around with Amazon Web
+Service (AWS)
+S3 storage.  One of the things you can do with S3 is serve static websites.&lt;br&gt;
+Cool.  the kicker is, of course, that the site must be static.  Static websites
+have some advantagses.  First, any webserver can serve html files, no special
+resources or support files needed.  HTML is the reason webservers exist and was
+the standard for early websites. Another advantagse is that a static site is not
+subject to server-side scripting issues. This means that it doesn&amp;rsquo;t matter
+whether you have the right version of PHP or PERL installed; the site will
+simply work.  A third advantagse is that if you ever decide to move your site,
+you simply copy the files to another server and you&amp;rsquo;re in business, no fiddling
+needed.&lt;/p&gt;
+&lt;p&gt;To test out the AWS webserver with S3 I started with the website
+automatically created by Weewx, a linux based weather software to serve data
+from my local personal weather station.  I uploaded the files and, lo and
+behold, it worked like a charm!  There was just one problem: To keep the weather
+information current, I needed to upload the files every 5 minutes.  This
+identified one of the problems with static websites &amp;ndash; all files get uploaded
+every time.  I was uploading somewhere around 85 files every 5 minutes.  In a 24
+hour period that was about 24,500 files. Each file is a PUT, in AWS terminology,
+so I was uploading a boatload of files every day.  S3 allows up to 2,000 puts
+per day and charges $ 0.005 per 1000 files after that.  It would end up
+costing
+me 12 cents a day to maintain that site.  That&amp;rsquo;s not unreasonable &amp;ndash; less than
+$4 a month. But not necessarily cheap either.  I can buy full support web servers
+for about that price and not worry about upload, storage, DNS (AWS charges for
+DNS services, too), or bandwidth costs. But, there are other uses that wouldn&amp;rsquo;t
+cost as much.&lt;/p&gt;
+&lt;p&gt;One such use is the blog. Now, Grav, Pico, and such, all require PHP,
+which is not available in S3.  So, to do a blog on S3, I needed a static site
+generator that would create the site locally, then upload them generated files
+to the server.  &lt;a href=&#34;https://www.staticgen.com&#34;&gt;StaticGen&lt;/a&gt; is a great site that
+lists dozens of static site generators, together with basic information about
+them and their relative popularity.  Jekyll is, by far, the most popular. Also
+pretty popular is Hugo.  I&amp;rsquo;ve played with and like both.  Unlike Jekyll, which is
+written in Ruby, and interpreted language, Hugo is written in Go, which is
+compiled.  This means, generally, Hugo should be faster for rendering larger
+sites.  I can&amp;rsquo;t speak to their speed, given the small number of pages I&amp;rsquo;ve
+created so far.&lt;/p&gt;
+&lt;h3 id=&#34;trying-them-out&#34;&gt;Trying Them Out&lt;/h3&gt;
+&lt;p&gt;Just from early use, I generally like Hugo better.  I can&amp;rsquo;t put my
+finger on why, though.  Initially, I found Jekyll a bit confusing to use.  While
+the documentation is extensive, it is not terribly user friendly in my view.&lt;br&gt;
+Even while I&amp;rsquo;m actually fairly conversant in computerese, I didn&amp;rsquo;t feel that the
+documentation got to the point in providing a new user with the resources needed
+to really get started.  That&amp;rsquo;s one place where, I think, Hugo was better.  So,
+why did I end up using Jekyll?  Mostly because of themes.&lt;/p&gt;
+&lt;p&gt;I tried a dozen or so themes on Hugo.  Some worked; most didn&amp;rsquo;t.  I&amp;rsquo;m
+sure it had much to do with user error, but I didn&amp;rsquo;t want to spend the time to
+troubleshoot.  The themes I tried in Jekyll just worked.  So, I went with
+Jekyll.&lt;/p&gt;
+&lt;h3 id=&#34;my-plan&#34;&gt;My Plan&lt;/h3&gt;
+&lt;p&gt;My plan is try Jekyll for a while and, if I do end up changing, it
+shouldn&amp;rsquo;t be be that big of a deal.  I suspect, though I haven&amp;rsquo;t tested it, that
+the files should be easily converted between the two; they both use Markdown.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Technology For Its Own Sake</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/technology-for-its-own-sake/</link>
+      <link>http://localhost:1313/posts/technology-for-its-own-sake/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/technology-for-its-own-sake/</guid>
-      <description>Technology For It&amp;rsquo;s Own Sake About eight years ago I spent a couple of years teaching high school. Being a nurse, and coming into the experience with no real educational background it was quite an interesting, and eye-opening experience. Needless to say, I probably learned more than my students did. One of the things that left me scratching my head was the approach the school system took toward education. Tons of money was spent on technology and teachers were required to have at least one “technology lesson” each week.</description>
+      
+      <guid>http://localhost:1313/posts/technology-for-its-own-sake/</guid>
+      <description>&lt;h1 id=&#34;technology-for-its-own-sake&#34;&gt;Technology For It&amp;rsquo;s Own Sake&lt;/h1&gt;
+&lt;p&gt;About eight years ago I spent a couple of years teaching high school. Being a nurse, and coming into the experience with no real educational background it was quite an interesting, and eye-opening experience. Needless to say, I probably learned more than my students did. One of the things that left me scratching my head was the approach the school system took toward education. Tons of money was spent on technology and teachers were required to have at least one “technology lesson” each week. That lesson had to be so designated on your weekly lesson plan. Talk about misguided! As I write this I still see a lot of the same things happening in education — at all levels. And it’s just plain dumb. Let’s explore this a bit. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;technology-for-its-own-sake&#34;&gt;Technology For It&amp;rsquo;s Own Sake&lt;/h1&gt;
+&lt;p&gt;About eight years ago I spent a couple of years teaching high school. Being a nurse, and coming into the experience with no real educational background it was quite an interesting, and eye-opening experience. Needless to say, I probably learned more than my students did. One of the things that left me scratching my head was the approach the school system took toward education. Tons of money was spent on technology and teachers were required to have at least one “technology lesson” each week. That lesson had to be so designated on your weekly lesson plan. Talk about misguided! As I write this I still see a lot of the same things happening in education — at all levels. And it’s just plain dumb. Let’s explore this a bit. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h4 id=&#34;build-it-and-they-will-come&#34;&gt;Build It and They Will Come&lt;/h4&gt;
+&lt;p&gt;Let’s suppose, for a moment, that I’m running a for profit business. Where and when I spend money is determined by the needs that spending that money will meet. Outside of research and development it is unlikely that I would spend large sums of money on equipment and software for which I don’t already have a defined purpose. Stating that a bit differently, purchases are driven by the need the purchase will meet. A businessman would be foolish to spend large sums of money on a piece of equipment then turn to his staff and say, “well, here it is. Figure out how we can use it!” But that’s what schools do.&lt;/p&gt;
+&lt;p&gt;One of the metrics used to judge school systems, apparently, is the technology available within the system.  Thus, IT leaders in education become focused on procuring equipment and software that they can then point to as evidence of their “forward thinking” and/or their technologic support of the classroom.&lt;/p&gt;
+&lt;p&gt;So, often that technology sits in the classroom unused. Why? Three reasons:&lt;/p&gt;
+&lt;p&gt;1.    The technology is purchased without a clear purpose in mind. No one asks the question: What instructional need is this purchase fulfilling? With no clear instructional purpose, the equipment is simply not used.&lt;/p&gt;
+&lt;p&gt;2.    While money was spent to buy the equipment and software, little or no money is spent to train teachers to use it.  Shown how to use the technology, and how it can be beneficial in the classroom, I think many teachers would be accepting of new technologies. However, this is seldom done. They’re left to their own motivation. That leads us to the third problem.&lt;/p&gt;
+&lt;p&gt;3.    Teachers already have a lot on their plates. They have no motivation to learn new technologies that may not have value in their classrooms. That is, with so many competing priorities in teaching today, teachers don’t want to spend time trying to learn a technology that may not be of benefit in moving them toward the goal of educating their students.&lt;/p&gt;
+&lt;p&gt;IT directors in schools should be educators and they should be capable of evaluating the utility of the technologies in the classroom setting. Purchases should be driven not by a desire to “look good” on some report, or by a desire to “try out” new technologies, but by the need in the classroom. Interestingly, it seems that often the decisions are made without input from teachers and when teachers do make recommendations, or requests for specific technologies, their input is ignored or minimized. Heaven forbid that a faculty member should request software, or access to an online technology that they have determined would be beneficial to their classroom. Their request may well be denied. After all, who are they to evaluate software? And, there’s likely to be no money in the budget for such requests.&lt;/p&gt;
+&lt;h4 id=&#34;technology-for-technologys-sake&#34;&gt;Technology for Technology’s Sake&lt;/h4&gt;
+&lt;p&gt;As I note above, the idea of having at least one “technology lesson plan” each week is equally ludicrous.  Technology should always be the tool to achieving an outcome. Unless you’re teaching a technology course, the technology should not be the focus. Like buying equipment without a purpose, using technology (or requiring its use) when it contributes little to the outcomes is ridiculous for several reasons:&lt;/p&gt;
+&lt;p&gt;1.    Not all topics benefit from the use of technology. As adjunctive activities technology-based activities might have a place in some classrooms. For example, using storyboarding software to create a storyboard of a reading in a literature class might be beneficial in reinforcing what is learned. On the other hand, simply having the student prepare a PowerPoint on the topic likely does no more for learning than having them take notes. Why not just have them take notes, instead of introducing the complexity of the software into the equation?&lt;/p&gt;
+&lt;p&gt;2.    Teachers seldom have the level of skill needed to teach students how to use the technology— I”m an English teacher, not a computer teacher, for example.&lt;/p&gt;
+&lt;p&gt;3.    A corollary to  #2 is that students are often significantly more sophisticated in their ability to use current technologies than are their teachers. So, the teacher assigns the creation of a PowerPoint (which students have now done hundreds of times) and the student is bored. Why not allow the student to select a technology to use to present an idea? I’m betting theirs would be much more interesting.&lt;/p&gt;
+&lt;p&gt;I’m sure there are other reasons, but I’ll let you add them.&lt;/p&gt;
+&lt;p&gt;The point in all of this is that technology is, and should be seen as, a tool in the teacher’s toolbox. You would never hand someone a wrench and tell them to figure out how to build a house with it. Neither should you demand that teachers use a specific technology in their classrooms. Teachers should always be free to choose the tools that best meet the needs of the classroom. But, to help them understand the tools available to them, they should be properly trained in the use of all their tools, not just a few. Finally, teachers should feel free to request  and be allowed to use whatever resources they feel best meet the needs of their classroom. It should never be the IT director’s decision on what is appropriate for the classroom.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

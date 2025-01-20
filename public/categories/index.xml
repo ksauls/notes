@@ -1,55 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/categories/</link>
-    <description>Recent content in Categories on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/ksauls/hugo/categories/technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/categories/technology/</guid>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
+      <content></content>
     </item>
+    
     <item>
       <title>General</title>
-      <link>http://localhost:1313/ksauls/hugo/categories/general/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/categories/general/</guid>
+      <link>http://localhost:1313/categories/general/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/general/</guid>
       <description></description>
+      <content></content>
     </item>
+    
     <item>
       <title>Retirement</title>
-      <link>http://localhost:1313/ksauls/hugo/categories/retirement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/categories/retirement/</guid>
+      <link>http://localhost:1313/categories/retirement/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/retirement/</guid>
       <description></description>
+      <content></content>
     </item>
+    
     <item>
       <title>Book Reviews</title>
-      <link>http://localhost:1313/ksauls/hugo/categories/book-reviews/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/categories/book-reviews/</guid>
+      <link>http://localhost:1313/categories/book-reviews/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/book-reviews/</guid>
       <description></description>
+      <content></content>
     </item>
+    
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/ksauls/hugo/categories/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/categories/projects/</guid>
+      <link>http://localhost:1313/categories/projects/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/projects/</guid>
       <description></description>
+      <content></content>
     </item>
+    
     <item>
       <title>General Education</title>
-      <link>http://localhost:1313/ksauls/hugo/categories/general-education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/categories/general-education/</guid>
+      <link>http://localhost:1313/categories/general-education/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/general-education/</guid>
       <description></description>
+      <content></content>
     </item>
+    
   </channel>
 </rss>

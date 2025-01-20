@@ -1,27 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/tags/writing/</link>
-    <description>Recent content in Writing on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <title>Writing on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/tags/writing/</link>
+    <description>Recent content in Writing on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Power of Curiosity</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/the-power-of-curiosity/</link>
+      <link>http://localhost:1313/posts/the-power-of-curiosity/</link>
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/the-power-of-curiosity/</guid>
-      <description>The Power of Curiosity I have always been a curious person. I&amp;rsquo;m the kid that took toys apart to see how they worked (and was sometimes able to put them back together again, too!) I was the kid that enjoyed reading the WorldBook Encyclopedia because, well, just because. Learning about different stuff fascinated me. Even as a very small child I was curious. My mother used to tell the story of the time when I was maybe 3 or 4 years old and came in crying because my eyes were filled with sand.</description>
+      
+      <guid>http://localhost:1313/posts/the-power-of-curiosity/</guid>
+      <description>&lt;h1 id=&#34;the-power-of-curiosity&#34;&gt;The Power of Curiosity&lt;/h1&gt;
+&lt;p&gt;I have always been a curious person. I&amp;rsquo;m the kid that took toys apart to see how they worked (and was sometimes able to put them back together again, too!) I was the kid that enjoyed reading the &lt;em&gt;WorldBook Encyclopedia&lt;/em&gt; because, well, just because. Learning about different stuff fascinated me.  Even as a very small child I was curious.  My mother used to tell the story of the time when I was maybe 3 or 4 years old and came in crying because my eyes were filled with sand.  I had apparently held a toy over my head and looked up&lt;!-- raw HTML omitted --&gt; as the sand fell out because I wanted to see what it looked like from that angle.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;the-power-of-curiosity&#34;&gt;The Power of Curiosity&lt;/h1&gt;
+&lt;p&gt;I have always been a curious person. I&amp;rsquo;m the kid that took toys apart to see how they worked (and was sometimes able to put them back together again, too!) I was the kid that enjoyed reading the &lt;em&gt;WorldBook Encyclopedia&lt;/em&gt; because, well, just because. Learning about different stuff fascinated me.  Even as a very small child I was curious.  My mother used to tell the story of the time when I was maybe 3 or 4 years old and came in crying because my eyes were filled with sand.  I had apparently held a toy over my head and looked up&lt;!-- raw HTML omitted --&gt; as the sand fell out because I wanted to see what it looked like from that angle.&lt;/p&gt;
+&lt;p&gt;And that curiosity persists within me today. My wife becomes exasperated with me because I tend to bounce around to different ideas, interests, and activities.  Today I&amp;rsquo;m learning a new programming language, tomorrow I&amp;rsquo;m studying Spanish, then next day I&amp;rsquo;m reading some philosophical treatise.  Or business. Or economics. Or &amp;hellip; Or &amp;hellip; Or. Did I say I like to learn stuff?&lt;/p&gt;
+&lt;p&gt;Most recently I&amp;rsquo;ve read two books that have at least provided some consolation that perhaps my natural inclination toward epistemic meandering is neither uncommon nor bad for me.  Mario Livio, an astrophysicist and author of several books on mathematics and physics, wrote the book &lt;em&gt;Why? What Makes Us Curious.&lt;/em&gt; In it Livio shares with the reader how many well-known figures such as Leonardo Da Vinci, Richard Feynman, and a host of others had wide ranging interests and who often became fascinated by some topic only to drop it once their curiosity had been sated, or the specific question they sought to answer had been answered.&lt;/p&gt;
+&lt;p&gt;Ian Leslie, an author and journalist, took a similar approach to curiosity in his book, &lt;em&gt;Curious: The Desire to Know and Why Your Future Depends on It.&lt;/em&gt; Now, having read the book I think the title is a bit hyperbolic, but he does make a number of valid points regarding the importance of curiosity in learning and how what is learned leads to ever more curiosity.&lt;/p&gt;
+&lt;p&gt;For me, both of these books surface a set of ideas that I&amp;rsquo;ve had floating around in my mind for a number of years. The idea that we should focus on one thing is exactly the wrong approach. In the book &lt;em&gt;Freakonomics&lt;/em&gt;, author and economist Steven Levitt told the story of how, when he was being considered for a faculty position, some of those on the committee questioned his program of research.  Typically, an program of research is focused on a single topic area.  This was not the case for Levitt. That is, in his research he was not developing a body of knowledge within a limited field of study but was, instead, researching and writing more broadly. He argued that everything is, in some way, connected and that he, therefore, was well within his rights to explore them.  Bottom line: he as curious and he acted on that curiosity.&lt;/p&gt;
+&lt;h3 id=&#34;curiosity-leads-to-new-discoveries&#34;&gt;Curiosity Leads to New Discoveries&lt;/h3&gt;
+&lt;p&gt;What Levitt did was to take an immense curiosity, accumulate knowledge of broad fields and find connections between them.  Levitt exemplified the concepts that both Livio and Leslie described.  Curiosity prompts us to question and to explore.  Those actions, in turn, add to our knowledge base. Our brain, then, takes that information and begins to build connections. In this way new knowledge is created and new understandings are achieved.  Without that broad knowledge base, it is nearly impossible to see connections that lead to know understandings and insights.&lt;/p&gt;
+&lt;p&gt;Businesses want to exploit new ideas but create environments that, ultimately, work against that very desire.  Many employers either actively, or out of ignorance, create environments that stifle &amp;ndash; and sometimes actively discourage &amp;ndash; the very thing they claim the want.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll write more about that in my next post.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Blogging with Jekyll</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</link>
+      <link>http://localhost:1313/posts/blogging-with-jekyll/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</guid>
-      <description>Blogging with Jekyll Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a blog. I enjoy writing and figured it would be a good way not only to practice the skill, but to share my thoughts with others. I don&amp;rsquo;t really care whether anyone reads my work, to be honest; I just want to write. The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want to be able to keep my files and refer back to them from time to time &amp;ndash; something of a journal (which is what the blog was originally conceived to be).</description>
+      
+      <guid>http://localhost:1313/posts/blogging-with-jekyll/</guid>
+      <description>&lt;h1 id=&#34;blogging-with-jekyll&#34;&gt;Blogging with Jekyll&lt;/h1&gt;
+&lt;p&gt;Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a
+blog.  I enjoy writing and figured it would be a good way not only to practice
+the skill, but to share my thoughts with others.  I don&amp;rsquo;t really care whether
+anyone reads my work, to be honest; I just want to write. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want
+to be able to keep my files and refer back to them from time to time &amp;ndash;
+something
+of a journal (which is what the blog was originally conceived to be). That means
+that I need the writing in form that is easily saved and retrieved. Another
+concern has been that I be able to write from essentially any computer, any
+where.  I started, as most folks do, on Blogger, then moved to Wordpress, each
+time abandoning my work and the platform, as I moved to another. That&amp;rsquo;s not what
+I intended.  Making the process more difficult is that the writing is stored in
+a database. This makes retrieval of the raw data difficult, particularly if
+you&amp;rsquo;ve forgotten the password, or the database is corrupt, etc.  And, to be
+honest, those platforms are simply more complex than my needs. What I needed was
+a simple, easy to use platform that allowed me to maintain a file of my work.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;blogging-with-jekyll&#34;&gt;Blogging with Jekyll&lt;/h1&gt;
+&lt;p&gt;Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a
+blog.  I enjoy writing and figured it would be a good way not only to practice
+the skill, but to share my thoughts with others.  I don&amp;rsquo;t really care whether
+anyone reads my work, to be honest; I just want to write. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want
+to be able to keep my files and refer back to them from time to time &amp;ndash;
+something
+of a journal (which is what the blog was originally conceived to be). That means
+that I need the writing in form that is easily saved and retrieved. Another
+concern has been that I be able to write from essentially any computer, any
+where.  I started, as most folks do, on Blogger, then moved to Wordpress, each
+time abandoning my work and the platform, as I moved to another. That&amp;rsquo;s not what
+I intended.  Making the process more difficult is that the writing is stored in
+a database. This makes retrieval of the raw data difficult, particularly if
+you&amp;rsquo;ve forgotten the password, or the database is corrupt, etc.  And, to be
+honest, those platforms are simply more complex than my needs. What I needed was
+a simple, easy to use platform that allowed me to maintain a file of my work.&lt;/p&gt;
+&lt;h2 id=&#34;flat-files&#34;&gt;Flat files&lt;/h2&gt;
+&lt;p&gt;A year or so ago I became aware of flat-file blogging systems such as
+Grav, HTMLy, Pico, and the like.  These were awesome!  They allowed me to write
+my entries in plain text or Markup, upload the file to my server and, Viola!  I
+had a blog.  These were awesome &amp;ndash; and still are. On the whole, these systems
+meet my needs but, being the curious soul that I am, I wondered if there were
+other ways.  Wouldn&amp;rsquo;t it be nice if my setup didn&amp;rsquo;t depend on which PHP version
+I was running?  Wouldn&amp;rsquo;t it be nice if the system didn&amp;rsquo;t break every time
+something changed on the back end?&lt;/p&gt;
+&lt;h2 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;A few weeks ago I started playing around with Amazon Web
+Service (AWS)
+S3 storage.  One of the things you can do with S3 is serve static websites.&lt;br&gt;
+Cool.  the kicker is, of course, that the site must be static.  Static websites
+have some advantagses.  First, any webserver can serve html files, no special
+resources or support files needed.  HTML is the reason webservers exist and was
+the standard for early websites. Another advantagse is that a static site is not
+subject to server-side scripting issues. This means that it doesn&amp;rsquo;t matter
+whether you have the right version of PHP or PERL installed; the site will
+simply work.  A third advantagse is that if you ever decide to move your site,
+you simply copy the files to another server and you&amp;rsquo;re in business, no fiddling
+needed.&lt;/p&gt;
+&lt;p&gt;To test out the AWS webserver with S3 I started with the website
+automatically created by Weewx, a linux based weather software to serve data
+from my local personal weather station.  I uploaded the files and, lo and
+behold, it worked like a charm!  There was just one problem: To keep the weather
+information current, I needed to upload the files every 5 minutes.  This
+identified one of the problems with static websites &amp;ndash; all files get uploaded
+every time.  I was uploading somewhere around 85 files every 5 minutes.  In a 24
+hour period that was about 24,500 files. Each file is a PUT, in AWS terminology,
+so I was uploading a boatload of files every day.  S3 allows up to 2,000 puts
+per day and charges $ 0.005 per 1000 files after that.  It would end up
+costing
+me 12 cents a day to maintain that site.  That&amp;rsquo;s not unreasonable &amp;ndash; less than
+$4 a month. But not necessarily cheap either.  I can buy full support web servers
+for about that price and not worry about upload, storage, DNS (AWS charges for
+DNS services, too), or bandwidth costs. But, there are other uses that wouldn&amp;rsquo;t
+cost as much.&lt;/p&gt;
+&lt;p&gt;One such use is the blog. Now, Grav, Pico, and such, all require PHP,
+which is not available in S3.  So, to do a blog on S3, I needed a static site
+generator that would create the site locally, then upload them generated files
+to the server.  &lt;a href=&#34;https://www.staticgen.com&#34;&gt;StaticGen&lt;/a&gt; is a great site that
+lists dozens of static site generators, together with basic information about
+them and their relative popularity.  Jekyll is, by far, the most popular. Also
+pretty popular is Hugo.  I&amp;rsquo;ve played with and like both.  Unlike Jekyll, which is
+written in Ruby, and interpreted language, Hugo is written in Go, which is
+compiled.  This means, generally, Hugo should be faster for rendering larger
+sites.  I can&amp;rsquo;t speak to their speed, given the small number of pages I&amp;rsquo;ve
+created so far.&lt;/p&gt;
+&lt;h3 id=&#34;trying-them-out&#34;&gt;Trying Them Out&lt;/h3&gt;
+&lt;p&gt;Just from early use, I generally like Hugo better.  I can&amp;rsquo;t put my
+finger on why, though.  Initially, I found Jekyll a bit confusing to use.  While
+the documentation is extensive, it is not terribly user friendly in my view.&lt;br&gt;
+Even while I&amp;rsquo;m actually fairly conversant in computerese, I didn&amp;rsquo;t feel that the
+documentation got to the point in providing a new user with the resources needed
+to really get started.  That&amp;rsquo;s one place where, I think, Hugo was better.  So,
+why did I end up using Jekyll?  Mostly because of themes.&lt;/p&gt;
+&lt;p&gt;I tried a dozen or so themes on Hugo.  Some worked; most didn&amp;rsquo;t.  I&amp;rsquo;m
+sure it had much to do with user error, but I didn&amp;rsquo;t want to spend the time to
+troubleshoot.  The themes I tried in Jekyll just worked.  So, I went with
+Jekyll.&lt;/p&gt;
+&lt;h3 id=&#34;my-plan&#34;&gt;My Plan&lt;/h3&gt;
+&lt;p&gt;My plan is try Jekyll for a while and, if I do end up changing, it
+shouldn&amp;rsquo;t be be that big of a deal.  I suspect, though I haven&amp;rsquo;t tested it, that
+the files should be easily converted between the two; they both use Markdown.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

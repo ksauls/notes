@@ -1,20 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Business on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/tags/business/</link>
-    <description>Recent content in Business on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <title>Business on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/tags/business/</link>
+    <description>Recent content in Business on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s Wrong With Asking for a &#34;Highly Satisfied&#34; Rating</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/whats-wrong-with-asking-for-a-highly-satisfied-rating/</link>
+      <link>http://localhost:1313/posts/whats-wrong-with-asking-for-a-highly-satisfied-rating/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/whats-wrong-with-asking-for-a-highly-satisfied-rating/</guid>
-      <description>What&amp;rsquo;s Wrong with Asking for a &amp;ldquo;Highly Satisified&amp;rdquo; Rating? Virtually all businesses today are concerned about how the public perceives them. They recognize &amp;ndash; and rightfully so, in my opinion &amp;ndash; that customers who have a positive experience, who receive great service, or receive quality, tasty foods are more likely to be repeat customers. They also know that customers who have a poor experience are just as unlikely to return. Thus, measuring the customer experience by asking the customer to complete a survey of their experience is an important means for getting information on how well the company is doing in meeting the customers&amp;rsquo; needs and expectations.</description>
+      
+      <guid>http://localhost:1313/posts/whats-wrong-with-asking-for-a-highly-satisfied-rating/</guid>
+      <description>&lt;h1 id=&#34;whats-wrong-with-asking-for-a-highly-satisified-rating&#34;&gt;What&amp;rsquo;s Wrong with Asking for a &amp;ldquo;Highly Satisified&amp;rdquo; Rating?&lt;/h1&gt;
+&lt;p&gt;Virtually all businesses today are concerned about how the public perceives them.  They recognize &amp;ndash; and rightfully so, in my opinion &amp;ndash; that customers who have a positive experience, who receive great service, or receive quality, tasty foods are more likely to be repeat customers.  They also know that customers who have a poor experience are just as unlikely to return.  Thus, measuring the customer experience by asking the customer to complete a survey of their experience is an important means for getting information on how&lt;!-- raw HTML omitted --&gt; well the company is doing in meeting the customers&amp;rsquo; needs and expectations.  I&amp;rsquo;m not sure all managers understand the value of the survey and the need for accurate feedback.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;whats-wrong-with-asking-for-a-highly-satisified-rating&#34;&gt;What&amp;rsquo;s Wrong with Asking for a &amp;ldquo;Highly Satisified&amp;rdquo; Rating?&lt;/h1&gt;
+&lt;p&gt;Virtually all businesses today are concerned about how the public perceives them.  They recognize &amp;ndash; and rightfully so, in my opinion &amp;ndash; that customers who have a positive experience, who receive great service, or receive quality, tasty foods are more likely to be repeat customers.  They also know that customers who have a poor experience are just as unlikely to return.  Thus, measuring the customer experience by asking the customer to complete a survey of their experience is an important means for getting information on how&lt;!-- raw HTML omitted --&gt; well the company is doing in meeting the customers&amp;rsquo; needs and expectations.  I&amp;rsquo;m not sure all managers understand the value of the survey and the need for accurate feedback.&lt;/p&gt;
+&lt;h4 id=&#34;why-surveys-are-important&#34;&gt;Why Surveys Are Important&lt;/h4&gt;
+&lt;p&gt;In a competitive marketplace reputation is important.  Reputation is the amalgam of the customer experience. Everything from the taste, temperature, and presentation of the food, to the friendliness of staff, the speed with which the food is delivered, and even the cleanliness of the environment, all play a role in reputation.  In retail businesses such as Wal-Mart or Target, the quality of the food may not be of value, but the abilty to easily navigate the aisles, or to locate a desired product, would be.  The simple fact is that your company may provide the best food in town, but if the service sucks, your reputation will sink you quickly. And, once the reputation is established it&amp;rsquo;s really hard to change.&lt;/p&gt;
+&lt;p&gt;Customer surveys can provide management with insight into what the customer values and to how well the business is meeting that expectation.  If you want to improve, you pay attention to the feedback customers provide.  But that feedback needs to be accurate.&lt;/p&gt;
+&lt;h4 id=&#34;the-ask&#34;&gt;The &amp;lsquo;Ask&amp;rsquo;&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I was immediately struck by the inanity of that message.  I doubt whether McDonalds corporate authorized that message. After all, they are spending money to collect and analyze the data from the survey, and providing incentives for completing it &amp;ndash; regardless of what ratings are applied. To ask for a specific rating invalidates the survey, wasting all the money they&amp;rsquo;ve invested in the process.  That wouldn&amp;rsquo;t make sense from a corporate perspective.  Businesses want and need valid customer feedback, as I said earlier.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Assuming that McDonald&amp;rsquo;s corporate didn&amp;rsquo;t authorize the message, I am left with a couple of other possible explanations and to some degree they may be interrelated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, the management of this particular store does not understand the value of customer feedback.  It could be that the manager either never received or did not pay attention to the training on the value and utility of accurate customer feedback.  Alternately, they may simply have received bad training from the git go.&lt;/li&gt;
+&lt;li&gt;Second, it could be that the manager fully understands the value of feedback but also knows that some issues, such as service quality are the result of in-store cultures and, as a result, realizes the challenges faced with changing that culture.  It&amp;rsquo;s easier to ask customers to provide false feedback than to address the issues that could organically lead to improved customer experiences in the store.&lt;/li&gt;
+&lt;li&gt;A third option is that the management in that store simply doesn&amp;rsquo;t care.  They would rather bribe customers to get high ratings than to actually do the work of improving their service and quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;undermining-their-own-intentions&#34;&gt;Undermining Their Own Intentions&lt;/h4&gt;
+&lt;p&gt;A fourth possibility is that corporate messaging may lead to misunderstanding the goals of the survey, or actually change the purpose of the survey unintentionally.  In my experience, it is pretty common for businesses to say one thing but then take steps that undermine their words.  Because businesses often don&amp;rsquo;t fully think through their actions, they fail to recognize and adjust for the potential unintentional consequences of their actions.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s assume, for example, that McDonalds is sincere in their desire to improve the quality of food and service in their stores. They initiate the customer feedback system to gain insights into the customer experience and expectations.  Along with this effort, they implement a rewards system that rewards stores for high ratings.  Sounds good, right?  Providing incentives to earn highly satisfied ratings might help improve the experience. Or, it could simply lead to managers asking customers to give high ratings, bribing them to do so. The unintentional effect of providing incentives to managers for their high ratings leads to the managers gaming the system to ensure they get those incentives.&lt;/p&gt;
+&lt;p&gt;Not only does the customer experience not improve, but the company no longer has a valid way to determine what that customer experience is.  The data are tainted.  In my view, the results of surveys should not be tied either to incentives or punishment (the other direction some businesses tend to go).  Rather, the surveys should be presented to management for what they are &amp;ndash; opportunities to improve the success of the business through its focus on the customer experience.&lt;/p&gt;
+&lt;h4 id=&#34;what-did-i-do-with-that-survey&#34;&gt;What Did I do With That Survey?&lt;/h4&gt;
+&lt;p&gt;I actually completed the survey with the specific goal of expressing my displeasure at the &amp;ldquo;bribe&amp;rdquo; that was offered.  Interestingly, even though I did not provide &amp;ldquo;Highly Satisfied&amp;rdquo; responses to my survey, I was given a code for that free item.  So, it appears that a &amp;ldquo;highly satisfied&amp;rdquo; rating was not required for the incentive, but you don&amp;rsquo;t find that out until you&amp;rsquo;ve provided the high ratings.  It seems the company was simply providing an incentive to customers to provide feedback.  The manager decided to leverage that incentive to ensure high ratings.&lt;/p&gt;
+&lt;p&gt;That manager needs retraining &amp;ndash; and not just on on the value of customer feedback.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

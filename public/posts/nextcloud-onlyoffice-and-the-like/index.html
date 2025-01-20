@@ -1,255 +1,226 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
-<head><script src="/ksauls/hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=ksauls/hugo/livereload" data-no-instant defer></script>
-  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Nextcloud, OnlyOffice and the Like  | Kevin&#39;s corner of the web</title>
-<meta name="title" content="Nextcloud, OnlyOffice and the Like " />
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+    <title>Nextcloud, OnlyOffice and the Like  :: Kevin&#39;s Corner of the Web</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.
-I&rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the" />
-<meta name="keywords" content="websites,technology," />
+I&rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the
+" />
+<meta name="keywords" content="" />
 
+  <meta name="robots" content="noodp" />
 
-<meta property="og:url" content="http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/">
-  <meta property="og:site_name" content="Kevin&#39;s corner of the web">
-  <meta property="og:title" content="Nextcloud, OnlyOffice and the Like ">
-  <meta property="og:description" content="Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I’m currently in one of those cycles and have been playing around a good bit with Nextcloud.
-I’ve even coupled it with OnlyOffice so that I can edit documents in the">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2018-02-25T00:00:00+00:00">
-    <meta property="article:modified_time" content="2018-02-25T00:00:00+00:00">
-    <meta property="article:tag" content="Websites">
-    <meta property="article:tag" content="Technology">
+<link rel="canonical" href="http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/" />
 
 
 
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Nextcloud, OnlyOffice and the Like ">
-  <meta name="twitter:description" content="Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I’m currently in one of those cycles and have been playing around a good bit with Nextcloud.
-I’ve even coupled it with OnlyOffice so that I can edit documents in the">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/buttons.min.2bc533403a27dfe0e93105a92502b42ce4587e2e4a87d9f7d349e51e16e09478.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/code.min.00125962708925857e7b66dbc58391d55be1191a3d0ce2034de8c9cd2c481c36.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/fonts.min.4881f0c525f3ce2a1864fb6e96676396cebe1e6fcef1933e8e1dde7041004fb5.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/footer.min.2e3eb191baee58dd05a9f0104ac1fab0827bca7c64dafe0b2579f934c33a1d69.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/gist.min.a751e8b0abe1ba8bc53ced52a38b19d8950fe78ca29454ea8c2595cf26aad5c0.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/header.min.b6fb4423cf82a9f9d7abc9cd010223fa3d70a6526a3f28f8e17d814c06e18f9e.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/main.min.fe8dc560fccb53a458b0db19ccb7b265764ac46b68596b7e099c6793054dd457.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/menu.min.83637a90d903026bc280d3f82f96ceb06c5fc72b7c1a8d686afb5bbf818a29f7.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/pagination.min.82f6400eae7c7c6dc3c866733c2ec0579e4089608fea69400ff85b3880aa0d3c.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/post.min.fc74ca360273c1d828da3c02b8174eba435607b369d98418ccc6f2243cd4e75d.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/prism.min.9023bbc24533d09e97a51a0a42a5a7bfe4c591ae167c5551fb1d2191d11977c0.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.min.cc789ed9377260d7949ea4c18781fc58959a89287210fe4edbff44ebfc1511b6.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/terminal.min.4b367d85d0d0061435650561285afed36c46a7cf8dc6d7ed5642d98e589fa622.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
 
 
 
 
-  <meta itemprop="name" content="Nextcloud, OnlyOffice and the Like ">
-  <meta itemprop="description" content="Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I’m currently in one of those cycles and have been playing around a good bit with Nextcloud.
-I’ve even coupled it with OnlyOffice so that I can edit documents in the">
-  <meta itemprop="datePublished" content="2018-02-25T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2018-02-25T00:00:00+00:00">
-  <meta itemprop="wordCount" content="1348">
-  <meta itemprop="keywords" content="Websites,Technology">
-<meta name="referrer" content="no-referrer-when-downgrade" />
 
-  <style>
-  body {
-    font-family: monospace;
-    margin: auto;
-    padding: 20px;
-    max-width: 720px;
-    text-align: left;
-    background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 2.5;
-    color: #444;
-  }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  strong,
-  b {
-    color: #222;
-  }
 
-  a {
-    color: #3273dc;
-     
-  }
+<link rel="shortcut icon" href="http://localhost:1313/favicon.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
 
-  .title {
-    text-decoration: none;
-    border: 0;
-  }
 
-  .title span {
-    font-weight: 400;
-  }
+<meta name="twitter:card" content="summary" />
 
-  nav a {
-    margin-right: 10px;
-    font-size: 18px;  
-}
 
-  textarea {
-    width: 100%;
-    font-size: 24px;
-  }
 
-  input {
-    font-size: 24px;
-  }
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Nextcloud, OnlyOffice and the Like ">
+<meta property="og:description" content="Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.
+I&rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the
+" />
+<meta property="og:url" content="http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/" />
+<meta property="og:site_name" content="Kevin&#39;s Corner of the Web" />
 
-  content {
-    line-height: 2;
-    font-size: 16px;
-  }
+  <meta property="og:image" content="http://localhost:1313/og-image.png">
 
-  table {
-    width: 100%;
-  }
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
 
-  img {
-    max-width: 100%;
-  }
+  <meta property="article:section" content="projects" />
 
-  code {
-    padding: 2px 5px;
-    background-color: #f2f2f2;
-  }
 
-  pre code {
-    color: #222;
-    display: block;
-    padding: 20px;
-    white-space: pre-wrap;
-    font-size: 14px;
-    overflow-x: auto;
-  }
+  <meta property="article:published_time" content="2018-02-25 00:00:00 &#43;0000 UTC" />
 
-  div.highlight pre {
-    background-color: initial;
-    color: initial;
-  }
 
-  div.highlight code {
-    background-color: unset;
-    color: unset;
-  }
 
-  blockquote {
-    border-left: 1px solid #999;
-    color: #222;
-    padding-left: 20px;
-    font-style: italic;
-  }
 
-  footer {
-    padding: 25px;
-    text-align: center;
-  }
 
-  .helptext {
-    color: #777;
-    font-size: small;
-  }
 
-  .errorlist {
-    color: #eba613;
-    font-size: small;
-  }
 
-   
-  ul.blog-posts {
-    list-style-type: none;
-    padding: unset;
-  }
 
-  ul.blog-posts li {
-    display: flex;
-  }
 
-  ul.blog-posts li span {
-    flex: 0 0 130px;
-  }
 
-  ul.blog-posts li a:visited {
-    color: #8b6fcb;
-  }
-.footnotes {
-  font-size: small;
-}
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #333;
-      color: #ddd;
-    }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong,
-    b {
-      color: #eee;
-    }
-
-    a {
-      color: #8cc2dd;
-    }
-
-    code {
-      background-color: #777;
-    }
-
-    pre code {
-      color: #ddd;
-    }
-
-    blockquote {
-      color: #ccc;
-    }
-
-    textarea,
-    input {
-      background-color: #252525;
-      color: #ddd;
-    }
-
-    .helptext {
-      color: #aaa;
-    }
-  }
-
-</style>
 
 </head>
-
 <body>
-  <header><a href="/ksauls/hugo/" class="title">
-  <h2>Kevin&#39;s corner of the web</h2>
+
+
+<div class="container center">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="http://localhost:1313/">
+  <div class="logo">
+    Terminal
+  </div>
 </a>
-<nav><a href="/ksauls/hugo/">Home</a>
 
-<a href="/ksauls/hugo/posts/">Posts</a>
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/posts/">Posts</a></li>
+        
+      
+        
+          <li><a href="/book_reviews/">Book Reviews</a></li>
+        
+      
+        
+          <li><a href="/projects/">Projects</a></li>
+        
+      
+        
+          <li><a href="/tags/">tags</a></li>
+        
+      
+        
+          <li><a href="/categories/">categories</a></li>
+        
+      
+        
+          <li><a href="/about/">About</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
 
-<a href="/ksauls/hugo/book_reviews/">Book Reviews</a>
-
-<a href="/ksauls/hugo/projects/">Projects</a>
-
-<a href="/ksauls/hugo/tags/">tags</a>
-
-<a href="/ksauls/hugo/categories/">categories</a>
-
-<a href="/ksauls/hugo/about/">About</a>
-
-
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/posts/" >Posts</a></li>
+        
+      
+        
+          <li><a href="/book_reviews/" >Book Reviews</a></li>
+        
+      
+        
+          <li><a href="/projects/" >Projects</a></li>
+        
+      
+        
+          <li><a href="/tags/" >tags</a></li>
+        
+      
+        
+          <li><a href="/categories/" >categories</a></li>
+        
+      
+        
+          <li><a href="/about/" >About</a></li>
+        
+      
+      
+    
+  </ul>
 </nav>
-</header>
-  <main>
 
-<content>
-  <h1 id="nextcloud-onlyoffice-and-the-like">Nextcloud, OnlyOffice, and the Like</h1>
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/">Nextcloud, OnlyOffice and the Like</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2018-02-25</time></div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="http://localhost:1313/tags/websites/">websites</a>&nbsp;
+      
+      #<a href="http://localhost:1313/tags/technology/">technology</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <h1 id="nextcloud-onlyoffice-and-the-like">Nextcloud, OnlyOffice, and the Like<a href="#nextcloud-onlyoffice-and-the-like" class="hanchor" ariaLabel="Anchor">#</a> </h1>
 <p>Every once in a while I get this notion that I need to move my data off of sites
 like Dropbox, OneDrive, and so forth. When I do, I start playing around with
 self-hosted services such as NextCloud, OwnCloud, and so forth. I&rsquo;m currently in
@@ -257,7 +228,7 @@ one of those cycles and have been playing around a good bit with Nextcloud.</p>
 <p>I&rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the</p>
 <!-- raw HTML omitted -->
 <p>Here&rsquo;s where I am right now.</p>
-<h2 id="my-current-setup">My Current Setup</h2>
+<h2 id="my-current-setup">My Current Setup<a href="#my-current-setup" class="hanchor" ariaLabel="Anchor">#</a> </h2>
 <p>Let me say upfront that I use OneDrive for most of my document storage. That
 came about partly because I use a Microsoft Surface, as well as a Windows laptop
 that doesn&rsquo;t have a large storage capacity.  Being able to write a document in
@@ -286,7 +257,7 @@ through a VPN. My Ubiquiti Edgerouter X made setting up that VPN almost trivial
 and works flawlessly.  So, so long as I have one of my mobile devices, I can
 access my internal network and all the files available there.  No need for a
 webservice to provide that intermediate layer.</p>
-<h2 id="privacy-concerns">Privacy Concerns</h2>
+<h2 id="privacy-concerns">Privacy Concerns<a href="#privacy-concerns" class="hanchor" ariaLabel="Anchor">#</a> </h2>
 <p>In most of the online discussions surrounding these types of self-hosted
 services, the primary reason for moving from a &ldquo;cloud host&rdquo; to a self-hosted
 solution is privacy.  After all, we don&rsquo;t want those big, bad companies mining
@@ -310,7 +281,7 @@ some levels of
 copyright.  Should my online account at one of these big providers be
 compromised, my claim to copyright on these documents could be compromised.  The
 likelihood of that occurring is minimal, but it is, nonetheless, a risk.</p>
-<h2 id="security">Security</h2>
+<h2 id="security">Security<a href="#security" class="hanchor" ariaLabel="Anchor">#</a> </h2>
 <p>Security, to me, is part of, but separate from, privacy.  A secure service
 protects my privacy, to be sure.  But what I&rsquo;m referring to here is protecting
 my work from loss.  If I have files that I truly do not want to lose, I want to
@@ -325,7 +296,7 @@ disappear from the face of the Earth, taking my important files with them.</p>
 <p>Alternately, they may sell out to another company that doesn&rsquo;t take the same
 precautions, or that decides to hold my data hostagse.  Not an enticing scenario
 and, hopefully, an unlikely one. But, taking that risk is &hellip;, well, a risk.</p>
-<h2 id="storage----the-defining-factor">Storage &ndash; The Defining Factor</h2>
+<h2 id="storage----the-defining-factor">Storage &ndash; The Defining Factor<a href="#storage----the-defining-factor" class="hanchor" ariaLabel="Anchor">#</a> </h2>
 <p>Perhaps the biggest draw for using a service like Nextcloud is available
 storage. Unlike the online providers, all of which limit storage, storage for
 your self-hosted Nextcloud account is limited only by the available storage on
@@ -350,7 +321,7 @@ have that
 1TB of
 paid-for storage, but more importantly because I have several TB of storage on
 my local server, without upload limits, and have easy access through my VPN.</p>
-<h2 id="so-where-am-i-truly-at">So, Where Am I Truly At?</h2>
+<h2 id="so-where-am-i-truly-at">So, Where Am I Truly At?<a href="#so-where-am-i-truly-at" class="hanchor" ariaLabel="Anchor">#</a> </h2>
 <p>For right now, I&rsquo;m leaving the Nextcloud and OnlyOffice servers running.<br>
 Whether I will use them is a question that only time will answer.  I&rsquo;m intrigued
 by the ability to do on-line editing much as Office Online and Google Docs can
@@ -361,21 +332,68 @@ to see whether they meet any specific need that I might have not yet identified.
 diminishes, as does my need for document storage. In that light, Nextcloud may
 provide all the services I need for daily work.  Time will tell that tale.</p>
 
-</content>
-<p>
-  
-  <a href="http://localhost:1313/ksauls/hugo/tags/websites/">#Websites</a>
-  
-  <a href="http://localhost:1313/ksauls/hugo/tags/technology/">#Technology</a>
-  
-</p>
+      </div></div>
 
-  </main>
-  <footer>© 2024 - Kevin Sauls ||
-Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+  
+    
+<div class="pagination">
+  <div class="pagination__title">
+    <span class="pagination__title-h">Read other posts</span>
+    <hr />
+  </div>
+  <div class="pagination__buttons">
+    
+      <a href="http://localhost:1313/posts/the-power-of-curiosity/" class="button inline prev">
+        The Power of Curiosity
+      </a>
+    
+    
+      ::
+    
+    
+      <a href="http://localhost:1313/posts/connecting-the-macbook-to-the-edgerouter-vpn/" class="button inline next">
+        Connecting the MacBook to the Edgerouter VPN
+      </a>
+    
+  </div>
+</div>
+
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2025 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
+      </div>
+  </div>
 </footer>
 
-    
-</body>
 
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
 </html>

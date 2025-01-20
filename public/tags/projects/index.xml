@@ -1,27 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/tags/projects/</link>
-    <description>Recent content in Projects on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/tags/projects/</link>
+    <description>Recent content in Projects on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moving from Exchange to Zoho Mail</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/moving-from-exchange-to-zoho-mail/</link>
+      <link>http://localhost:1313/posts/moving-from-exchange-to-zoho-mail/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/moving-from-exchange-to-zoho-mail/</guid>
-      <description>Moving from Exchange to Zoho Mail Somewhere back around 2011 or 2012 I moved from my ISP&amp;rsquo;s email service to Microsoft Office 365 Business plan that offered access to MS Exchange server. I had previously toyed with using Gmail&amp;rsquo;s services with my own domain name but didn&amp;rsquo;t find that it met my specific needs. Too, I really didn&amp;rsquo;t have a great love for Gmail.&#xA;My motivation for moving, as I recall now more than a dozen years later, is that I was starting my doctoral studies and needed to be able to coordinate more easily with classmates, access calendars and documents across multiple platforms, and generally have better control over my workflows.</description>
+      
+      <guid>http://localhost:1313/posts/moving-from-exchange-to-zoho-mail/</guid>
+      <description>&lt;h1 id=&#34;moving-from-exchange-to-zoho-mail&#34;&gt;Moving from Exchange to Zoho Mail&lt;/h1&gt;
+&lt;p&gt;Somewhere back around 2011 or 2012 I moved from my ISP&amp;rsquo;s email service to Microsoft Office 365 Business plan that offered access to MS Exchange server.  I had previously toyed with using Gmail&amp;rsquo;s services with my own domain name but didn&amp;rsquo;t find that it met my specific needs.  Too, I really didn&amp;rsquo;t have a great love for Gmail.&lt;/p&gt;
+&lt;p&gt;My motivation for moving, as I recall now more than a dozen years later, is that I was starting my doctoral studies and needed to be able to coordinate more easily with classmates, access calendars and documents across multiple platforms, and generally have better control over my workflows.  I was already using Microsoft Office for my word processing and spreadsheet needs, and was looking for an integrated solution that would allow me to plan and execute my work more easily.  After playing around with several solutions I finally settled on Office 365.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;moving-from-exchange-to-zoho-mail&#34;&gt;Moving from Exchange to Zoho Mail&lt;/h1&gt;
+&lt;p&gt;Somewhere back around 2011 or 2012 I moved from my ISP&amp;rsquo;s email service to Microsoft Office 365 Business plan that offered access to MS Exchange server.  I had previously toyed with using Gmail&amp;rsquo;s services with my own domain name but didn&amp;rsquo;t find that it met my specific needs.  Too, I really didn&amp;rsquo;t have a great love for Gmail.&lt;/p&gt;
+&lt;p&gt;My motivation for moving, as I recall now more than a dozen years later, is that I was starting my doctoral studies and needed to be able to coordinate more easily with classmates, access calendars and documents across multiple platforms, and generally have better control over my workflows.  I was already using Microsoft Office for my word processing and spreadsheet needs, and was looking for an integrated solution that would allow me to plan and execute my work more easily.  After playing around with several solutions I finally settled on Office 365.&lt;/p&gt;
+&lt;p&gt;Some folks might argue that using Gmail&amp;rsquo;s free service (which at the time allowed the use of personal domain name without incurring an additional cost) made more sense than spending money on O365.  I saw it differently.  First, there&amp;rsquo;s the old mantra that if it&amp;rsquo;s free then you&amp;rsquo;re the product and there was some question (at least in my mind) about the security and privacy of &lt;a href=&#34;http://localhost:1313/posts/i-dont-trust-gmail-heres-why/&#34;&gt;Gmail&lt;/a&gt;.  An issue that I still feel is valid today.  Second, I was already using MS Word for my writing and rather than write in Google Docs then convert to .docx, it made more sense to use MS Word and save my documents to the Sharepoint site that was included in my O365 account.&lt;/p&gt;
+&lt;p&gt;To be honest, I was not terribly keen on paying upwards of $60 a year for email but when I took a step back, I realized that the benefits I got from using O365 made the cost at least reasonable.&lt;/p&gt;
+&lt;p&gt;Now, let&amp;rsquo;s fast-forward to 2024.  I completed my doctorate in 2018. With the degree behind me and my employer providing an O365 account for most of my work, I no longer really needed my personal O365 account.  Inertia, more than anything else, kept me from switching away.  I had thousands of emails tucked away in my email account and several hundred documents stored in Sharepoint.  Moving all of that stuff was, it seemed, a daunting task.  So, I just let it sit and paid the annual costs.&lt;/p&gt;
+&lt;p&gt;In December, 2023, though, I retired and started taking a good look at what I was using.  I realized pretty quickly that I wasn&amp;rsquo;t using essentially any of the services offered by O365 beyond email and that was mostly junk mail.  Why was I paying $60/ year for that service?  Beside, over time the offerings that came with what was initially called &amp;ldquo;Business Essentials&amp;rdquo; were degraded with fewer and fewer services offered at that tier.  The cost/benefit just wasn&amp;rsquo;t there. So, I began looking for alternatives.&lt;/p&gt;
+&lt;p&gt;One of the considerations was the amount of available storage for emails and attachments. I took a look at my O365 mail storage usage and realized that I had accumulated less than 1.5 GB of email storage over a  10 year period.  I knew that even a small storage application would be fine.&lt;/p&gt;
+&lt;p&gt;I looked at a variety of services, including some very popular, privacy oriented services such as ProtonMail, GMX, Mail.com, and several others. Overall, the costs for these services were not that much different from what I was already paying and the didn&amp;rsquo;t provide the same benefits as O365 so there was really no incentive to move to any of them.&lt;/p&gt;
+&lt;p&gt;I even considered simply using my extant iCloud+ account which allows you to include a custom domain for your email.  Since I was already paying for iCloud+ that would have seemed the logical choice.  The issue there is that your &lt;a href=&#34;mailto:me@icloud.com&#34;&gt;me@icloud.com&lt;/a&gt;, &lt;a href=&#34;mailto:me@me.com&#34;&gt;me@me.com&lt;/a&gt;, and your custom domain email all get dumped into one pot.  I use my iCloud email as something of a filter when I need to sign up or provide an email address for a service or site that I&amp;rsquo;m not sure I trust.  This way my legitimate mail and my &amp;lsquo;junk&amp;rsquo; email has a bit of separation.  I didn&amp;rsquo;t want everything dumped in one bucket.&lt;/p&gt;
+&lt;p&gt;After doing a bit more research, I found Zoho Mail. Doing a bit of research, I found that Zoho has been around since 1996, is based in India, has several locations around the world, including Texas in the US, and has a full suite of business applications.  As of 2022, it had more than 80 million users, including some big names like Amazon, Netflix, Nike, etc &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.  This was not fly-by-night operation that was likely to go belly-up anytime soon and, moreover, has demonstrated that it is a trustworthy operation in terms of security. Now the site is, to me, a bit confusing. But for a mere $1.25 (that&amp;rsquo;s a dollar and a quarter!) a month you get full business level email with 10GB storage, well beyond my needs for the foreseeable future.  From everything I can find out, it is as secure as O365.  I made my decision!&lt;/p&gt;
+&lt;p&gt;The thing I was dreading was moving from one service to another.  However, Zoho provides a process for doing that which is simple and works fairly quickly.  Overall the process took maybe an hour to complete and when it was done I had all of my emails from my O365 account now in my Zohomail account, and was appropriately accessing the account using my custom domain name&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.  I waited a few weeks before deactivating my O365 account. This allowed me to ensure that everything was working as it should be and that I had downloaded from my Sharepoint site all that I wanted and deleted the rest.&lt;/p&gt;
+&lt;p&gt;So far, I&amp;rsquo;m quite satisfied with Zoho as my mail provider.  The service is responsive, secure, does a good job of filtering spam and even sorts mail into various buckets e.g. newsletters, notifications, etc. My email clients have no problems connecting to the service and I&amp;rsquo;ve had not issues with mail I send being rejected.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://kgcrmsolutions.com/10-companies-using-zoho-crm/&#34;&gt;https://kgcrmsolutions.com/10-companies-using-zoho-crm/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I did have to update my DNS records with my registrar in order to use my custom domain with my new email provider.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
     </item>
+    
     <item>
       <title>My History with Self Hosting</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/my-history-with-self-hosting/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/my-history-with-self-hosting/</guid>
-      <description>My History with Self-Hosting My journey with Linux started in the summer of 2020 when I enrolled in an intensive course in IT designed for a specific ISP (which no longer exists). The course was provide through a state university in cooperation with that company and in conjunction with a state level push to encourage tech companies to settle in Georgia. I ended up not taking a job with that company.</description>
+      <link>http://localhost:1313/posts/my-history-with-self-hosting/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-history-with-self-hosting/</guid>
+      <description>&lt;h1 id=&#34;my-history-with-self-hosting&#34;&gt;My History with Self-Hosting&lt;/h1&gt;
+&lt;p&gt;My journey with Linux started in the summer of 2020 when I enrolled in an intensive course in IT designed for a specific ISP (which no longer exists). The course was provide through a state university in cooperation with that company and in conjunction with a state level push to encourage&lt;!-- raw HTML omitted --&gt; tech companies to settle in Georgia.  I ended up not taking a job with that company. While was at the top of my class, the company decided not to extend an employment offer to me and so I moved on.  In retrospect, I think that was probably a good decision and the guys that were in the class with me all left that company and, honestly, I&amp;rsquo;m not sure where most of them landed.  Despite that, the class was still one of the most exciting and fulfilling experiences I&amp;rsquo;ve had. And, I left it with fairly sound skillsets in networking, programming (C and Perl, primarily), web development and graphics (which I still suck at).&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;my-history-with-self-hosting&#34;&gt;My History with Self-Hosting&lt;/h1&gt;
+&lt;p&gt;My journey with Linux started in the summer of 2020 when I enrolled in an intensive course in IT designed for a specific ISP (which no longer exists). The course was provide through a state university in cooperation with that company and in conjunction with a state level push to encourage&lt;!-- raw HTML omitted --&gt; tech companies to settle in Georgia.  I ended up not taking a job with that company. While was at the top of my class, the company decided not to extend an employment offer to me and so I moved on.  In retrospect, I think that was probably a good decision and the guys that were in the class with me all left that company and, honestly, I&amp;rsquo;m not sure where most of them landed.  Despite that, the class was still one of the most exciting and fulfilling experiences I&amp;rsquo;ve had. And, I left it with fairly sound skillsets in networking, programming (C and Perl, primarily), web development and graphics (which I still suck at).&lt;/p&gt;
+&lt;p&gt;In the intervening 24 years I&amp;rsquo;ve played with a lot of Linux computers and done a lot of interesting things. It was very shortly after completing that program that I begin self-hosting.  In those early days most of the sites where of the CMS variety &amp;ndash; Drupal, Wordpress, Joomla, MediaWiki, Dokuwiki, PHP-Fusion, PHP-Nuke, and the list goes on.  The challenge was that most of these required direct installation which almost invariably led to hours of trying to sort out the failed dependencies, troubleshoot a ton of issues and, in the end, nuking all that work for one reason or another.  While I absolutely loved learning about these different systems and enjoyed the challenge, in the end I really found that most of them were simply overkill for what I needed.  So, why did I do it?  Because I was curious about what made each system different and found the challenge itself fulfilling.&lt;/p&gt;
+&lt;h2 id=&#34;down-the-self-hosting-rabbit-hole&#34;&gt;Down the Self-Hosting Rabbit Hole&lt;/h2&gt;
+&lt;p&gt;In the last five or so years, though, I&amp;rsquo;ve moved in different directions.  Rather than manually installing all of these different systems, I&amp;rsquo;ve moved toward newer technologies that make the process easier and allow me to try different things to find what works best for me.&lt;/p&gt;
+&lt;h3 id=&#34;yunohost-and-sandstorm&#34;&gt;Yunohost and Sandstorm&lt;/h3&gt;
+&lt;p&gt;Probably the earliest packaged system was something like &lt;a href=&#34;https://yunohost.org&#34;&gt;Yunohost&lt;/a&gt;. According to their website, Yunohost was created in 2012.  I probably installed my first version of it around 2014 or 2015 when I first starting futzing around with the Raspberry Pi. Yunohost, it seemed, was the perfect pairing to the RPI.  Along about the same time, I looked at &lt;a href=&#34;https://sandstorm.io&#34;&gt;Sandstorm&lt;/a&gt; which debuted in 2014. Both products do similar things &amp;ndash; making it easy to install web server apps on your local system.  Both had extensive app lists from which you could choose. The cool thing about both of these was that you were able to fairly easily install an app, see how it worked, see what uses you might have for it and, if it didn&amp;rsquo;t excite you, easily blow it away.  The downside, of course, is there were fewer problems with the installs which eliminated some of the &amp;ldquo;fun&amp;rdquo; of learning and installing software 😀.&lt;/p&gt;
+&lt;h3 id=&#34;ansible-nas&#34;&gt;Ansible-NAS&lt;/h3&gt;
+&lt;p&gt;Over time I&amp;rsquo;ve expanded my computer stable from one desktop, one laptop, one server, and a couple of RPIs, to about a half dozen servers. This gave me the opportunity to muck around with Linux Desktop and to use &amp;ldquo;development&amp;rdquo; servers for play while not really disrupting the installations that I actually used.   As I did this I ran across another intriguing process option &amp;ndash; &lt;a href=&#34;https://ansible-nas.io&#34;&gt;Ansible NAS&lt;/a&gt; by David Stephens.  Whereas Yunohost and Sandstorm provided a GUI that allowed you to see the list of available apps and descriptions of what the apps did, Ansible-NAS used an Ansible script to set up your server and install the desired applications. To use it, you needed to learn a bit about YAML and how to edit Ansible scripts. I was back in my element of having to learn and figure crap out to make it work!  I loved Ansible-NAS!&lt;/p&gt;
+&lt;p&gt;Through mucking around with Ansible-NAS I started learning bits and piece of ansible.  Many of the scripts used in Ansible-NAS were based on work by Jeff Geerling, a fellow with a rather interesting resume.  &lt;a href=&#34;https://jeffgeerling.com&#34;&gt;GeerlingGuy&lt;/a&gt; authored a book on Ansible that I&amp;rsquo;ve only fairly recently starting studying.  I also follow his &lt;a href=&#34;https://www.youtube.com/@JeffGeerling&#34;&gt;Youtube channel&lt;/a&gt; as he does quite a bit with the Raspberry pi.&lt;/p&gt;
+&lt;h3 id=&#34;then-came-docker&#34;&gt;Then came Docker&lt;/h3&gt;
+&lt;p&gt;My thirst to learn more, though, led me to Docker.  My early efforts with this technology was somewhat &amp;hellip; challenging.  I spent some time learning how to create docker-compose files and explored DockerHub but overall found the experience more confusing than anything else. Maybe that was because, as I recall, Docker didn&amp;rsquo;t work well on the RPI at the time which was the only linux device I had available and Docker basically sucked on Windows and Mac (at least that&amp;rsquo;s as I recall it).&lt;/p&gt;
+&lt;p&gt;Despite the early setback with Docker, I persisted and today I have somewhere in the neighborhood of two dozen docker containers running on two servers.  These containers provide everything from monitoring my IP cameras, to a Wordpress blog, a photography site, Calibre-web, my cloudflared instance, Jellyfin, and a host of other useful applications. The advent of management systems such as Portainer made managing the docker containers easier and accelerated my implementation of applications in Docker. Not all of the applications I use are in docker containers, however.  As I continued to play around with these newer technologies I ran into two other products that I &lt;em&gt;really&lt;/em&gt; like: ProxMox and Unraid.&lt;/p&gt;
+&lt;h3 id=&#34;proxmox-and-unraid-arrive-on-the-scene&#34;&gt;Proxmox and Unraid Arrive on the Scene&lt;/h3&gt;
+&lt;p&gt;[Proxmox] (&lt;a href=&#34;https://proxmox.com/en/&#34;&gt;https://proxmox.com/en/&lt;/a&gt;) was first on the scene for me.  I was intrigued by an OS that provided an overarching management structure for creating virtual machines, LXC containers, and general NAS type storage. In fact, while I had played with virtual machines for years through VirtualBox and VMWare, that was all done on my desktop system and while VMs were great for testing and playing with various distributions, I didn&amp;rsquo;t see a lot of utility for daily use.  Proxmox, though, suddenly made the creation of VMs not only easy but quite useful. All of my docker containers running on the Proxmox box are running inside a VM.  When I&amp;rsquo;m learning something new, or testing out an new OS or whatever, it&amp;rsquo;s easy to spin up a VM knowing that if I bork it, well, I just delete that VM and start over. No harm, no foul.&lt;/p&gt;
+&lt;p&gt;As I was delving into Proxmox, I also ran across &lt;a href=&#34;https://unraid.net&#34;&gt;Unraid&lt;/a&gt;.  Unraid provides similar functionality to Proxmox with a few differences.  There are three primary differences between the two products:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First is that while Proxmox is open source and free to use, Unraid has a free trial but does require a purchase in order to continue using the product past the trial period.&lt;/li&gt;
+&lt;li&gt;Second, Unraid runs from a thumbdrive rather than from a hard drive.  As I understand it, once loaded, there is little to no activity on the boot disk (thumbdrive) so the thumbdrive allows you to use all of your storage disks for data rather than dedicating some or all of a drive to the OS.  That&amp;rsquo;s a nice feature!  And, because my HP Microserver has an internal USB port, I can use that for my boot disk and don&amp;rsquo;t have to worry about it being dislodged or lost.&lt;/li&gt;
+&lt;li&gt;Finally, Unraid provides a host of applications that have presumably been optimized for the Unraid system that can generally be installed with a single click.  I believe that all of these apps are docker images, though I cannot be sure of that. Unraid also provides a variety of plugins that can be accessed from the web GUI.  If Proxmox has a similar feature, I haven&amp;rsquo;t found it. (But, then again, I also haven&amp;rsquo;t had a need for plugins, either.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As it stand now, I have two machines,  an HP Gen10 Plus Microserver and a repurposed HP EliteDesk, acting as servers on my network.  The HP hosts the Unraid server and the EliteDesk hosts the Proxmox server.  Yes, I could probably consolidate everything onto one server. And, yes, it might be wiser to run Proxmox on one machine and have a second Proxmox as a backup / fallback device.  But for now, I&amp;rsquo;m happy with my current setup and they allow me some choice in where applications are hosted and expand my storage capabilities.&lt;/p&gt;
+&lt;h3 id=&#34;whats-running-where&#34;&gt;What&amp;rsquo;s Running, Where?&lt;/h3&gt;
+&lt;p&gt;Proxmox:
+LXCs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;adguard&lt;/li&gt;
+&lt;li&gt;motioneye&lt;/li&gt;
+&lt;li&gt;shaarli&lt;/li&gt;
+&lt;li&gt;vaultwarden&lt;/li&gt;
+&lt;li&gt;wireguard (shut down at the moment)&lt;/li&gt;
+&lt;li&gt;omada&lt;/li&gt;
+&lt;li&gt;bookstack&lt;/li&gt;
+&lt;li&gt;tillium&lt;/li&gt;
+&lt;li&gt;dokuwiki&lt;/li&gt;
+&lt;li&gt;tailscale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;QEMU (VMs):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu server &amp;ndash; docker server with these containers
+&lt;ul&gt;
+&lt;li&gt;calibre&lt;/li&gt;
+&lt;li&gt;calibre-web&lt;/li&gt;
+&lt;li&gt;cloudflared&lt;/li&gt;
+&lt;li&gt;flame (a dashboard)&lt;/li&gt;
+&lt;li&gt;jellyfin&lt;/li&gt;
+&lt;li&gt;joplin sync server&lt;/li&gt;
+&lt;li&gt;KIWIX (this is a cool off-line Wikipedia and other server)&lt;/li&gt;
+&lt;li&gt;Navidrome&lt;/li&gt;
+&lt;li&gt;portainer&lt;/li&gt;
+&lt;li&gt;uptime-kuma&lt;/li&gt;
+&lt;li&gt;wallabag&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;These are QEMUs but are generaly turned off unless I have specific need for them:
+&lt;ul&gt;
+&lt;li&gt;Fedora&lt;/li&gt;
+&lt;li&gt;Windows 10&lt;/li&gt;
+&lt;li&gt;Windows 11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the Unraid server:
+VMS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu server&lt;/li&gt;
+&lt;li&gt;I spin up vms here as needed when I&amp;rsquo;m exploring something that does not have a docker image.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Docker containers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agent-DVR&lt;/li&gt;
+&lt;li&gt;apacheGuacamole&lt;/li&gt;
+&lt;li&gt;Calibre (testing version)&lt;/li&gt;
+&lt;li&gt;calibre-web (testing version)&lt;/li&gt;
+&lt;li&gt;Excalidraw&lt;/li&gt;
+&lt;li&gt;Freshrss&lt;/li&gt;
+&lt;li&gt;Gitea&lt;/li&gt;
+&lt;li&gt;Grav (local version of this website)&lt;/li&gt;
+&lt;li&gt;homebridge&lt;/li&gt;
+&lt;li&gt;Immich&lt;/li&gt;
+&lt;li&gt;MariaDB&lt;/li&gt;
+&lt;li&gt;MongoDB (used for testing and will likely be nuked)&lt;/li&gt;
+&lt;li&gt;phpmyadmin&lt;/li&gt;
+&lt;li&gt;postgres&lt;/li&gt;
+&lt;li&gt;raneto&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;Shinobi-pro-cctv&lt;/li&gt;
+&lt;li&gt;StirlingPDF&lt;/li&gt;
+&lt;li&gt;webtop (toying with this one for now)&lt;/li&gt;
+&lt;li&gt;Wekan&lt;/li&gt;
+&lt;li&gt;Wordpress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see I muck around with a lot of stuff. And I&amp;rsquo;m still looking, exploring and adding new stuff along the way.  The one advantage (?) of Unraid is that the App store makes it easy to find new applications to install and explore.  More often than not, I&amp;rsquo;ll install something, play with it a bit, then delete it, but sometimes I find something new and useful that becomes part of my everyday workflow.&lt;/p&gt;
+&lt;p&gt;What can I say?  I love playing with technology!&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

@@ -1,34 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/categories/technology/</link>
-    <description>Recent content in Technology on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <title>Technology on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/categories/technology/</link>
+    <description>Recent content in Technology on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revisiting WordStar</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/revisiting-wordstar/</link>
+      <link>http://localhost:1313/posts/revisiting-wordstar/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/revisiting-wordstar/</guid>
-      <description>Revisiting WordStar A day or so ago I ran across an article where science fiction writer Robert J. Sawyer had released his version of WordStar 7.0 for DOS, noting that it is now abandonware and, thus, he felt comfortable releasing it into the wild. What was interesting was that, as he noted, not only he, but several other quite successful writers had developed quite an affinity for the ancient software that ran on a long outdated operating system.</description>
+      
+      <guid>http://localhost:1313/posts/revisiting-wordstar/</guid>
+      <description>&lt;h1 id=&#34;revisiting-wordstar&#34;&gt;Revisiting WordStar&lt;/h1&gt;
+&lt;p&gt;A day or so ago I ran across an article where science fiction writer Robert J. Sawyer had released his version of WordStar 7.0 for DOS, noting that it is now abandonware and, thus, he felt comfortable releasing it into the wild.  What was interesting was that, as he noted, not only he, but several other quite successful writers had developed quite an affinity for the ancient software that ran on a long outdated operating system.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;revisiting-wordstar&#34;&gt;Revisiting WordStar&lt;/h1&gt;
+&lt;p&gt;A day or so ago I ran across an article where science fiction writer Robert J. Sawyer had released his version of WordStar 7.0 for DOS, noting that it is now abandonware and, thus, he felt comfortable releasing it into the wild.  What was interesting was that, as he noted, not only he, but several other quite successful writers had developed quite an affinity for the ancient software that ran on a long outdated operating system.&lt;/p&gt;
+&lt;p&gt;Quite understandably, many who commented on his announcement questioned why &lt;em&gt;anyone&lt;/em&gt; would continue to use the long-antiquated software that required significant tweaking to remain useful.  In fact, as the author noted, he was required to use either DosBox-X or Vdosbox in order to run the software and, further, had found it necessary to create scripts to convert the old format into something that could be sent to his publisher in the form of Microsoft Word.  That is, the work he did could not be printed directly from the machine he was using, nor could it be directly converted to Microsoft Word.  The question as to why he and others might choose to continue to the software is a valid one. Before I give you my take on it, let&amp;rsquo;s take a short stroll down memory lane.&lt;/p&gt;
+&lt;p&gt;Now, I haven&amp;rsquo;t used WordStar since probably 1986 when I was in my MBA program.  Although I hadn&amp;rsquo;t even thought about WS until I read the article, I was immediately reminded of the many trips to the college library, 5.25 inch floppy disk in hand, to write my papers which were then printed on a, wait for it, dot-matrix printer.  I well remember having to learn what was then the somewhat cryptic ctrl-key commands in order to do pretty much anything in the software. I also remember the frustration experienced when I goofed and couldn&amp;rsquo;t figure out how to get out of the pickle I&amp;rsquo;d created for myself.  But, the program was pretty amazing.  And even though it was not as user-friendly as the &lt;em&gt;Word Writer&lt;/em&gt; software I used on my Commodore 128 of the time, it was still quite a useful tool.&lt;/p&gt;
+&lt;p&gt;Of course, like everyone else, when Microsoft Word came out I quickly jumped ship and moved over to that product, particularly once Windows came out, making the GUI the de facto standard for PCs.  And, like everyone else (almost) I quickly forgot everything I ever knew about WordStar.&lt;/p&gt;
+&lt;p&gt;So the question remains: Why would anyone &lt;em&gt;today&lt;/em&gt; use WordStar?  I think there are a few reasons.&lt;/p&gt;
+&lt;p&gt;First, we tend to stick with what we know and what&amp;rsquo;s comfortable to us.  For writers who started out on WordStar as their first word processsor, WordStar is simply comfortable.  It is what they know. Particularly those who rely on word processors for their livelihood, transitioning to a new software requires learning new skills and this slows productivity. Moving would also require that either you convert your older work to the newer format, which did not always go so smoothly, abandon your old work, or keep that older program around so that you could make corrections to your older work as errata are identified.&lt;/p&gt;
+&lt;p&gt;In keeping with the whole slowing productivity concept, WordStar was designed to make writing as smooth and seamless as possible.  The commands were created in a way that make it possible for the writer to navigate their document, and to format their documents, without ever moving their hands from the keyboard. There was no need for a mouse (nor was it possible to use one on early versions of the software). That designed meant that the writer could be highly productive with a minimum of physical effort.  I think the analog today might be MarkDown, which I use extensivly in my own writing.  The ability to use quick, keyboard-based commands in order to format the document as I write makes for a much more efficient process and allows me to format my writing with almost no thought &amp;ndash; muscle memory allows me to format without thinking.  And that is a definite advantage that I believe those stalwart WordStar users cling to.&lt;/p&gt;
+&lt;p&gt;Another reason, I think, that folks still choose to use WordStar is its simplicity.  Earlier I suggested that the ctrl-key combos were cryptic and challenging and, when you&amp;rsquo;re learning the software, that is true.  It is no different than learning any other software.  That said, though, unlike most GUI based word processors today (I&amp;rsquo;m looking at your MS WORD) the software is not crammed with features that perhaps only 1% of people use.  Revisiting the software and exploring the options available, I realized that everything I generally use when writing is there. And nothing more.  I don&amp;rsquo;t have to go hunting through layers of menus to find what I need.  It&amp;rsquo;s right there, under a control code.  In fact, I think there are just two (maybe three, I&amp;rsquo;m not sure) layers of menus.  All of the key features are just a key or two away.&lt;/p&gt;
+&lt;p&gt;That simplicity extends to the interface itself.  There&amp;rsquo;s a lot of buzz around distraction-free writing today and many software programs have been designed around that paradigm.  WordStar provided exactly that more than 30 years ago.  When you loaded up WordStar you were brought to an essentially blank screen with just a few choices at the top of the page.  Yes, there were lists of files at the bottom half, but once you selected the file you wanted, or started a new file, you had a clean, simple screen on which to work. Spell checking was only done on command and it did not constantly suggest corrections to your writing.  One of the more frustrating things for me with the newer word processors is the incessant corrections to what I&amp;rsquo;ve written.  That damned red sqiggly line under a word telling me that it&amp;rsquo;s spelled wrong, or is the wrong word is annoying, at the least.  I mean, I &lt;em&gt;meant&lt;/em&gt; to say &amp;ldquo;I&amp;rsquo;ma tellin&amp;rsquo;&amp;rdquo;  I don&amp;rsquo;t need the computer to tell me this wrong.  I&amp;rsquo;m the damn writer, after all; I know what I mean to say.&lt;/p&gt;
+&lt;p&gt;Oh, and there&amp;rsquo;s one more feature to WordStar that most people may not realize: It&amp;rsquo;s mostly plain text.  Yes, there are control codes in the text but nothing nearly as significant as you&amp;rsquo;ll find in most Word documents.  Moreover, you can embed notes into the file so that you can refer back to them to recall your thinking as you wrote, to identify areas that may need revision or further research and those won&amp;rsquo;t show up in any printed output.  All very straightforward and easy to read and use.&lt;/p&gt;
+&lt;p&gt;Now, all that said, I&amp;rsquo;m not ready to toss out my MarkDown editors just yet (I&amp;rsquo;m trying out Visual Studio Code for writing at the moment) in favor of WordStar&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, though I&amp;rsquo;d be sorely tempted if I could figure out how to export my WordStar files to HTML or some other readily consumed format.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;There is a clone of WordStar known as WordTsar which may offer that option.  Having whetted my interest in the &amp;ldquo;ancient&amp;rdquo; word processor, I&amp;rsquo;m likely to give WordTsar a whirl.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Roberts included a couple of options for generating either Adobe PDF documents or converting the WordStar files to Microsoft Word files in the package he released.  Unfortunately, those programs only work in Windows and I currently use Macs and Linux.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
     </item>
+    
     <item>
       <title>PlainText Preferences</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/plaintext-preference/</link>
+      <link>http://localhost:1313/posts/plaintext-preference/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/plaintext-preference/</guid>
-      <description>PlainText Preferences Over the last ten years there have been a couple of preferences that have driven many of my technology decisions. One is a preference for using plain text rather than proprietary software. The other is a preference for flat files over databases.&#xA;Let&amp;rsquo;s Talk about Plain Text My move toward plain text came about for several reasons.&#xA;First, I just wanted to take notes that I could quickly create and reference as needed.</description>
+      
+      <guid>http://localhost:1313/posts/plaintext-preference/</guid>
+      <description>&lt;h1 id=&#34;plaintext-preferences&#34;&gt;PlainText Preferences&lt;/h1&gt;
+&lt;p&gt;Over the last ten years there have been a couple of preferences that have driven many of my technology decisions.  One is a preference for using plain text rather than proprietary software. The other is a preference for flat files over databases.&lt;/p&gt;
+&lt;h2 id=&#34;lets-talk-about-plain-text&#34;&gt;Let&amp;rsquo;s Talk about Plain Text&lt;/h2&gt;
+&lt;p&gt;My move toward plain text came about for several reasons.&lt;/p&gt;
+&lt;p&gt;First, I just wanted to take notes that I could quickly create and reference as needed.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;plaintext-preferences&#34;&gt;PlainText Preferences&lt;/h1&gt;
+&lt;p&gt;Over the last ten years there have been a couple of preferences that have driven many of my technology decisions.  One is a preference for using plain text rather than proprietary software. The other is a preference for flat files over databases.&lt;/p&gt;
+&lt;h2 id=&#34;lets-talk-about-plain-text&#34;&gt;Let&amp;rsquo;s Talk about Plain Text&lt;/h2&gt;
+&lt;p&gt;My move toward plain text came about for several reasons.&lt;/p&gt;
+&lt;p&gt;First, I just wanted to take notes that I could quickly create and reference as needed.&lt;/p&gt;
+&lt;p&gt;Second, I  wanted to be able to focus on writing, such as an essay or blog post, without worrying really about formatting, etc.  What more distraction-free writing environment is there than the command line?&lt;/p&gt;
+&lt;p&gt;Third, I wanted small, easily accessed files.  None of the proprietary word processors come close to that.&lt;/p&gt;
+&lt;p&gt;Fourth, I wanted to be able to do access and edit the files on any device I happen to be on.&lt;/p&gt;
+&lt;p&gt;And, finally, I wanted them to be available 20 years from now (why I&amp;rsquo;ll still need them at age 85, who knows, but still &amp;hellip;).&lt;/p&gt;
+&lt;p&gt;Now, that all may sound nice, you say, but is it really practical?  I think so, particularly with the advent of Markdown.  Markdown allows me to provide some basic formatting as I write (think section headings) while minimizing the cruft.  The fact is, if I need to put a document into a particular format, let&amp;rsquo;s say Microsoft Word, I just need to copy and paste the plain text into the word processor and I&amp;rsquo;m off to the races.  On the other hand, trying to get a clean copy of that document &lt;em&gt;out&lt;/em&gt; of Word &amp;hellip; well, good luck with that.  The point is I can use &lt;em&gt;any&lt;/em&gt; processing software to pretty up my work while keeping a clean copy available for the future.&lt;/p&gt;
+&lt;h3 id=&#34;and-then-there-are-flat-files&#34;&gt;And Then There Are Flat Files&lt;/h3&gt;
+&lt;p&gt;Closely allied with plain text files is the use of flat files.  I have come to prefer flat files for pretty much the same reason I like plain text &amp;ndash; easy of access.&lt;/p&gt;
+&lt;p&gt;Now, full disclosure, I spent quite a bit of time over the last 24 years learning databases. I have created and managed many, many databases over that time and absolutely have nothing against them, per se. In the right environment and the right data they are phenomenal and, of course, are the best choice.  For my personal needs, though, databases seem to be overkill.  The right tool for the right job.&lt;/p&gt;
+&lt;p&gt;Storing data in a database is very useful with large datasets.  In fact, it is really about the only way to work with very large datasets.  Storing my writing in a database, though, poses several issues. The first, obviously, is that the use of a database program to store a file makes little sense.  It adds an unnecessary level of complexity and creates an opportunity for failure.  More importantly, if the database should become corrupted the I lose all of my work.  Not an appetizing prospect.  Again, given the small quantity of work I do, the complexity and bulk of a database is simply overkill.  Running a database to store even one hundred blog posts is more work than needed.  To me, though, the most important reason is that to get my work out of the database requires a lot of extra effort.  If, for example,  I decide to move to a different computer, or a different web server, or use a different blogging platform, transitioning from one database system to another is a challenge.&lt;/p&gt;
+&lt;p&gt;Flat files allow me to bypass that complexity and have everything I need easily available.  The order of the day, if you haven&amp;rsquo;t already guessed is to minimize friction in my workflow.  The less complex, the better.  It doesn&amp;rsquo;t get much simpler than a simple plain text file.&lt;/p&gt;
+&lt;p&gt;So, my current workflow is to use Obsidian to write my notes, blog posts, etc. Obsidian saves all my files as simple flat files in plain text.  I copy those files over to my web folder where I run my Static Site Generator&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to create my website, then rsync those files up to the server.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I&amp;rsquo;m in the process of evaluating which SSG to use.  I want my website to be static, as well with minimal extra stuff (think &lt;a href=&#34;https://brutalist-web.design&#34;&gt;Brutalist Web Design&lt;/a&gt;) so I&amp;rsquo;m looking around to see what fits me best.  I&amp;rsquo;m leaning toward either Hugo or MkDocs right now. But that is subject to change!&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
     </item>
+    
     <item>
       <title>My Technology</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/my-technology/</link>
+      <link>http://localhost:1313/posts/my-technology/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/my-technology/</guid>
-      <description>My Technology A common discussion in any of the technology forums is which platform is better. Some argue that Windows is best, others that Mac is and others, still, argue that Linux beats them all. What is my take? Well&amp;hellip; it depends.&#xA;###I am Operating System Agnostic&#xA;Truly, I am. I have all three operating systems in use in my home as I write this.&#xA;I started my technology back in 1984 or 1985 with a Commodore 128.</description>
+      
+      <guid>http://localhost:1313/posts/my-technology/</guid>
+      <description>&lt;h1 id=&#34;my-technology&#34;&gt;My Technology&lt;/h1&gt;
+&lt;p&gt;A common discussion in any of the technology forums is which platform is better.  Some argue that Windows is best, others that Mac is and others, still, argue that Linux beats them all.  What is my take? Well&amp;hellip; it depends.&lt;/p&gt;
+&lt;p&gt;###I am Operating System Agnostic&lt;/p&gt;
+&lt;p&gt;Truly, I am.  I have all three operating systems in use in my home as I write this.&lt;/p&gt;
+&lt;p&gt;I started my technology back in 1984 or 1985 with a Commodore 128.  It didn&amp;rsquo;t take long at all to capture &lt;!-- raw HTML omitted --&gt;my imagination and soon I was doing some Basic programming, playing games, writing papers, etc all on that little computer.  I&amp;rsquo;m not sure my wife was all that impressed.  But, boy, I sure was!&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;my-technology&#34;&gt;My Technology&lt;/h1&gt;
+&lt;p&gt;A common discussion in any of the technology forums is which platform is better.  Some argue that Windows is best, others that Mac is and others, still, argue that Linux beats them all.  What is my take? Well&amp;hellip; it depends.&lt;/p&gt;
+&lt;p&gt;###I am Operating System Agnostic&lt;/p&gt;
+&lt;p&gt;Truly, I am.  I have all three operating systems in use in my home as I write this.&lt;/p&gt;
+&lt;p&gt;I started my technology back in 1984 or 1985 with a Commodore 128.  It didn&amp;rsquo;t take long at all to capture &lt;!-- raw HTML omitted --&gt;my imagination and soon I was doing some Basic programming, playing games, writing papers, etc all on that little computer.  I&amp;rsquo;m not sure my wife was all that impressed.  But, boy, I sure was!&lt;/p&gt;
+&lt;p&gt;I ordered the C/PM software that would run on the Commodore, but never quite figured that out.  I was just beginning to learn about the workings of the device, so that OS was beyond me.  I&amp;rsquo;d love to get my hands on a working copy now, just to see if I could understand it better.&lt;/p&gt;
+&lt;p&gt;From that humble beginning a nearly forty year love affair with computers was born.&lt;/p&gt;
+&lt;p&gt;####Windows:&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve used Windows since the 3.1 days and have had every iteration of that OS since.  I think my first real Windows PC was  a Packard-Bell 286.  I don&amp;rsquo;t remember the specs (it&amp;rsquo;s been over 30 years) but you can imagine that it wasn&amp;rsquo;t terribly impressive compared to today&amp;rsquo;s computers, but it was close to state-of-the-art in 1987 or 1988.&lt;/p&gt;
+&lt;p&gt;As you can imagine, I&amp;rsquo;m quite comfortable with Windows. I know it. I can use it without thinking (almost). And the range and depth of software that is available for Windows is hard to beat. Sometimes the only option is a Windows-based solution.  In those cases, the mini-pc that runs Windows gets fired up and off we go to get my work done.&lt;/p&gt;
+&lt;p&gt;In addition to the various desktop versions, I also ran Windows Home Server until it was deprecated in 2011, then switched over to Windows Server 2012.  While WHS seemed to work well and I had few problems with it (I was sad to see Microsoft drop it), I never really got comfortable using the full-blown Server version.  Just seemed more complicated than it needed to be.  I jumped over to Linux for my server needs and never looked back.&lt;/p&gt;
+&lt;p&gt;There are three Windows computers in my home.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;My wife uses one for her personal work (though not terribly often as she prefers her iPad).&lt;/li&gt;
+&lt;li&gt;My work computer is provided by my employer and I spent at least 40 hours a week tapping away at the technology that resides on that device.  I regularly use Microsoft products &amp;ndash; Word, Teams, Outlook, Excel, and so on in order to get my work done.&lt;/li&gt;
+&lt;li&gt;I also have a personal Windows computer, An Asus VC-66 mini-PC running Windows 10 pro.  That one isn&amp;rsquo;t seeing as much use as it once did for reasons that I&amp;rsquo;ll outline below.  Mostly now I keep it around for some of the programs that I can&amp;rsquo;t get on one of the other devices.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;####Mac OS:&lt;/p&gt;
+&lt;p&gt;I bought my first Mac in 2005 &amp;ndash; a mac mini.  I loved that little device even though it was a bit more expensive than I would have liked and required all the peripherals be purchased separately. Sadly, it was based on the now-defunct PowerPC G4 which would be deprecated the following year when Apple moved to the Intel processor.  Still, I used the mac mini until around 2012 when I could no longer get updates for the PowerPC processor.  Shortly thereafter,  (sometime in 2012 or 2013) it began to fail and was put out of my misery a few months later.  I was quite sad to see it go.&lt;/p&gt;
+&lt;p&gt;While I did not replace the MM with another, that experience did begin my quest for smaller, more compact and less power hungry PCs which is pretty much where I am today.&lt;/p&gt;
+&lt;p&gt;My next Mac acquistion was a 2009 iMac.  Huge monitor, huge hard drive and lots of power.  I ran every version of Mac OS on that one up until it, too, died this past year.  Getting more than 10 years out of a computer that is on 24/7 and in pretty much constant use is actually pretty amazing. I still have the body, it just wouldn&amp;rsquo;t boot.  I&amp;rsquo;ve read somewhere that you can use an old iMac as a secondary screen.  I may look into that at some point.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also owned two Macbook Airs.  The first was a 2011 model, purchased, as I recall sometime in mid-2012. At the time I was traveling regularly for my doctorate and needed something light and powerful and easy to type on.  when you&amp;rsquo;re writing a lot (and I mean A LOT) you want a comfortable keyboard.  The Air fit the bill.  This was replaced in 2020 with a more powerful Air.  That laptop now lives primarily in my living room where it is used for surfing the &amp;rsquo;net and getting some work done when I want to work outside the office. (I love working on my patio when the weather is nice.  Beats the heck out of a stale office!)&lt;/p&gt;
+&lt;p&gt;####IOS:&lt;/p&gt;
+&lt;p&gt;I would be remiss to not mention that we have two iPads in the house.  My wife&amp;rsquo;s favorite device is her iPad.  She&amp;rsquo;s on it almost more than I&amp;rsquo;m on any of my machines.  I used mine much less often, mostly for quickly skimming the news or reading books (when not using my Kobo or Kindle).  And, of course, we&amp;rsquo;ve also two iPhones.&lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t say much else, since there&amp;rsquo;s not much else to say about these!  They are what they are.&lt;/p&gt;
+&lt;p&gt;####Linux:&lt;/p&gt;
+&lt;p&gt;Okay, here it get&amp;rsquo;s a bit interesting, I think.&lt;/p&gt;
+&lt;p&gt;Somewhere around 1997 I obtained my first &amp;rsquo;live&amp;rsquo; linux distro in one of the PC magazines (I forget which one). At that point my only experience was with the Commodore 128 and Windows. Needless to say, my curiosity was piqued (as it had been with C/PM a decade earlier) and I quickly loaded up the disk and was met with a black screen and a blinking cursor.&lt;/p&gt;
+&lt;p&gt;Now what?&lt;/p&gt;
+&lt;p&gt;No instructions, no guidance on how to use this OS or what could be done with it.  I mucked around for maybe half an hour, shutdown and threw the disk away, pretty much as I had done with C/PM (though I had not thrown those disks out, I just set them aside forever).&lt;/p&gt;
+&lt;p&gt;Fast forward about three years and I found myself in an intensive technology program where I was introduced to programming (primarily C and Perl), web development, database development, and networking.  I was in love.  We were using Sun Sparc computers with the Solaris operating system.  I quickly learned a great deal about Unix and figured out what could be done with that blinking cursor in the black abyss of the computer screen. For some reason, that black screen invoked an image of the infiniteness of space in me. (too much Star Wars, I guess.)&lt;/p&gt;
+&lt;p&gt;Well, from there I moved into the Linux world and over the next several years bought several used computers on which to install Linux. I think I tried just about every distro there was.  That love affair has continued for more than 23 years.&lt;/p&gt;
+&lt;p&gt;The biggest challenge with Linux has always been installing software and &amp;lsquo;dependency hell&amp;rsquo;.  With the advent of Snaps, Flatpak, and AppImages (not to mention Docker), this issue has pretty well disappeared.  I routinely install software packages without a hiccup and they just work.&lt;/p&gt;
+&lt;p&gt;Today, I have five computers running Linux in various flavors and forms.&lt;/p&gt;
+&lt;p&gt;My &amp;lsquo;daily driver&amp;rsquo; is Fedora 38 running on a used Dell Wyse 5070 Thin Client. Those make great little low-power Linux boxes.  They&amp;rsquo;re powerful enough, even, to run virtual machines!&lt;/p&gt;
+&lt;p&gt;I have Proxmox running on a renewed HP EliteDesk 800 G3 with 64 GB ram, an i7 quad core processor and about  1.5 TB of storage.  On that device I have an additional four Linux VMs (Ubuntu, Debian, and Windows 10) and multiple LXCs that host various services I use.  The Ubuntu instance serves as the foundation for about two dozen Docker containers that provide a range of services I regularly use.&lt;/p&gt;
+&lt;p&gt;I also have an HP Microserver Gen 10 Plus with 3 TB storage and 64 GB ram. This one is running Unraid (I wanted to try it and figured out I rather like it). This one serves as a NAS and also hosts several more Docker images for services I use, but less often than those on the EliteDesk.&lt;/p&gt;
+&lt;p&gt;Finally, there&amp;rsquo;s are two more computers that are used primarily for learning (currently Ansible) and testing. First is a 2011 Lenovo Yoga 2 and a rebuilt 1L PC that I originally bought in 2009 as a weather server (I ran a personal weather station for 10 years). The original motherboard was 32 bits, so I upgraded that one about three years ago to an ASRock MB with a Celeron processor.  I wanted low-power for learning and this one fits the bill. Both the Lenovo and this no-name are running Ubuntu or whatever flavor of Linux I&amp;rsquo;m testing at the time. While VMs can be used to test software, I like to do bare metal installs to get a better feel for responsiveness than the VM experience can sometimes provide.&lt;/p&gt;
+&lt;h3 id=&#34;wrapping-it-up&#34;&gt;Wrapping It Up&lt;/h3&gt;
+&lt;p&gt;So, where does that leave me with respect to my operating system preferences?&lt;/p&gt;
+&lt;p&gt;As I said at the beginning, I routinely use all three OSes.  Excluding my work PC (over which I have no control) I tend toward the Linux machines. Here&amp;rsquo;s why:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I like the idea of using something a little less mainstream&lt;/li&gt;
+&lt;li&gt;Both Mac OS and Windows gather a lot of analytics about their use.  On the one hand I don&amp;rsquo;t mind that since most of it is used to help enhance and improve the product.  On the other hand, there&amp;rsquo;s a little bit of paranoia about them knowing &lt;em&gt;too much&lt;/em&gt; about what I do, what products I use, what I type, etc. Linux doesn&amp;rsquo;t collect analytics for the most part.  As I understand it, you can still opt out of any data collection.  I like that idea.&lt;/li&gt;
+&lt;li&gt;It is free and doesn&amp;rsquo;t require periodic (and sometimes costly) updates to maintain function.&lt;/li&gt;
+&lt;li&gt;I like the challenge that Linux can provide in figuring out how to do things.  This has actually gotten easier, though,  as I mentioned above, with the advent of Snaps, Flatpak, etc. Still, it can be a challenge at times. I spend. a lot more time on the command line than I would have expected.&lt;/li&gt;
+&lt;li&gt;Maybe it&amp;rsquo;s just the result of a bit more familiarlity, but doing things like working with webservers and databases seems easier in Linux.  Trying to figure out IIS on Windows is a pain! Build an Access database?  Thank you, no.  I find it easer to create a MariaDB and associated front end than to sort out how Access handles things.&lt;/li&gt;
+&lt;li&gt;The quality of the software available today rivals that of Mac and Windows. Not in all respects, to be sure, but for 99% of what I do it is more than adequate.&lt;/li&gt;
+&lt;li&gt;Finally, and perhaps most importantly, it meets my needs.  I can make it as simple or complex as I want it to be and that suits me just fine!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

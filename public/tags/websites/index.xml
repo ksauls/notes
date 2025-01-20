@@ -1,41 +1,354 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Websites on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/tags/websites/</link>
-    <description>Recent content in Websites on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+    <title>Websites on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/tags/websites/</link>
+    <description>Recent content in Websites on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/websites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Updates on Technology Projects</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/updates-to-technology-projects/</link>
+      <link>http://localhost:1313/posts/updates-to-technology-projects/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/updates-to-technology-projects/</guid>
-      <description>Updates to Technology Projects I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&#xA;Nextcloud, OnlyOffice, and the Like Back in February I set up a Nextcloud server and incorporated OnlyOffice. The concepts are pretty cool, but I have abandoned both of those projects. In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice.</description>
+      
+      <guid>http://localhost:1313/posts/updates-to-technology-projects/</guid>
+      <description>&lt;h1 id=&#34;updates-to-technology-projects&#34;&gt;Updates to Technology Projects&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&lt;/p&gt;
+&lt;h3 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h3&gt;
+&lt;p&gt;Back in February I set up a Nextcloud server and incorporated OnlyOffice.  The concepts are pretty cool, but I have abandoned both of those projects.  In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice. And when I do need such &lt;!-- raw HTML omitted --&gt;services, I have LibreOffice available on all of my computers.  MS Office is on its way out since I no longer need to power of a word processor for my writing and my licenses are beginning to expire. (I still have a couple of licenses that will be expiring soon.)&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;updates-to-technology-projects&#34;&gt;Updates to Technology Projects&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve had several technology projects running for a while now and thought it was time for an update.&lt;/p&gt;
+&lt;h3 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h3&gt;
+&lt;p&gt;Back in February I set up a Nextcloud server and incorporated OnlyOffice.  The concepts are pretty cool, but I have abandoned both of those projects.  In all honesty, having completed my dissertation, I write so little that requires a word processor that I&amp;rsquo;ve not yet found a need for OnlyOffice. And when I do need such &lt;!-- raw HTML omitted --&gt;services, I have LibreOffice available on all of my computers.  MS Office is on its way out since I no longer need to power of a word processor for my writing and my licenses are beginning to expire. (I still have a couple of licenses that will be expiring soon.)&lt;/p&gt;
+&lt;p&gt;In terms of document storage, I haven&amp;rsquo;t figured out what benefit Nextclod provides me over a simple document storage device such as my linux server.  I can access everything I need via the VPN.  This approach not only helps keep my data more secure by not opening it to the web, but just streamlines the whole process.&lt;/p&gt;
+&lt;h3 id=&#34;jekyll&#34;&gt;Jekyll&lt;/h3&gt;
+&lt;p&gt;Another project I started back in the fall was to use Jekyll for my website.  I am quite conversant in database design, management, etc and fully understand the benefits that a database e.g.  Mysql, postresql, etc can provide.  On the other hand, I also know how difficult it is to move your writing to another platform or to simply extract your work in a human-readable way.  The promise of Jekyll and other plaintext platforms is that you can write and store your writing in a human readable format that can easily be moved to different platforms, printed, or otherwise shared with ease. As you may infer from this site, however, I&amp;rsquo;ve moved to Grav, which is a bit more intuitive and easier to work with.&lt;/p&gt;
+&lt;p&gt;Several factors led to that decision.  Probably the most signficant is that creating a new post required too many steps.  Not only did I have to write and store the document in a specific location, I then had to run a script that would recompile the entire site, then upload the entire site to the webserver.  That doesn&amp;rsquo;t make sense to me. And, to accomplish this required that I either remember the various commands for compiling the site and uploading it, or remember where I put the script that would run the commands for me.  If it&amp;rsquo;s been a while since I wrote a post, there was no guarantee that I&amp;rsquo;d remember these things.&lt;/p&gt;
+&lt;p&gt;Grav provides an option to use the writing tools through the admin page of the website to write, or I can write off-line and simply upload the one file to the server.  No fuss, no muss, and the page is immediately live.  Grav may present a little bigger hit on the server itself as it processes the page, but probably no more so than would be seen if I was using a database driven site.&lt;/p&gt;
+&lt;p&gt;I did look at several alternatives, including YellowCMS, and Bludit.  I actually liked Bludit quite a lot and would have chosen it but for the fact that it lacked the ability to simply upload a page written offline.  It stores its page data in a JSON database file which would have required that I either write all my posts within the site, or manually update several JSON files in order to get everything set up correctly.  Not an appealing prospect.&lt;/p&gt;
+&lt;h3 id=&#34;self-hosted-bookmark-site&#34;&gt;Self-Hosted Bookmark Site&lt;/h3&gt;
+&lt;p&gt;Three projects that are rocking along well are the self-hosted bookmark, the RSS reader, and the read-it-later sites that I created.  Both of these run on a Raspberry Pi and work very well. In fact, I use all three relatively routinely.&lt;/p&gt;
+&lt;h4 id=&#34;shaarli&#34;&gt;Shaarli&lt;/h4&gt;
+&lt;p&gt;After playing with several other scripts (Unmark, SemanticScuttle, and Shaarl, as well as a couple of others that I don&amp;rsquo;t now remember) I settled on Shaarli.  I can&amp;rsquo;t really say why, other than it seems to be the one that best meshed with how I work.  SemanticScuttle is still up and running and I do have bookmarks stored there, but I rarely send anything to it.  For this one, Shaarli wins the day.&lt;/p&gt;
+&lt;h4 id=&#34;freshrss&#34;&gt;FreshRSS&lt;/h4&gt;
+&lt;p&gt;I don&amp;rsquo;t think I really wrote about an RSS reader earlier but I played with several over the course of several months.  I realize that RSS reader use may be on the decline but I like being able to quickly scan headlines of my favorite sites.  I have to manually mark the entries read and to manually refresh the page to update the headlines, but that&amp;rsquo;s okay.  I find FreshRSS useful and that&amp;rsquo;s what counts.&lt;/p&gt;
+&lt;h4 id=&#34;wallabag&#34;&gt;Wallabag&lt;/h4&gt;
+&lt;p&gt;Was there ever a question that Wallabag would persist? Not for me.  I&amp;rsquo;m not sure why I never really cottoned to Pocket.  It does the same thing as Wallabag, but for whatever reason I find Wallabag useful.  I try to keep my reading list there pruned so I don&amp;rsquo;t end up with hundreds of unread pages.  But being able to save not only the bookmark to a page, but also the content of that page is quite useful.  I also like that the advertising is stripped from the pages and they are made more readable and easier to print if  I want to keep a hard-copy of a particular article.  Pocket may have those capacities (I&amp;rsquo;m sure they do) but Wallabag is the service for me and it runs on my servers, keeping things simple and ensuring that they won&amp;rsquo;t suddenly disappear when the company goes under.&lt;/p&gt;
+&lt;p&gt;There you have it: updates to several of my technology projects.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Nextcloud, OnlyOffice and the Like </title>
-      <link>http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/</link>
+      <link>http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/nextcloud-onlyoffice-and-the-like/</guid>
-      <description>Nextcloud, OnlyOffice, and the Like Every once in a while I get this notion that I need to move my data off of sites like Dropbox, OneDrive, and so forth. When I do, I start playing around with self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in one of those cycles and have been playing around a good bit with Nextcloud.&#xA;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the</description>
+      
+      <guid>http://localhost:1313/posts/nextcloud-onlyoffice-and-the-like/</guid>
+      <description>&lt;h1 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h1&gt;
+&lt;p&gt;Every once in a while I get this notion that I need to move my data off of sites
+like Dropbox, OneDrive, and so forth. When I do, I start playing around with
+self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in
+one of those cycles and have been playing around a good bit with Nextcloud.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;nextcloud-onlyoffice-and-the-like&#34;&gt;Nextcloud, OnlyOffice, and the Like&lt;/h1&gt;
+&lt;p&gt;Every once in a while I get this notion that I need to move my data off of sites
+like Dropbox, OneDrive, and so forth. When I do, I start playing around with
+self-hosted services such as NextCloud, OwnCloud, and so forth. I&amp;rsquo;m currently in
+one of those cycles and have been playing around a good bit with Nextcloud.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve even coupled it with OnlyOffice so that I can edit documents in the&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Here&amp;rsquo;s where I am right now.&lt;/p&gt;
+&lt;h2 id=&#34;my-current-setup&#34;&gt;My Current Setup&lt;/h2&gt;
+&lt;p&gt;Let me say upfront that I use OneDrive for most of my document storage. That
+came about partly because I use a Microsoft Surface, as well as a Windows laptop
+that doesn&amp;rsquo;t have a large storage capacity.  Being able to write a document in
+Word and send it straight to the cloud service, and then to have that document
+available from any computer I work on (I have several) is a great convenience.&lt;br&gt;
+Now, it&amp;rsquo;s important, here, to note that I actually have two OneDrive accounts:
+The 5 GB free one and a 1 TB paid service through my Office365 account. I
+actually use the paid account as my Exchange server more than for file storage,
+but that option is available to me.&lt;/p&gt;
+&lt;p&gt;Most of my documents, though, are saved to a Linux-based local network file
+server. All of my computers are attached to that file server so that I can
+access my files from that machine. The OneDrive folder that is synced to to
+cloud service actually lives on that local server and is mapped to a drive on my
+Windows laptop.  This ensures both that I have local access and have a backup of
+those files I consider critical. (They&amp;rsquo;re also backed up locally to another
+computer.)  Ensuring that those critical files are backed up off site is
+important
+and one of the arguments I have against self-hosted &amp;ldquo;cloud services&amp;rdquo;. What is
+the point of &amp;ldquo;self-hosting&amp;rdquo; if you&amp;rsquo;re then going to back up those same files to
+an online backup service?&lt;/p&gt;
+&lt;p&gt;One of the arguments that I frequently hear is that these services allow me to
+access my files from anywhere. This is true.  And, if I&amp;rsquo;m not on my own computer
+( a rare occurrence), this can be a very important, even critical, feature.  In
+my case, though, I have all of my mobile devices set to access my local network
+through a VPN. My Ubiquiti Edgerouter X made setting up that VPN almost trivial
+and works flawlessly.  So, so long as I have one of my mobile devices, I can
+access my internal network and all the files available there.  No need for a
+webservice to provide that intermediate layer.&lt;/p&gt;
+&lt;h2 id=&#34;privacy-concerns&#34;&gt;Privacy Concerns&lt;/h2&gt;
+&lt;p&gt;In most of the online discussions surrounding these types of self-hosted
+services, the primary reason for moving from a &amp;ldquo;cloud host&amp;rdquo; to a self-hosted
+solution is privacy.  After all, we don&amp;rsquo;t want those big, bad companies mining
+our files for information.  As I considered this argument, though, I had to come
+to the conclusion that it didn&amp;rsquo;t really matter to me.  First of all, there&amp;rsquo;s
+really nothing in my files that I feel is so important that it needs to be
+secured.  If I have such files (various bills and statements come to mind), I
+don&amp;rsquo;t put them in my Dropbox or OneDrive folder.  They live in a local folder.
+Most of what I store in the online services are downloaded PDF files or
+documents that
+I received through my educational experiences.  Those are already generally
+publicly available. And, while they might provide some insight into what
+interests me, they would hardly provide anything that could be considered
+compromising.  So, privacy, at least for me, isn&amp;rsquo;t much of an issue.&lt;/p&gt;
+&lt;p&gt;Now, having said that, I do have to concede one area that could become
+problematic from the privacy perspective.  I write a lot.  Most of it is for
+working out my own thoughts and ideas.  Some of it is part of various projects
+that I&amp;rsquo;m working on (stories, or my dissertation, for example). Although not
+sensitive in the sense of compromising my privacy, these writings do involve
+some levels of
+copyright.  Should my online account at one of these big providers be
+compromised, my claim to copyright on these documents could be compromised.  The
+likelihood of that occurring is minimal, but it is, nonetheless, a risk.&lt;/p&gt;
+&lt;h2 id=&#34;security&#34;&gt;Security&lt;/h2&gt;
+&lt;p&gt;Security, to me, is part of, but separate from, privacy.  A secure service
+protects my privacy, to be sure.  But what I&amp;rsquo;m referring to here is protecting
+my work from loss.  If I have files that I truly do not want to lose, I want to
+ensure that I&amp;rsquo;ve got them saved in multiple places so that I can be sure that I
+don&amp;rsquo;t lose them.  As I mentioned earlier in this post, I have taken measures to
+ensure that my important files are backed up to another computer in the event
+that my server or hard drive crashes.  But, if my house burns down, I&amp;rsquo;m still
+out of luck.  Except that I&amp;rsquo;ve also saved those files to my OneDrive account.&lt;/p&gt;
+&lt;p&gt;The issue with saving them to an outside vendor, whether it be Dropbox, Box, or
+OneDrive, is that those companies might, at any given moment, decide to simply
+disappear from the face of the Earth, taking my important files with them.&lt;/p&gt;
+&lt;p&gt;Alternately, they may sell out to another company that doesn&amp;rsquo;t take the same
+precautions, or that decides to hold my data hostagse.  Not an enticing scenario
+and, hopefully, an unlikely one. But, taking that risk is &amp;hellip;, well, a risk.&lt;/p&gt;
+&lt;h2 id=&#34;storage----the-defining-factor&#34;&gt;Storage &amp;ndash; The Defining Factor&lt;/h2&gt;
+&lt;p&gt;Perhaps the biggest draw for using a service like Nextcloud is available
+storage. Unlike the online providers, all of which limit storage, storage for
+your self-hosted Nextcloud account is limited only by the available storage on
+the server in your home.  Need More? Add another drive, or upgrade to a larger
+one.&lt;/p&gt;
+&lt;p&gt;As I mentioned earlier, my free OneDrive account is limited to
+5 GB of storage.  Dropbox is currently limited to 2GB and will cost you $100 for
+a 1TB option. Box offers 10 GB storage with their free plan and $120 a year for
+a 100GB plan.  Oh, and all these have upload caps, so if you&amp;rsquo;re uploading big
+files, you might be out of luck.  As I mentioned earlier, I have Office365
+account that provides my Exchange services, as well as 1TB storage.  I&amp;rsquo;m
+probably good there (I don&amp;rsquo;t remember if there are upload limits, though I&amp;rsquo;m
+sure there are!) But, I&amp;rsquo;ve have that account for about 6 years, during which
+time I&amp;rsquo;ve watched the provided services change and generally decline.  I would
+not be surprised if, on my next renewal, the amount of available (paid) storage
+diminishes. And, that is the risk with all of these services, particularly the
+free services: At any time the provide can choose to lower their limits and
+suddenly you&amp;rsquo;re locked out of your data, or required to pony up cash to keep the
+account usable.&lt;/p&gt;
+&lt;p&gt;Again, this is not really an issue for me. Part of the reason is because I do
+have that
+1TB of
+paid-for storage, but more importantly because I have several TB of storage on
+my local server, without upload limits, and have easy access through my VPN.&lt;/p&gt;
+&lt;h2 id=&#34;so-where-am-i-truly-at&#34;&gt;So, Where Am I Truly At?&lt;/h2&gt;
+&lt;p&gt;For right now, I&amp;rsquo;m leaving the Nextcloud and OnlyOffice servers running.&lt;br&gt;
+Whether I will use them is a question that only time will answer.  I&amp;rsquo;m intrigued
+by the ability to do on-line editing much as Office Online and Google Docs can
+do.  In fact, I don&amp;rsquo;t really see any differences between the various online
+editing services based on my general use cases.  I&amp;rsquo;ll continue to play with them
+to see whether they meet any specific need that I might have not yet identified.&lt;/p&gt;
+&lt;p&gt;As I wind down my dissertation work my needs for high-powered writing tools
+diminishes, as does my need for document storage. In that light, Nextcloud may
+provide all the services I need for daily work.  Time will tell that tale.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title> Learning the Challenges of Jekyll</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/learning-the-challenges-of-jekyll/</link>
+      <link>http://localhost:1313/posts/learning-the-challenges-of-jekyll/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/learning-the-challenges-of-jekyll/</guid>
-      <description>Learning the Challenges of Jekyll So a few days ago I decided to use Jekyll to generate a static website to host all &amp;ndash; well, most &amp;ndash; of my writing. Jekyll, I&amp;rsquo;ve learned, is a different beast from most applications used for these purposes. I&amp;rsquo;ve found several themes that I really liked, but they all had some sort of quirks that made them less easy to use. I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong in the same sentence.</description>
+      
+      <guid>http://localhost:1313/posts/learning-the-challenges-of-jekyll/</guid>
+      <description>&lt;h1 id=&#34;learning-the-challenges-of-jekyll&#34;&gt;Learning the Challenges of Jekyll&lt;/h1&gt;
+&lt;p&gt;So a few days ago I decided to use Jekyll to generate a static website to host
+all &amp;ndash; well, most &amp;ndash; of my writing.  Jekyll, I&amp;rsquo;ve learned, is a different beast
+from most applications used for these purposes.  I&amp;rsquo;ve found several themes that
+I really liked, but they all had some sort of quirks that made them less easy to
+use.  I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong
+in the same sentence. Each of the themes I&amp;rsquo;ve looked at require slightly
+different structures, use categories differently, and just generally appear
+rather finicky.  I&amp;rsquo;m sure for people that have played with it for quite a while, &lt;!-- raw HTML omitted --&gt;
+these quirks are just part of the landscape. For people like me, who haven&amp;rsquo;t
+really spent much time with the software, it&amp;rsquo;s a challenge.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;learning-the-challenges-of-jekyll&#34;&gt;Learning the Challenges of Jekyll&lt;/h1&gt;
+&lt;p&gt;So a few days ago I decided to use Jekyll to generate a static website to host
+all &amp;ndash; well, most &amp;ndash; of my writing.  Jekyll, I&amp;rsquo;ve learned, is a different beast
+from most applications used for these purposes.  I&amp;rsquo;ve found several themes that
+I really liked, but they all had some sort of quirks that made them less easy to
+use.  I&amp;rsquo;m finding, though, that &amp;ldquo;easy to use&amp;rdquo; and &amp;ldquo;Jekyll&amp;rdquo; probably don&amp;rsquo;t belong
+in the same sentence. Each of the themes I&amp;rsquo;ve looked at require slightly
+different structures, use categories differently, and just generally appear
+rather finicky.  I&amp;rsquo;m sure for people that have played with it for quite a while, &lt;!-- raw HTML omitted --&gt;
+these quirks are just part of the landscape. For people like me, who haven&amp;rsquo;t
+really spent much time with the software, it&amp;rsquo;s a challenge.&lt;/p&gt;
+&lt;h3 id=&#34;making-links-work&#34;&gt;Making Links Work&lt;/h3&gt;
+&lt;p&gt;One of the challenges that I&amp;rsquo;ve encountered is making links work from the
+dynamically created pages..  Say
+for
+example, I have a a post entitled, &amp;ldquo;Blogging with Jekyll&amp;rdquo;. When I generate the
+site, Jekyll automatically creates a link to that post.  BUT, some of the themes
+I played with didn&amp;rsquo;t generate the full link. They pointed me to the title, but
+had not appended the &amp;lsquo;.html&amp;rsquo; to the page. The result? A blank page.  It took
+some Googling around to find out that adding the &amp;lsquo;.html&amp;rsquo; to the end of the
+&amp;lsquo;:title&amp;rsquo; part of the permalink fixed the problem.  Simple fix, once I finally
+found it, but why was that ever a problem? Why wasn&amp;rsquo;t the &amp;lsquo;.html&amp;rsquo; added by the
+theme creator?  Surely his or her copy of the script didn&amp;rsquo;t work without that
+extension, either.  Not sure what I mean?&lt;/p&gt;
+&lt;p&gt;In the _config.yml file I found:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-permalink:&#34; data-lang=&#34;permalink:&#34;&gt;
+What is needed is 
+ permalink:           /:title.html
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;x
+Again, simple fix &amp;hellip;.&lt;/p&gt;
+&lt;h2 id=&#34;navigation-problems&#34;&gt;Navigation Problems.&lt;/h2&gt;
+&lt;p&gt;Similarly, I wanted a theme that included navigation so that anyone reading the
+site could move around within it.  One of the themes I really like didn&amp;rsquo;t have
+navigation.  I probably could have added it but, frankly, didn&amp;rsquo;t want to take
+the time to figure it out.  So, I settled for one that included navigation.&lt;br&gt;
+Except that the navigation didn&amp;rsquo;t work correctly.  I&amp;rsquo;m not working from my
+webserver root, so a baseurl is needed.  The navigation (home, back, and next
+buttons) didn&amp;rsquo;t account for a non-root structure.  So, after a bit of plugging
+about I finally found the template that contains thenavigation links (they&amp;rsquo;re
+not
+always in the same
+place from one theme to another). Search about until I found the right variables
+to include.  Now, I have:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{% raw %}{{ site.baseurl }}\{{ page.previous.url }} {% endraw %}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This works correctly.  I had to do this for the home button, as well as the
+previous and next buttons.  And, I&amp;rsquo;m sure as I continue to work with the site,
+I&amp;rsquo;ll find other things like this.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As it stands right now, I&amp;rsquo;ll use this theme.  As I work more with the scripts,
+I&amp;rsquo;m beginning to understand them a little better.  But I&amp;rsquo;d much rather spend my
+time writing than trying to fix the platform that I&amp;rsquo;m using to host that
+writing.  Yes, Wordpress or some such would have been easier, but, as I said in
+&lt;a href=&#34;../blogging-with-jekyll&#34;&gt;this post&lt;/a&gt; I
+really
+do think that a database driven website is overkill for my needs.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Blogging with Jekyll</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</link>
+      <link>http://localhost:1313/posts/blogging-with-jekyll/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/blogging-with-jekyll/</guid>
-      <description>Blogging with Jekyll Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a blog. I enjoy writing and figured it would be a good way not only to practice the skill, but to share my thoughts with others. I don&amp;rsquo;t really care whether anyone reads my work, to be honest; I just want to write. The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want to be able to keep my files and refer back to them from time to time &amp;ndash; something of a journal (which is what the blog was originally conceived to be).</description>
+      
+      <guid>http://localhost:1313/posts/blogging-with-jekyll/</guid>
+      <description>&lt;h1 id=&#34;blogging-with-jekyll&#34;&gt;Blogging with Jekyll&lt;/h1&gt;
+&lt;p&gt;Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a
+blog.  I enjoy writing and figured it would be a good way not only to practice
+the skill, but to share my thoughts with others.  I don&amp;rsquo;t really care whether
+anyone reads my work, to be honest; I just want to write. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want
+to be able to keep my files and refer back to them from time to time &amp;ndash;
+something
+of a journal (which is what the blog was originally conceived to be). That means
+that I need the writing in form that is easily saved and retrieved. Another
+concern has been that I be able to write from essentially any computer, any
+where.  I started, as most folks do, on Blogger, then moved to Wordpress, each
+time abandoning my work and the platform, as I moved to another. That&amp;rsquo;s not what
+I intended.  Making the process more difficult is that the writing is stored in
+a database. This makes retrieval of the raw data difficult, particularly if
+you&amp;rsquo;ve forgotten the password, or the database is corrupt, etc.  And, to be
+honest, those platforms are simply more complex than my needs. What I needed was
+a simple, easy to use platform that allowed me to maintain a file of my work.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;blogging-with-jekyll&#34;&gt;Blogging with Jekyll&lt;/h1&gt;
+&lt;p&gt;Over the past nearly 10 years I&amp;rsquo;ve tried numerous times to maintain a
+blog.  I enjoy writing and figured it would be a good way not only to practice
+the skill, but to share my thoughts with others.  I don&amp;rsquo;t really care whether
+anyone reads my work, to be honest; I just want to write. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that, while I don&amp;rsquo;t care so much if I&amp;rsquo;m read, I do want
+to be able to keep my files and refer back to them from time to time &amp;ndash;
+something
+of a journal (which is what the blog was originally conceived to be). That means
+that I need the writing in form that is easily saved and retrieved. Another
+concern has been that I be able to write from essentially any computer, any
+where.  I started, as most folks do, on Blogger, then moved to Wordpress, each
+time abandoning my work and the platform, as I moved to another. That&amp;rsquo;s not what
+I intended.  Making the process more difficult is that the writing is stored in
+a database. This makes retrieval of the raw data difficult, particularly if
+you&amp;rsquo;ve forgotten the password, or the database is corrupt, etc.  And, to be
+honest, those platforms are simply more complex than my needs. What I needed was
+a simple, easy to use platform that allowed me to maintain a file of my work.&lt;/p&gt;
+&lt;h2 id=&#34;flat-files&#34;&gt;Flat files&lt;/h2&gt;
+&lt;p&gt;A year or so ago I became aware of flat-file blogging systems such as
+Grav, HTMLy, Pico, and the like.  These were awesome!  They allowed me to write
+my entries in plain text or Markup, upload the file to my server and, Viola!  I
+had a blog.  These were awesome &amp;ndash; and still are. On the whole, these systems
+meet my needs but, being the curious soul that I am, I wondered if there were
+other ways.  Wouldn&amp;rsquo;t it be nice if my setup didn&amp;rsquo;t depend on which PHP version
+I was running?  Wouldn&amp;rsquo;t it be nice if the system didn&amp;rsquo;t break every time
+something changed on the back end?&lt;/p&gt;
+&lt;h2 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;A few weeks ago I started playing around with Amazon Web
+Service (AWS)
+S3 storage.  One of the things you can do with S3 is serve static websites.&lt;br&gt;
+Cool.  the kicker is, of course, that the site must be static.  Static websites
+have some advantagses.  First, any webserver can serve html files, no special
+resources or support files needed.  HTML is the reason webservers exist and was
+the standard for early websites. Another advantagse is that a static site is not
+subject to server-side scripting issues. This means that it doesn&amp;rsquo;t matter
+whether you have the right version of PHP or PERL installed; the site will
+simply work.  A third advantagse is that if you ever decide to move your site,
+you simply copy the files to another server and you&amp;rsquo;re in business, no fiddling
+needed.&lt;/p&gt;
+&lt;p&gt;To test out the AWS webserver with S3 I started with the website
+automatically created by Weewx, a linux based weather software to serve data
+from my local personal weather station.  I uploaded the files and, lo and
+behold, it worked like a charm!  There was just one problem: To keep the weather
+information current, I needed to upload the files every 5 minutes.  This
+identified one of the problems with static websites &amp;ndash; all files get uploaded
+every time.  I was uploading somewhere around 85 files every 5 minutes.  In a 24
+hour period that was about 24,500 files. Each file is a PUT, in AWS terminology,
+so I was uploading a boatload of files every day.  S3 allows up to 2,000 puts
+per day and charges $ 0.005 per 1000 files after that.  It would end up
+costing
+me 12 cents a day to maintain that site.  That&amp;rsquo;s not unreasonable &amp;ndash; less than
+$4 a month. But not necessarily cheap either.  I can buy full support web servers
+for about that price and not worry about upload, storage, DNS (AWS charges for
+DNS services, too), or bandwidth costs. But, there are other uses that wouldn&amp;rsquo;t
+cost as much.&lt;/p&gt;
+&lt;p&gt;One such use is the blog. Now, Grav, Pico, and such, all require PHP,
+which is not available in S3.  So, to do a blog on S3, I needed a static site
+generator that would create the site locally, then upload them generated files
+to the server.  &lt;a href=&#34;https://www.staticgen.com&#34;&gt;StaticGen&lt;/a&gt; is a great site that
+lists dozens of static site generators, together with basic information about
+them and their relative popularity.  Jekyll is, by far, the most popular. Also
+pretty popular is Hugo.  I&amp;rsquo;ve played with and like both.  Unlike Jekyll, which is
+written in Ruby, and interpreted language, Hugo is written in Go, which is
+compiled.  This means, generally, Hugo should be faster for rendering larger
+sites.  I can&amp;rsquo;t speak to their speed, given the small number of pages I&amp;rsquo;ve
+created so far.&lt;/p&gt;
+&lt;h3 id=&#34;trying-them-out&#34;&gt;Trying Them Out&lt;/h3&gt;
+&lt;p&gt;Just from early use, I generally like Hugo better.  I can&amp;rsquo;t put my
+finger on why, though.  Initially, I found Jekyll a bit confusing to use.  While
+the documentation is extensive, it is not terribly user friendly in my view.&lt;br&gt;
+Even while I&amp;rsquo;m actually fairly conversant in computerese, I didn&amp;rsquo;t feel that the
+documentation got to the point in providing a new user with the resources needed
+to really get started.  That&amp;rsquo;s one place where, I think, Hugo was better.  So,
+why did I end up using Jekyll?  Mostly because of themes.&lt;/p&gt;
+&lt;p&gt;I tried a dozen or so themes on Hugo.  Some worked; most didn&amp;rsquo;t.  I&amp;rsquo;m
+sure it had much to do with user error, but I didn&amp;rsquo;t want to spend the time to
+troubleshoot.  The themes I tried in Jekyll just worked.  So, I went with
+Jekyll.&lt;/p&gt;
+&lt;h3 id=&#34;my-plan&#34;&gt;My Plan&lt;/h3&gt;
+&lt;p&gt;My plan is try Jekyll for a while and, if I do end up changing, it
+shouldn&amp;rsquo;t be be that big of a deal.  I suspect, though I haven&amp;rsquo;t tested it, that
+the files should be easily converted between the two; they both use Markdown.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

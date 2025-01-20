@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Finance on Kevin&#39;s corner of the web</title>
-    <link>http://localhost:1313/ksauls/hugo/tags/personal-finance/</link>
-    <description>Recent content in Personal Finance on Kevin&#39;s corner of the web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>© 2024 - Kevin Sauls</copyright>
-    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ksauls/hugo/tags/personal-finance/index.xml" rel="self" type="application/rss+xml" />
+    <title>Personal Finance on Kevin&#39;s Corner of the Web</title>
+    <link>http://localhost:1313/tags/personal-finance/</link>
+    <description>Recent content in Personal Finance on Kevin&#39;s Corner of the Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/personal-finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Think Crypto is Stupid</title>
-      <link>http://localhost:1313/ksauls/hugo/posts/why-i-think-crypto-is-stupid/</link>
+      <link>http://localhost:1313/posts/why-i-think-crypto-is-stupid/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ksauls/hugo/posts/why-i-think-crypto-is-stupid/</guid>
-      <description>Why I Think Crypto is Stupid I recently read an article on Wired about Faruk Ozer, The CEO of Turkey&amp;rsquo;s biggest Cryptocurrency business. That article outlines how tens of thousands of Turkish people were victims of Ozer&amp;rsquo;s theft of their crypto wallets and all of their assets. The thing that stood out to me is how easy it was for him to simply download their accounts onto a thumb drive and be off with their money.</description>
+      
+      <guid>http://localhost:1313/posts/why-i-think-crypto-is-stupid/</guid>
+      <description>&lt;h1 id=&#34;why-i-think-crypto-is-stupid&#34;&gt;Why I Think Crypto is Stupid&lt;/h1&gt;
+&lt;p&gt;I recently read an article on &lt;a href=&#34;https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/&#34;&gt;&lt;em&gt;Wired&lt;/em&gt;&lt;/a&gt; about Faruk  Ozer, The CEO of Turkey&amp;rsquo;s biggest Cryptocurrency business.  That article outlines how tens of thousands of Turkish people were victims of Ozer&amp;rsquo;s theft of their crypto wallets and all of their assets.  The thing that stood out to me is how easy it was for him to simply download their accounts onto a thumb drive and be off with their money.   In the wake of the crypto crimes of Sam Bankman-Fried (FTX) and Changpeng&lt;!-- raw HTML omitted --&gt; Zhao (Binance) I fail to understand why anyone would trust their financial assets and future to something so easily stolen.  Unlike banks, there is no FDIC insurance. Unlike stocks and bonds there is no physical document to show ownership. (Yes, I realize that most transactions exist in the &amp;rsquo;ether&amp;rsquo; but using a reputable trading house provides a level of safety that they are unlikely to steal your money.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;why-i-think-crypto-is-stupid&#34;&gt;Why I Think Crypto is Stupid&lt;/h1&gt;
+&lt;p&gt;I recently read an article on &lt;a href=&#34;https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/&#34;&gt;&lt;em&gt;Wired&lt;/em&gt;&lt;/a&gt; about Faruk  Ozer, The CEO of Turkey&amp;rsquo;s biggest Cryptocurrency business.  That article outlines how tens of thousands of Turkish people were victims of Ozer&amp;rsquo;s theft of their crypto wallets and all of their assets.  The thing that stood out to me is how easy it was for him to simply download their accounts onto a thumb drive and be off with their money.   In the wake of the crypto crimes of Sam Bankman-Fried (FTX) and Changpeng&lt;!-- raw HTML omitted --&gt; Zhao (Binance) I fail to understand why anyone would trust their financial assets and future to something so easily stolen.  Unlike banks, there is no FDIC insurance. Unlike stocks and bonds there is no physical document to show ownership. (Yes, I realize that most transactions exist in the &amp;rsquo;ether&amp;rsquo; but using a reputable trading house provides a level of safety that they are unlikely to steal your money.&lt;/p&gt;
+&lt;p&gt;Although many of us may not fully understand stocks, bonds, mutual funds, and the like, they have been around a very long time and there are plenty of resources available to help you wrap your head around those concepts.  Do you &lt;em&gt;really&lt;/em&gt; understand cryptocurrency?&lt;/p&gt;
+&lt;p&gt;One of my rules in personal finance is to never invest in anything that you do not understand.  If you don&amp;rsquo;t understand cryptocurrency and how it works, don&amp;rsquo;t invest in it. Period.&lt;/p&gt;
+&lt;p&gt;Stocks and bonds are rooted, ultimately, in a physical business with physical and financial assets.  That is, there is intrinsic value in the stock or bond. There are regulations through the Securities and Exchange Commission that govern how these stocks and bonds are traded.  On what is cryptocurrency based? From what I can tell, it rooted in the belief that it has value.  And it&amp;rsquo;s nothing more than belief.  There is no physical &lt;em&gt;anything&lt;/em&gt; that underlies the value of crypto. And there are no protections or, so far as I am aware, any regulations around them. It is the wild west of of stupidity, in my view.&lt;/p&gt;
+&lt;p&gt;Now, there are a lot of folks that will point out that the US dollar is similarly unmoored from anything physical. And that is absolutely true. However, it &lt;em&gt;is&lt;/em&gt; backed by the government and is the official currency of the government. And, while the government has its problems, the US dollar is accepted as valid currency here and in many areas abroad. Cryptocurrency lacks any such backing.  In effect, so far as I understand it, cryptocurrency has value only because we believe it has value.  So, too, did Beanie Babies, pet rocks, Cabbage Patch Kids, and a host of other &amp;ldquo;collectibles&amp;rdquo; until we no longer believed they had value, then their &amp;ldquo;value&amp;rdquo; evaporated.   There is one major difference between these &amp;ldquo;collectibles&amp;rdquo; and cryptocurrency: Even if you don&amp;rsquo;t believe the items have any real value, they are still physical assets and at some point in the future they may again have value. (Think about old toys that are now considered antiques which has enhanced their value.) Cryptocurrency, on the other hand, is not a physical &amp;rsquo;thing&amp;rsquo; consequently there will be no future for it. Once it disappears it is simply gone, like a puddle of water in the sun.&lt;/p&gt;
+&lt;p&gt;Another rule of personal finance management is to never risk more than you can afford to lose.  Many people (too many!) put large sums of money into crypto when they shouldn&amp;rsquo;t.  Many people believe that crypto can make them a great deal of money quickly.  But, as the old saying goes, if it sounds too good to be true, it probably is.  It is likely that cryptocurrency is making a lot of money for some people, but they&amp;rsquo;re likely doing it at the expense of others.  You don&amp;rsquo;t want to be that &amp;ldquo;other&amp;rdquo;!&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
