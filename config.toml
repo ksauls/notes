@@ -69,9 +69,9 @@ pagination.pagerSize = 5
 
     [languages.en.params]
       subtitle = "A place for random wonderings"
-      owner = ""
+      owner = "kevin sauls"
+	  copyright = "2025"
       keywords = ""
-      copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -83,7 +83,6 @@ pagination.pagerSize = 5
       words = "words"
 
    
-copyright = '© 2024 - Kevin Sauls'
 [menus]
   [[menus.main]]
     name = 'Posts'
