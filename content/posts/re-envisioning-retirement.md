@@ -1,5 +1,5 @@
 ---
-title: "Re-envisining Retirement"
+title: "Re-envisioning Retirement"
 date: 2024-08-25
 ---
 # Re-envisioning Retirement
