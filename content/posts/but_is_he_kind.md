@@ -1,5 +1,5 @@
 +++
-title = "But_is_he_kind"
+title = "But Is He Kind?"
 date = "2025-05-17T10:46:25-04:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Kevin Sauls"
@@ -31,7 +31,7 @@ inadequate. There is a contrast with what I do. That’s all.
 >
 > B.: I am also interested in actual people. Have you found any?
 
-His point is that it is hard to find people who are truly themselves. Rather, people tend to conform to whatever the social norms for a given group are. Because we are conforming to someone else's standards and expectations, we cannot be our "actual selves". We expect people to adopt our values and expectations yet, when they do and the norms of two groups come in conflict, we often call such people two-faced or hypocritical for their behavior. Yet this is what we expect. We don't /want/ people to be themselves.  We want them to be what we expect them to be and that differs depending on what group they're currently engaged with. More to the point, we don't like people who choose to be themselves, confidently, in all situations.  We don't trust them! 
+His point is that it is hard to find people who are truly themselves. Rather, people tend to conform to whatever the social norms for a given group are. Because we are conforming to someone else's standards and expectations, we cannot be our "actual selves". We expect people to adopt our values and expectations yet, when they do and the norms of two groups come in conflict, we often call such people two-faced or hypocritical for their behavior. Yet this is what we expect. We don't *want* people to be themselves.  We want them to be what we expect them to be and that differs depending on what group they're currently engaged with. More to the point, we don't like people who choose to be themselves, confidently, in all situations.  We don't trust them! 
 
 How often have you encountered a coworker who seldom, if ever, joins in group activities after work. How do you view them? Do you see them as being themselves or as being "stuck up" or "holier than thou"? Do you wonder why they don't like you? Do you wonder what's wrong with them? How does their silence or reticence make you feel? Does it make you uncomfortable?
 
