@@ -1,8 +1,8 @@
 ---
-title: "Why Must Stories Have a Plot?"
+title: "Why Must Stories Have a Plot?
 author: Kevin Sauls
 date: 2025-05-23
-draft=true
+draft: true
 ---
 
 I ran across an article that referenced the book "The Time Traveler's Wife" by Audrey Niffenegger.  Not being familiar with the work, I did a quick search and found some critiques of the work.  While the book was clearly quite popular and generally well-received, at least one critic noted that the book is made up of emotional considerations that "never quite add up to a plot". 
