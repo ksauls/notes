@@ -1,6 +1,6 @@
 ---
 title: "Memories of Summers Past"
-date: "2025-06-16""
+date: "2025-06-16"
 ---
 # Memories of Summers Past
 
