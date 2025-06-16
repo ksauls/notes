@@ -1,5 +1,5 @@
 ---
-title: Why Must Stories Have a Plot?
+title: "Why Must Stories Have a Plot?"
 author: Kevin Sauls
 date: 2025-05-23
 draft=true
