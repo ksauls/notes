@@ -10,7 +10,6 @@
   <meta name="robots" content="noodp" />
 {{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
-
 {{ template "_internal/google_analytics.html" . }}
 
 {{ $css := resources.Match "css/*.css" }}
@@ -77,3 +76,13 @@
 
 <!-- Extended head section-->
 {{ partial "extended_head.html" . }}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6X3005PBKN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6X3005PBKN');
+</script>
