@@ -1,12 +1,12 @@
-&#x2014;
+---
 title: Experimenting with FreeBSD on a Laptop
 date: 2025-06-25
 tags:
 
 -   technology
 
-&#x2014;
-Introduction
+---
+# Introduction
 Way back in the day (circa 2000) I was introduced to Unix-like operating systems in the form of Sun Solaris running on a Sun Sparc server.  I was intrigued. And wanted to know more. Of course, at that time running a Unix-like operating system at home, on an x86 machine, meant Linux, not true Unix.  Why? Well, to start, Unix simply didn&rsquo;t run on x86.  It has been ported to x86 in recent years, but at thetime it wasn&rsquo;t. So, I started playing with Linux and have spent the last quarter century mucking my way around that system.  And I think I&rsquo;ve got a reasonably good handle on it.
 
 
