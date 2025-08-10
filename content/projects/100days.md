@@ -1,9 +1,8 @@
-+++
+---
 title = '100 Days of Writing'
-date = 2025-08-10T11:32:12-04:00
-draft = false
+date = 2025-08-10
 
-+++
+---
 So, I began reading _Tiny Experiments_ by Anne-Laure Le Cunff, creator of [Nesslabs.com](https://www.nesslabs.com) and was intriguted by the idea of setting short-term goals with very specific actions and deadlines.  Her original experiment was to write 100 articles in 100 working days.  In the book she also discussed Andrew Kallaway's _100 Days of Code_ challenge in which he publicly committed to coding for at least one hour a day for 100 days.  The whole concept of making that kind of public committment, together with clearly defined actions. 
 
 Beyond simply completing the activity, one of things that stood out to me was that through that daily process they both reported significant improvements in their work. Andrew's coding improved; Anne-Laure's writing improved. And as she wrote she found more and more inspiration to write. All of that drew me in and challenged me. 
