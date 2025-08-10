@@ -5,7 +5,7 @@ date: "2025-08-09"
 
 # A Few More Thoughts Regarding Lost Manuscripts
 
-Sometimes weird sorts of coincidences occur.  A week or so ago I shared my thoughts about the [Death of Lost Manuscripts](https://iamcuri.us/death-of-lost-manuscripts/. This week I ran across an article on the [_Saturday Evening Post_](https://www.saturdayeveningpost.com/2025/08/words-left-behind-the-quandary-of-posthumous-publishing/) that spoke to the topic of lost manuscripts but provided a different take and it's one that has given me pause.
+Sometimes weird sorts of coincidences occur.  A week or so ago I shared my thoughts about the [Death of Lost Manuscripts](https://iamcuri.us/death-of-lost-manuscripts/). This week I ran across an article on the [_Saturday Evening Post_](https://www.saturdayeveningpost.com/2025/08/words-left-behind-the-quandary-of-posthumous-publishing/) that spoke to the topic of lost manuscripts but provided a different take and it's one that has given me pause.
 
 The article questioned the ethics of the posthumous publication of an author's works. That article addressed two concerns.  One  I absolutely agree with and the other, well, I'm still on the fence.
 ### Publishing Private Notes and Journals
