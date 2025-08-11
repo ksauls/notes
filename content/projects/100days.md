@@ -1,7 +1,8 @@
 ---
 title: "100 Days of Writing"
 date: 2025-08-10
-
+ShowFullContent: true
+tags: ["projects","writing"]
 ---
 So, I began reading _Tiny Experiments_ by Anne-Laure Le Cunff, creator of [Nesslabs.com](https://www.nesslabs.com) and was intriguted by the idea of setting short-term goals with very specific actions and deadlines.  Her original experiment was to write 100 articles in 100 working days.  In the book she also discussed Andrew Kallaway's _100 Days of Code_ challenge in which he publicly committed to coding for at least one hour a day for 100 days.  The whole concept of making that kind of public committment, together with clearly defined actions. 
 
@@ -17,3 +18,5 @@ A. I do not want to spend inordinate amounts of time on the task.  Limiting my w
 B. If I complete an article in under an hour then I'm not 'comitted' to writing for the remaining time. Yet another motivation to focus and get the work done!
 
 So, come along with me on this journey. I'll be listing my 100 day topics on this page, but the actual articles will only 'go live' every few days.
+
+Day 1: [On Finding Your Purpose]({{< relref "/posts/on_purpose" >}})
