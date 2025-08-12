@@ -20,3 +20,5 @@ B. If I complete an article in under an hour then I'm not 'comitted' to writing 
 So, come along with me on this journey. I'll be listing my 100 day topics on this page, but the actual articles will only 'go live' every few days.
 
 Day 1: [On Finding Your Purpose]({{< relref "/posts/on_purpose" >}})
+Day 2: [Learning Emacs]({{< relref "/posts/learn_emacs" >}})
+
