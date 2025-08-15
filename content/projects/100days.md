@@ -22,4 +22,5 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 1: [On Finding Your Purpose]({{< relref "/posts/on_purpose" >}})
 * Day 2: [Learning Emacs]({{< relref "/posts/learn_emacs" >}})
 * Day 3: [Revisiting OpenBSD]({{< relref "/posts/revisiting_openbsd" >}})
+* Day 4: [Senior Socializing]({{< relref "/posts/senior-socializing" >}})
 
