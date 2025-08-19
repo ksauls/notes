@@ -25,3 +25,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 4: [Senior Socializing]({{< relref "/posts/senior-socializing" >}})
 * Day 5: [Passion Projects]({{< relref "/posts/passion-projects" >}})
 * Day 6: [Learning in Public]({{< relref "/posts/learning-in-public" >}})
+* Day 7: [Rural vs Urban Living]({{< relref "/posts/rural-v-urban" >}})
