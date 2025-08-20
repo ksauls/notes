@@ -15,7 +15,7 @@ hideComments : true
 ---
 # Learning Emacs Part 1
 
-Emacs, if you're unfamiliar, is a text editor that has been around since the 1970s. It was originally designed for editing macros in early computer systems. The most popular version, and the one that dominates the space today is GNU Emacs which was developed by Richard Stallman somewhere around 1976. I'm not going to get into the nitty-gritty details of its history but knowing that it has been around for nearly 50 years and remains a very popular editor, particularly among developers and others, like me, who are interested in exploring different technologies and appreciate the extensibility and utility of the program.
+Emacs, if you're unfamiliar, is a text editor that has been around since the 1970s. It was originally designed for editing macros in early computer systems. The most popular version, and the one that dominates the space today is GNU Emacs which was developed by Richard Stallman somewhere around 1976. I'm not going to get into the nitty-gritty details of its history but knowing that it has been around for nearly 50 years and remains a very popular editor, particularly among developers and others, like me, who are interested in exploring different technologies and appreciate the extensibility and utility of the program gives you a sense of why you might want to consider it.
 
 Emacs can do pretty much anything you want it to do. It has, according to [Wikipedia](https://en.wikipedia.org/wiki/Emacs) some 10,000 built in commands. Did I mention it is extensible? And fairly complex?
 
