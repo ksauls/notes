@@ -28,3 +28,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 7: [Rural vs Urban Living]({{< relref "/posts/rural-v-urban" >}})
 * Day 8: [Emacs Part 1]({{< relref "/posts/emacs-part-1" >}})
 * Day 9: [Why Would Anyone Choose to be Attacked?]({{< relref "/posts/why-would-anyone" >}})
+* Day 10: [AI in Education]({{< "/posts/ai-in-education" >}})
