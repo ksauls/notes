@@ -29,3 +29,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 8: [Emacs Part 1]({{< relref "/posts/emacs-part-1" >}})
 * Day 9: [Why Would Anyone Choose to be Attacked?]({{< relref "/posts/why-would-anyone" >}})
 * Day 10: [AI in Education]({{< relref "/posts/ai-in-education" >}})
+* Day 11: [Tiny Experiments]({{< relref "book_reviews/tiny-experiments" >}})
