@@ -32,3 +32,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 10: [AI in Education]({{< relref "/posts/ai-in-education" >}})
 * Day 11: [Book Review: Tiny Experiments]({{< relref "book_reviews/tiny-experiments" >}})
 * Day 12: [Book Review: A Strong Female Character]({{< relref "book_reviews/strong-female-character" >}})
+* Day 13: [Some Critiques of 'A Strong Female Character']({{< relref "/posts/fern-brady" >}})
