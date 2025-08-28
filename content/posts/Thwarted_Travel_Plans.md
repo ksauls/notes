@@ -4,11 +4,11 @@ date = "2025-04-23T17:12:03-04:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
+tags = ["travel", ""]
 keywords = ["", ""]
-description = ""
+description = "Thinking about retirement travel"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 +++
 #### Planning for 2025

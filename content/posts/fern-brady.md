@@ -15,7 +15,7 @@ hideComments : true
 ---
 # Some Critiques of 'Strong Female Character'
 
-Yesterday I posted my book review of Fern Brady's memoir, _Strong Female Character_. After I did that, I thought it would be interesting to see what others had to say about the book. I know that people interpret and experience books differently based on their own experiences, expectations, values, and so on, so I was not surprised to find that not everyone thought as highly of the book as I did. 
+Yesterday I posted my book review of FernBrady's memoir, _Strong Female Character_. After I did that, I thought it would be interesting to see what others had to say about the book. I know that people interpret and experience books differently based on their own experiences, expectations, values, and so on, so I was not surprised to find that not everyone thought as highly of the book as I did. 
 
 Today I thought I'd touch on a couple of the concerns people expressed about the book and provide my own thoughts regarding their comments. I am not minimizing their points of view. After all, they are as free to express their perspectives as I am to present mine. That said, it did seem to me that some of the comments were a bit narrow minded.
 

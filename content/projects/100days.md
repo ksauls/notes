@@ -5,7 +5,7 @@ ShowFullContent: false
 tags: ["projects","writing"]
 lastmod: 2025-08-26
 ---
-So, I began reading _Tiny Experiments_ by Anne-Laure Le Cunff, creator of [Nesslabs.com](https://www.nesslabs.com) and was intriguted by the idea of setting short-term goals with very specific actions and deadlines.  Her original experiment was to write 100 articles in 100 working days.  In the book she also discussed Andrew Kallaway's _100 Days of Code_ challenge in which he publicly committed to coding for at least one hour a day for 100 days.  The whole concept of making that kind of public committment, together with clearly defined actions. 
+So, I began reading _Tiny Experiments_ by Anne-Laure Le Cunff, creator of [Nesslabs.com](https://www.nesslabs.com) and was intrigued by the idea of setting short-term goals with very specific actions and deadlines.  Her original experiment was to write 100 articles in 100 working days.  In the book she also discussed Andrew Kallaway's _100 Days of Code_ challenge in which he publicly committed to coding for at least one hour a day for 100 days.  The whole concept of making that kind of public commitment, together with clearly defined actions. 
 
 Beyond simply completing the activity, one of things that stood out to me was that through that daily process they both reported significant improvements in their work. Andrew's coding improved; Anne-Laure's writing improved. And as she wrote she found more and more inspiration to write. All of that drew me in and challenged me. 
 
@@ -16,7 +16,7 @@ I do have two rules or caveats:
 
 That second rule came about because:
 A. I do not want to spend inordinate amounts of time on the task.  Limiting my work to one hour prevents burnout and also provides incentive to get stuff done. In other words, knowing I only have an hour to write should provide encouragement to focus and get the article finished.
-B. If I complete an article in under an hour then I'm not 'comitted' to writing for the remaining time. Yet another motivation to focus and get the work done!
+B. If I complete an article in under an hour then I'm not 'committed' to writing for the remaining time. Yet another motivation to focus and get the work done!
 
 So, come along with me on this journey. I'll be listing my 100 day topics on this page, but the actual articles will only 'go live' every few days.
 
@@ -33,3 +33,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 11: [Book Review: Tiny Experiments]({{< relref "book_reviews/tiny-experiments" >}})
 * Day 12: [Book Review: A Strong Female Character]({{< relref "book_reviews/strong-female-character" >}})
 * Day 13: [Some Critiques of 'A Strong Female Character']({{< relref "/posts/fern-brady" >}})
+* Day 14: [Ah, the Fun of Growing Older}({{< relref "/posts/skin-cancer" >}})XS
