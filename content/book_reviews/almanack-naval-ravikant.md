@@ -1,6 +1,10 @@
 ---
 Title: "Book Review: The Almanack of Naval Ravikant"
 date: 2024-03-09
+categories:
+  - 'Book Reviews'
+tags:
+  - 'book reviews'
 ---
 ![](http://books.google.com/books/content?id=0jxbzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 {{< figure src ="/home/kevin/hugo/images/b14798115985144bc798024764ad1773_MD5.jpg" >}}

@@ -33,4 +33,5 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 11: [Book Review: Tiny Experiments]({{< relref "book_reviews/tiny-experiments" >}})
 * Day 12: [Book Review: A Strong Female Character]({{< relref "book_reviews/strong-female-character" >}})
 * Day 13: [Some Critiques of 'A Strong Female Character']({{< relref "/posts/fern-brady" >}})
-* Day 14: [Ah, the Fun of Growing Older}({{< relref "/posts/skin-cancer" >}})XS
+* Day 14: [Ah, the Fun of Growing Older]({{< relref "/posts/skin-cancer" >}})
+* Day 15: [Book Review: Explaining AuDHD]({{< relref "/book_reviews/audhd" >}})

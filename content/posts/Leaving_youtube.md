@@ -1,6 +1,10 @@
 ---
 title: "Why I'm Leaving Youtube Behind"
 date: "2025-07-15"
+categories: 
+  - technology
+tags:
+  - technology
 ---
 
 I have watched Youtube videos for many, many years. Not only that, I actually created a Youtube channel and created videos for a while. Recently, though, I've begun to reassess my relationship with Youtube.

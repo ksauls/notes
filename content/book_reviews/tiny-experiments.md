@@ -2,6 +2,10 @@
 title: 'Tiny Experiments'
 date: 2025-08-25
 draft: false
+categories:
+  - 'Book Reviews'
+tags:
+  - 'book reviews'
 ---
 ![](tinyexperiments.jpg)
 

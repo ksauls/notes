@@ -2,6 +2,10 @@
 title: 'Book Review: Naked by Brian Hoffman'
 date: 2024-05-13
 type: page
+categories:
+  - 'Book Reviews'
+tags:
+  - 'book reviews'
 ---
 ![](http://books.google.com/books/content?id=spwHCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

@@ -1,9 +1,11 @@
 ---
 Title: 'Book Review: The Richest Man in Babylon'
 date: 2024-03-01
----
 
-
+categories:
+  - 'Book Reviews'
+tags:
+  - 'book reviews'
 ---
 
 ![cover|150](http://books.google.com/books/content?id=H0EYaZ9-EckC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

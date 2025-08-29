@@ -2,6 +2,11 @@
 title: 'Book Review: Strong Female Character'
 date: 2025-08-26
 draft: false
+categories:
+  - 'Book Reviews'
+tags:
+  - 'book reviews'
+
 ---
 ![](strongfemale.jpg)
 I ran across a video of comedian Fern Brady a few days ago. I thought her jokes and presentation were pretty good and went searching for more.  One of the videos I ran across was her being interviewed by Richard Herring, on his _Richard Herring's Leicester Square Theatre Podcast_.  In the course of that interview I learned both that Fern is autistic and that she had written a book.  This intrigued me so I had to track it down.

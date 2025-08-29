@@ -5,7 +5,8 @@ date : "2025-08-18T14:03:21-04:00"
 author : ""
 #authorTwitter : "" #do not include @
 #cover : ""
-tags : ["projects", "OpenBSD"]
+tags : ["projects", "OpenBSD", "technology"]
+categories: ["technology", "projects"]
 keywords : ["", ""]
 #description : ""
 showFullContent : false

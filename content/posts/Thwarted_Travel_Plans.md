@@ -5,6 +5,7 @@ author = ""
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["travel", ""]
+categories = ["retirement"]
 keywords = ["", ""]
 description = "Thinking about retirement travel"
 showFullContent = false
