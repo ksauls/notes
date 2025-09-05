@@ -2,9 +2,11 @@
 title: Designing your Life
 date: 2017-10-20
 categories:
-    - 'General Education'
+  - General Education
 tagss:
-    - education
+  - education
+tags:
+  - education
 ---
 # Designing Your Life
 

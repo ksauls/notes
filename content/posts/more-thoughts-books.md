@@ -1,6 +1,7 @@
 ---
-title: "More Thoughts on Lost Manuscripts"
-date: "2025-08-09"
+title: More Thoughts on Lost Manuscripts
+date: 2025-08-09
+tags:
 ---
 
 # A Few More Thoughts Regarding Lost Manuscripts

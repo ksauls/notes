@@ -1,8 +1,9 @@
 ---
-title: 'Am I on "The Spectrum"?'
+title: Am I on "The Spectrum"?
 date: 2024-08-05
 categories:
   - General
+showFullContent: false
 ---
 For the past ten years I have worked from home.  Although I interacted regularly with students and other faculty, those interactions generally took place by email (my preferred method) or, when interactivity was required, by phone, Teams, or Zoom. Actual face-to-face interaction was very limited.  I liked it that way for, as odd as it may seem, I don't actually like dealing with people directly.  I say that's odd because I have spent my entire career in a field that required not only face-to-face interaction but, as a nurse,  often that interaction  required intimate contact with others. And, while I did need to interact on a one-to-one level in the hospital, teaching allowed me to interact with students on a more generic level. Speaking to a class or conducting on on-line lesson is easier and less stressful for me than meeting one on one with an individual.
 

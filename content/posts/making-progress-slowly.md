@@ -1,8 +1,8 @@
 ---
-title: 'Making Progress ... Slowly'
+title: Making Progress ... Slowly
 date: 2018-01-31
 categories:
-    - 'General Education'
+  - General Education
 ---
 # Making Progress ... Slowly
 

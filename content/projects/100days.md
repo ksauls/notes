@@ -37,6 +37,6 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 15: [Book Review: Explaining AuDHD]({{< relref "/book_reviews/audhd" >}})
 * Day 16: [My OpenBSD Experiment is Over]({{< relref "/posts/obsd-is-over" >}})
 * Day 17: [The Importance of Soft Skills ... ]({{< relref "/posts/soft-skills" >}})
-* Day 18: [The Downside of Home Labbing and Home Automation]({{< relref "/posts/downside-of-homelabbing" >}})b
+* Day 18: [The Downside of Home Labbing and Home Automation]({{< relref "/posts/downside-of-homelabbing" >}})
 * Day 19: [Where Do I Get My Writing Ideas?]({{< relref "/posts/writing-ideas" >}})
-
+* Day 20: [Why I Write Even When I Know No One is Reading]({{< relref "/posts/why-i-write" >}})

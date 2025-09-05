@@ -1,10 +1,12 @@
 ---
-title: 'Is it for Education or Business?'
+title: Is it for Education or Business?
 date: 2013-12-27
 categories:
-    - 'General Education'
+  - General Education
 tagss:
-    - education
+  - education
+tags:
+  - education
 ---
 # Is it for Education or Business?
 

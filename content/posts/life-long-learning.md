@@ -1,10 +1,12 @@
 ---
-title: 'Life Long Learning'
+title: Life Long Learning
 date: 2017-11-02
 categories:
-    - 'General Education'
+  - General Education
 tagss:
-    - education
+  - education
+tags:
+  - education
 ---
 # Life Long Learning
 

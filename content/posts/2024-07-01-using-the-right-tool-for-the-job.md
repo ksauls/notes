@@ -1,5 +1,5 @@
 ---
-title: 'Using the Right Tool for the Job'
+title: Using the Right Tool for the Job
 date: 2024-07-01
 categories:
   - general

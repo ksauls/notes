@@ -1,6 +1,6 @@
 +++
 title = "But Is He Kind?"
-date = "2025-05-17T10:46:25-04:00"
+date = "05/23/2025"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Kevin Sauls"
 tags = ["philosophy"]

@@ -2,10 +2,12 @@
 title: Confusing Fiction with Fact
 date: 2024-05-13
 categories:
-    - general
-    - 'Book Reviews'
+  - general
+  - Book Reviews
 tagss:
-    - curiosity
+  - curiosity
+tags:
+  - curiosity
 ---
 
 # Confusing Fiction with Fact

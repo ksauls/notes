@@ -1,6 +1,7 @@
 ---
-title: "The Death of Lost Manuscripts"
-date: "2025-07-21"
+title: The Death of Lost Manuscripts
+date: 2025-07-21
+tags:
 ---
 # The Death of Lost Manuscripts
 

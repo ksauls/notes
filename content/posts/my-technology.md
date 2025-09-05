@@ -1,11 +1,14 @@
 ---
-title: 'My Technology'
+title: My Technology
 date: 2023-06-17
 categories:
-    - technology
+  - technology
 tagss:
-    - technology
-    - projects
+  - technology
+  - projects
+tags:
+  - technology
+  - projects
 ---
 # My Technology
 
