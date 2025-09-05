@@ -1,6 +1,6 @@
 +++
 title = "Thwarted Travel Plans"
-date = "04/23/2025"
+date = "2025-04-23"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""

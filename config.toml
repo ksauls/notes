@@ -59,7 +59,7 @@ enableGitInfo = true
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
-
+ignoreLogs= ['warning-goldmark-raw-html']
 
 
 [languages]
