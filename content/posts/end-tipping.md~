@@ -1,6 +1,6 @@
 ---
-title : "{{ replace .TranslationBaseName "-" " " | title }}"
-date : "{{ .Date }}"
+title : "End Tipping"
+date : "2025-09-08T09:04:01-04:00"
 dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
 author : "Kevin Sauls"
 #authorTwitter : "" #do not include @
