@@ -41,3 +41,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 19: [Where Do I Get My Writing Ideas?]({{< relref "/posts/writing-ideas" >}})
 * Day 20: [Why I Write Even When I Know No One is Reading]({{< relref "/posts/why-i-write" >}})
 * Day 21: [Is it Time to End Tipping]({{< relref "/posts/endtipping/end-tipping" >}})
+* Day 22: [A Big Problem with AI Search Results]({{< relref "/posts/ai-problem" >}}) 
