@@ -44,3 +44,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 22: [A Big Problem with AI Search Results]({{< relref "/posts/ai-problem" >}}) 
 * Day 23: [The ADHD Balancing Act]({{< relref "/posts/adhd-balancing-act" >}})
 * Day 24: [Book Review: A Mind for Numbers"]({{< relref "/book_reviews/mind-for-numbers" >}})
+* Day 25: [Should I try a Digital Disconnection?]({{< relref "/posts/digital-disconnect" >}})

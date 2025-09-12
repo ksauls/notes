@@ -109,3 +109,7 @@ ignoreLogs= ['warning-goldmark-raw-html']
      name = 'About'
      pageRef = 'about.md'
      weight = 60
+  [[menus.main]]
+     name = 'Now'
+     pageRef = 'now.md'
+     weight = 70
