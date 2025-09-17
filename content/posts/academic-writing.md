@@ -1,0 +1,47 @@
+---
+title : "On Academic Writing"
+date : "2025-09-17T11:11:09-04:00"
+dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
+author : "Kevin Sauls"
+#authorTwitter : "" #do not include @
+#cover : ""
+tags : ["100days", "general thoughts"]
+categories : ["",""]
+showFullContent : false
+readingTime : true
+
+---
+
+Back around 2005 I started an on-line masters program with a well-known and highly promoted online university.  In one of my classes I had written what I thought was a well-done treatise[^1] in order to fulfill some course requirement. I did not score well on that paper. When I asked why, I was told that it did not meet the page requirements.
+
+I pointed out to the instructor that as a communications major in business school I was taught that you should write succinctly in order to clearly communicate your thoughts without burdening the reader with undue verbiage. I was taught not to fill your writing with fluff -- say what you need to say then get out.
+
+The response to this was, "That's not how it's done in Academia". My rather smart-ass response, was "so you're telling me that highly educated people cannot clearly communicate their thoughts?"
+
+That, of course, did not set well with the instructor.  Needless to say, I did not continue with that school. Not because I was not permitted back but because I couldn't cotton the idea of dealing with the arrogance of the faculty. 
+
+I believe I've shared this story in a post several years ago, but I was reminded of it this morning while reading Santiago Ramón y Cajal's _Advice for a Young Investigator_, a book written 1897 but with ideas and challenges that still echo today.
+
+Cajal was a highly respected Spanish biologist whose research on the nervous system eventually won him a Nobel prize. At the time of his writing, Spain was not known for its contributions to the world of science and this was, I believe, part of the impetus for his writing: to encourage Spanish researchers to strive to change that narrative.
+
+Much of the book is, of course, quite dated and reflects a different time and place with, for example, seriously outdated views towards women and their place in the scientific world. The book also suggests that the young researcher can work readily from their own homes without the need for corporate or university resources. At the time of his writing this may have been an achievable goal. Today, not so much.
+
+But where am I going with this?
+
+In the chapter on _On Writing Scientific Papers_, he notes that scientific writers should  
+
+> govern themselves by the following rules:  
+> (1) Have something to say,  
+> (2) say it,  
+> (3) stop once it is said, and   
+> (4) give the article a suitable title and order of presentation.
+
+This (with the exception of #4)  is exactly the guidance I was given as a business communications major. He went on to say, later while discussing style with respect to scientific writing, "Do not forget the maxim of Boileau: 'That which is well conceived is stated clearly."  The suggestion here, contrary to what my instructor had asserted, is that someone who truly understands a topic can and should communicate it in a clear and concise manner.  Cajal suggests that those who write "fluff" are doing so because they do not have a clear understanding of the topic on which they write. I've heard it said, though I can't recall where, that someone who truly understands a concept should be able to explain it clearly to a five year old. Short, concise, and to the point.
+
+Somewhere down the line the academic world, or at least some aspects of it, conflated the length of a paper with the value of its content. Nothing could be further from the truth. When an instructor or even a publisher is more concerned with the length of a paper than with the quality of its contents, there is a significant problem. And the problem lies not with the writer but with the reader. 
+
+As a rule, I try to keep these posts to less than 1000 words. Sometimes it is necessary to go beyond that in order to clearly express an idea or explain a concept or to fully explore a topic. But I am trying to keep in mind what I learned more than 30 years ago, as Cajal acknowledges: Have something to say, say it, then stop once it is said.
+
+And with that, I'll stop!
+
+[^1]: Not to brag but I have subsequently been complimented by multiple frequently published professors for my writing skills. Whether those skills are demonstrated here, is a judgment I'll leave to the reader.
