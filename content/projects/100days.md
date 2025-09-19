@@ -49,3 +49,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 26: [Self-Hosting for 'Tech Independence']({{< relref "/posts/tech-independence" >}})
 * Day 27: [Teaching Students how to Learn]({{< relref "/posts/teaching-learning" >}})
 * Day 28: [On Academic Writing]({{< relref "/posts/academic-writing" >}})
+* Day 29: [Learning is Not a Spectator Sport]({{< relref "/posts/learning-sport.md" >}})
