@@ -1,5 +1,5 @@
 ---
-	title : "Learning is Not a Spectator xbSport"
+title : "Learning is Not a Spectator Sport"
 date : "2025-09-19T15:43:35-04:00"
 dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
 author : "Kevin Sauls"
