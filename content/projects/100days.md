@@ -52,3 +52,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 29: [Learning is Not a Spectator Sport]({{< relref "/posts/learning-sport.md" >}})
 * Day 30: [A Brief Test of XCP-ng vs Proxmox]({{< relref "/posts/xcpng.md" >}})
 * Day 31: [A Few Thoughts on Travel - Part 1]({{< relref "/posts/travel-1" >}})
+* Day 32: [Why is Everything a Subscription?]({{< relref "/posts/subscriptions.md" >}})
