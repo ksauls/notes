@@ -54,3 +54,4 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 31: [A Few Thoughts on Travel - Part 1]({{< relref "/posts/travel-1" >}})
 * Day 32: [Why is Everything a Subscription?]({{< relref "/posts/subscriptions.md" >}})
 * Day 33: [Living a Slower Pace of Life]({{< relref "/posts/slowing_down.md" >}})
+* Day 34: [Trying out Omarchy]({{< relref "/posts/omarchy.md" >}})
