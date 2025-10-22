@@ -1,0 +1,54 @@
+---
+title : "Giving Nixos a Shot"
+date : "2025-10-18T11:53:52-04:00"
+dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
+author : "Kevin Sauls"
+#authorTwitter : "" #do not include @
+#cover : ""
+tags : ["100days", ""]
+categories : ["technology",""]
+showFullContent : false
+readingTime : true
+
+---
+Okay, so in my last post I stated that I didn't do a lot of distro hopping. And, for the most part that is true. That said, though, I do run a homelab and the whole purpose of that lab is to trial different operatings systems, software, etc.  In the process of exploring Omarchy and its related technologies (Wayland, Hyprland, etc) I ran across several other intriguing things that I wanted to try out.  I've played with both Arch Linux (on which Omarchy is based) and NixOS in the past but never really gave either of them a fair shake. So, over the last couple of days I've been playing with both. Today I  want to talk a little bit about NixOS.
+
+If you're not familiar with NixOS, it is a Linux distribution that takes a different approach to how it is configured and how packages are installed.
+
+In most linux distributions software is installed using a package manager such as dpkg, apt, yay, dnf, and so on.  NixOS, on the other hand, installs packages mostly through the configuration files[^1]. That is, rather than issuing a command to install a program you simply tell the OS configuration file that you want to include a program. Then, you can either run the command ```nixos-rebuild switch``` which will load and enable the program, or you can simply reboot your computer and when it loads it will install the desired software. Simple, clean, and easy.
+
+So, why does this matter?  Well, let's say you have a particular configuration you really like.  You've got your system all set up exactly the way you want it and you want to ensure that if your computer should go belly-up you don't spend tons of time trying to rebuild you system.  With Nix you can save a copy of your configuration file then when you rebuild your computer, you just upload your configuration file to it and viola!  your system is right back to where were before.
+
+Similarly, if you work on multiple machines (maybe a laptop and a desktop, for example) you can build the one to meet your needs then share the configuration file with the other run the command above and you now have two identically configured machines. No need to spend time installing all of the programs that you need or installing most of them then realizing that you omitted a few.  This can save a ton of time.
+
+Now, in fairness, you can acheive a similar outcome with other programs such as Ansible but this is just such an easy thing to do and is, frankly, a hell of a lot easier to configure than Ansible. I always struggle to get Ansible right!
+
+I'm running NixOS, which is a Linux distribution built around the Nix packagement management system. But you don't have to use NixOS.  You can actually run the Nix package system on almost any Linux system that runs systemd and, surprisingly, Mac OS!  That makes it entirely possible to set up your Mac to mimic your Linux devices.
+
+Setting aside the whole Nix Package Manager for a moment, I'm actully pretty impressed with the OS.  It is fast and appears to be quite stable.
+
+My initial installation was on a Dell Wyse 5070 machine with 12GB memory and a Celeron J4105 processor. I loaded OBS Studio and Kdenlive on it and both ran like champs. No stuttering, no jumpy video, they both just worked. The only issues I had were with audio and that was because I didn't really know what audio hardware the device had so it took some time to figure out exactly how to set that up. And that was an issue with Firefox and VLC, as well, so I can't fault NixOS for that.
+
+By comparison, I ran the same software on the same machine using Arch Linux and the video was abysmal.  It stuttered and froze constantly.[^2] Clearly there was something with the Arch OS that was creating challenges. But, since it worked so well on NixOS, I decided not to chase down the "why's" behind those issues.
+
+Having had a pretty good experience on the Wyse device, I decided to swap out my Linux Mint drive on my Lenovo X250 laptop and drop NixOS on that, as well. Again, absolutely no issues, though I ahven't tried OBS Studo or Kdenlive yet.
+
+On a side note, along with NixOS, I installed Niri Window Manager. So far that has been rock-solid, too, and I plan to cover that in another post.
+
+### All Was Great --- Until It Wasn't
+
+So, I ran Nix for several days and was mostly quite happy with it.  Then I started running into issues. They weren't necessarily deal breakers, but in the end I decided that I just didn't want to futz with them any more.
+
+What were those issues?  The main one was that there were several configuration issues that I couldn't figure out.  For example, Niri includes Waybar and while I've had no problems configuring Waybar in Niri on Arch, I couldn't find a configuration file for Nix. It was there; it was loaded, but I couldn't figure out exactly how to configure it to my needs. Like I said, not a deal breaker, but this should be a simple thing to fix. And it wasn't.
+
+I also ran into some issues with configuring idle, screen locking, and suspending on timeout.  I know that there are solutions for those issues but I really just didn't want to spend the time trying to figure it out.
+
+Printing was another challenge. After a lot of trial and error I was able to get the Brother HL4150 to print, but I couldn't control, for example, duplexing which I've had no problems with on any other distro.  Now, some of this could be related to Wayland and Niri; I didn't try other DEs and it really isn't a deal breaker because I can send the file sto another computer to print, but it was just one more nit that I chose not to continue picking.
+
+### So There You Have It
+
+In the end, I dropped NixOS after a few days and went CachyOS and so far I'm a pretty happy camper.  And I absolutely love Niri, even if there's still a few glitches.  I'll cover that another day.
+
+
+[^1]: There are also two other ways to install a program from the commandline but I'll not cover those here.
+[^2]: A recent reinstall of Arch resolved those issues so I'm not sure what the culprit was.
