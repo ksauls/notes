@@ -55,3 +55,5 @@ So, come along with me on this journey. I'll be listing my 100 day topics on thi
 * Day 32: [Why is Everything a Subscription?]({{< relref "/posts/subscriptions.md" >}})
 * Day 33: [Living a Slower Pace of Life]({{< relref "/posts/slowing_down.md" >}})
 * Day 34: [Trying out Omarchy]({{< relref "/posts/omarchy.md" >}})
+* Day 35: [Giving NixOS a Try]({{< relref "/posts/nixos.md" >}})
+* Day 36: [The Problem with Tech Reviews]({{< relref "/posts/demos.md" >}})

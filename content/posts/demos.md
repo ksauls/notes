@@ -1,0 +1,64 @@
+---
+title : "The Problem with Youtube Tech Reviews"
+date : "2025-10-22T20:31:18-04:00"
+dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
+author : "Kevin Sauls"
+#authorTwitter : "" #do not include @
+#cover : ""
+tags : ["100days", "technology"]
+categories : ["",""]
+showFullContent : false
+readingTime : true
+
+---
+
+While I still spend quite a lot of time viewing Youtube videos on various topics, including technology, I've become increasingly dissatisfied with the quality of many of those videos.  Now, I watch them for two reasons: To learn about new technologies, equipment, software, etc; and, to learn actual skills for using those technologies.  That is, I might watch a video to discover the pros and cons of a particular piece of software or hardware. Or, I might watch in order to learn how to do something with one of the technologies I'm already using. So, what's the problem?
+
+Well, the biggest problem for me is that increasingly the tech videos I watch focus on promoting either the software or the equipment.  Yes, they all say that the views are their own and that the company doesn't have a say in what is in the video but at the same time, the company has provided the equipment (or software) for free, so there is always some doubt in my mind about how truly valid the "reviews" are.
+
+I put reviews in quotes in the previous paragraph for two reasons.  First, many of the so-called reviews don't really review the product -- what it is supposed to do and how well it accomplishes that purpose. Nor do they usually explain what need it meets and how well it meets it. The purpose and need for a product are not necessarily the same. A product can be perfectly built to do a specific thing and do it well but if there is no need for what it does ... well, it's not very useful to me.  So, the "reviews" often don't really help me make a decision on whether to buy the product or, more commonly, why I should choose product A over product B, C, D, ...
+
+The second reason I put the word in quotes is even simpler.  Often what is presented as a "review" is nothing more than a demo. They show how to set up the product and go through the features.  While this might be helpful for someone who has purchased the product it is generally not very helpful for someone who hasn't yet purchased it.  So in my mind, these "reviews" are basically useless and a waste of my time.  The problem is that I often don't really recognize how much time has been wasted until well into the video.  After all, I do expect them to explain the product before providing a review.  The problem is the review part of the video often never comes.
+
+This whole "show how to set up but not how it is used or is useful" concept is particularly true with respect to software. I've watched videos on "all you need to know about X" only to discover that they show me how to install it but not how to actually use the product. Total waste of my time. And there's usually a hell of a lot more to know about the product than just how to install or configure it.
+
+### What Do I Want From a Tech Video?
+
+#### Hardware
+
+With respect to hardware I want to know:
+* What needs it meets that differentiates it from its competitors
+* How well it meets those needs
+* What its capacity and expansion capabilities are
+* What its limitations are
+
+What I DON'T want is a bunch of useless and essentially meaningless benchmarks. Those are not real-world values and in my experience don't reflect what happens in the real world. The statistics provided are generally not terribly substantive and don't give the reader any real sense of what's happening.  Is the difference statistically significant?  And, Moreover, does a 0.2 second difference in some parameter really make a difference to the average user?
+
+Yes, it's nice that you transfer a file 50% faster. But that means that rather than taking 10 seconds it only takes 5 seconds.  Seriously, do those five extra seconds really make a difference to you? Are you so busy that you can't wait an extra 5 seconds?
+
+#### Software
+
+With respect to software I want to know:
+* How it is useful to me
+* How to _*USE*_ the software
+* What the benefit of this software is over its competitors
+* What its limitations are
+* Where improvements are needed
+* What 'gotchas' you need to look out for
+
+As mentioned earlier, I don't need you to walk through how to install the software.  However, if the setup is involved or somewhat cryptic (not an uncommon scenario with open source software) have explanations of the setup process can be helpful.
+
+
+#### Operating Systems
+
+Oh, boy.  This is the one that really gets my goat.
+
+Every time an OS is updated we get this plethora of videos that seek to highlight all the benefits of the new and improved version. But what most of the videos do is go through the installer and little more.
+
+If they _do_ provide an actual review, it's almost always focused on the bells and whistles, not on the actual functional aspects of the OS. There's always hype about the pretty new desktop decorations and gushing over the redesigned GUI but no real discussion of improvements under the hood. What discussion there is of under-the-hood changes is usually quite limited in depth.  At the end of the review I'm left still unsure why I should upgrade OS or move to it if I'm currently on another.  It seems to me that I could simply upgrade the DE and achieve the same outcome.
+
+If you've read this far, then you can anticipate what I want to know about an OS.  First, what is functionally different between this version and the prior version?  Not the pretties, just changes in how it works.
+Second, what is functionally different between this version (or distro) and other distros.  That is, how can this review help me decide whether to upgrade or switch to another distro?
+
+At the end of the day, what I want from a "review" whether it be software, hardware, or operating system is what is different and how it can benefit me.  Lacking that, what is to me, critical information renders the "reviewer's" efforts a waste of their time and mine.
+
