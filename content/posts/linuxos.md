@@ -1,5 +1,5 @@
 ---
-title : "Which Linus Distro Should a New User Use?"
+title : "Which Linux Distro Should a New User Use?"
 date : "2025-11-26T11:13:17-05:00"
 dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
 author : "Kevin Sauls"
