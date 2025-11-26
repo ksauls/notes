@@ -1,0 +1,54 @@
+---
+title : "Which Linus Distro Should a New User Use?"
+date : "2025-11-26T11:13:17-05:00"
+dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
+author : "Kevin Sauls"
+#authorTwitter : "" #do not include @
+#cover : ""
+tags : ["100days", "linux"]
+categories : ["",""]
+showFullContent : false
+readingTime : true
+
+---
+This is part 4 of an ongoing series on moving away from Windows and onto Linux.  In this post we'll take a look at what I consider the best Linux operating system for the average user. 
+---
+
+You've made the decision to move to Linux. Now comes the most challenging part: Which distribution should you use? There is a bewildering number of options and it is not at all clear what the differences are so you're left adrift in that sea of options, unable to clearly see what direcction to take.
+
+To help you better understand your options, you've probably turned to Youtube. Youtube is a great resource for learning about, well, just about anything. And, learning more about Linux is no exception. On the flip side, though, even those videos purportedly aimed at beginners may be overwhelming and confusing for the neophyte Linux user. The problem with many of those videos is a common one for 'experts' in an area: They have often spent years and hundreds of hours honing their skills and building their knowledgebase on Linux and have difficulty remembering what it's like as a new user. They often want to jump into talking about the commandline when you just wnat to know how to open an application.
+
+I'm going to try not to do that.
+
+Over the years I've worked with many of the major distributions and their derivatives and I've come to an interesting conclusion: It doesn't really matter so much what distribution you use; it is the desktop environment that you should be most concerned about. That said, there are some distributions that I think are better for neophytes and others that I cannot, in good conscience, recommend. This is not a slam on those distros, but rather an acknowledgement that they require a deeper understanding and stronger Linux skillset than the average user is likely to possess.
+
+### Why Do I Say the Distro Doesn't Matter?
+
+The fact is all Linux distributions share a common core (the Linux kernel) and virtually all of the same utilities. If you're working from the commandline, the commands you use will generally be the same regardless of the distro you're using. You may be wondering why, if that is true, are there so many distros out there?  The answer is that different distros are configured to meet specific needs. Some are configured to better support gaming or programming or some other niche need. Others are intended to be more general purpose and "easier to use", though "easier to use" is in the eye of the beholder. Some are intended to serve as file servers, others as network servers, and so on. The ones we are concerned with are those intended for desktop use.
+
+And this is why I say the Desktop Environment (DE) is significant. It is the DE that you interact with. As the average user, you're more concerned that the DE is easy to use and provides the resources you need than you are with the under-the-hood details.
+
+It's worth noting that you can actually use almost any common DE on any distro. Some distros, however, have been configured to better support specific DEs and that's where the distro becomes important.
+
+### What the Hell is a DE?
+
+A DE abstracts away the complexity of the operating system into neat, easily understood links and icons so that working with the system is easy and (relatively) intuitive. When you open Windows you are presented with a "desktop". It's the graphical environment in which you work and includes a start menu that allows you to open applications simply by clicking. Similarly, you can open a document, image, video, and so on by going into the file manager and clicking the icon for that file. In Windows you have a choice of exactly ONE desktop environment and while you can make some changes to it, it is mostly going to be same on every device.  This same applies to Mac OS.
+
+It's important to note that while the DE in Windows and Mac OS do provide some basic applications (notepad, calculator, etc) the selection is generally very limited, as are the functions of those included apps. 
+
+Linux is different. Linux doesn't limit you to one DE. You can, in fact, install multiple DEs on your computer and choose the one that you like best each time you log in (though you'll always have a default DE set so that you don't always *have* to choose). Moreover, most DEs on Linux include a wide variety of applications, including full office suites, browsers, graphics programs, etc. These are not limited versions but full-on applications. 
+
+
+
+### So, What DE Should I Use?
+
+There are quite a number of DEs available. Four of the most common are Cinnamon (default on Linux Mint), KDE Plasma (default on OpenSuSe as well as several others), Gnome (default on Ubuntu, Fedora Workstation), and XFCE (default on EndeavorOS, Linux Lite, etc). If you're coming from Windows and prefer the start button on the bottom left, Cinnamon, XFCE, or KDE Plasma. If you like Mac OS or how Windows 11 sets up its menu, Gnome is a great option.
+
+Personally, I'm not a fan of Gnome's layout; I'm old-school and prefer my start button on the bottom left. But that's just me :) And, though I haven't played much with it, it may be possible to reconfigure Gnome to provide that layout, though it would require more 'fiddling' than the average user or new user might want to do.
+
+Two other things to note regarding DEs. First, you can install additional DEs on your system without issue. This will let you try out different ones to see which works best for you. Second, even though a DE may be available on multiple distros, that does not mean that you will necessarily have the same applications available. These are often determined by the distro's developers. That said, you can, of course, install whatever applications you need through the software installer in your DE.
+
+### Cool, But I Still Don't Know Which Distro to Choose
+
+In general, I recommend Linux Mint to new users.  The distro is designed for new users and includes the Cinnamon DE which most closely resembles the traditional Windows environment. Moreover, it includes the most common applications the average user will need. I volunteer at an agency that recycles computers to minimize e-waste and we install Linux Mint on all of hte computers we restore. Our clients rarely have issues in using the system and I've read many accounts online about people who's tech-illiterate grandma used Linux Mint without a hitch. The average user will likely never have to interact with the commandline and that's an important considration.
+
