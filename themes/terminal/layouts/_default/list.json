@@ -1,5 +1,5 @@
 {
-    "version": "https://jsonfeed.org/version/1",
+    "version": "https://jsonfeed.org/version/2020-12",
     "title": "{{ .Site.Title }}",
     "home_page_url": "{{ .Site.BaseURL }}",
     "feed_url": "{{ .Permalink}}",
@@ -10,16 +10,16 @@
 	"author": { "name": "{{ .Site.Params.author }}" },
 	{{ end }}
     "items": [
-    {{ range $i, $e := first 10 .Site.Pages }}
+    {{ range $i, $e := first 100 .Site.Pages }}
 		{{ if $i }}, {{ end }}
 			{
 				"id": "{{ .Permalink }}",
 				"title": "{{ .Title }}",
 				"content_text": {{ .Summary | jsonify }},
+				"content_html": {{ .Content | jsonify }},
 				"url": "{{ .Permalink }}",
 				"date_published": "{{ .Date }}",
-				"content_html" : {{ .Content | jsonify }}			
+			}
 		{{ end }}
     ]
 }
-
