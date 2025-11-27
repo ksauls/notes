@@ -46,6 +46,8 @@
 <meta property="og:description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
+<link href="https://micro.blog/ksauls" rel="me" />
+
 {{ if (isset .Params "cover") }}
   {{ $pageCover := .Param "cover" }}
   {{ with (.Resources.GetMatch (.Param "cover")) }}
