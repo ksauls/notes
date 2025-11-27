@@ -13,4 +13,8 @@
   {{ if len $.Site.Menus }}
     {{ partial "menu.html" . }}
   {{ end }}
+<link rel="alternate"
+type="application/rss+xml"
+href="{{.Site.BaseURL }}/index.xml"
+title="{{ .Site.Title }}">
 </header>

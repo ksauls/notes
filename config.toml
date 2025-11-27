@@ -112,4 +112,7 @@ ignoreLogs= ['warning-goldmark-raw-html']
   [[menus.main]]
      name = 'Now'
      pageRef = 'now.md'
-     weight = 70
+    weight = 70
+rssLimit = 10
+[outputs]
+home = ["HTML","RSS"]
