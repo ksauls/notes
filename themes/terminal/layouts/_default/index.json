@@ -1,0 +1,26 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- $section := $.Site.GetPage "section" .Section -}}
+{{- range .Site.RegularPages -}}
+  {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
+    {{- $.Scratch.Add "index" (dict
+      "objectID" (sha1 .Permalink)
+      "date" (time.Format "Monday, Jan 2, 2006" .Date)
+      "description" .Description
+     
+      "permalink" .Permalink
+      "publish_date" .PublishDate
+     
+     
+      "title" .Title
+      "type" .Type
+      "url" .Permalink
+      "section" .Section
+      "tags" .Params.Tags
+      "categories" .Params.Categories
+      "author" .Params.authors
+      "content_html" .Content
+      )
+    -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
