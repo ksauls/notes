@@ -1,6 +1,6 @@
 ---
 title : "On Academic Writing"
-date : "2025-09-17T11:11:09-04:00"
+date : "2025-09-17"
 dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
 author : "Kevin Sauls"
 #authorTwitter : "" #do not include @

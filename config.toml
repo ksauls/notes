@@ -116,7 +116,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
      name = 'Now'
      pageRef = 'now.md'
     weight = 70
-rssLimit = 2
+[services.rss]
+limit = 2
 
 [outputs]
 home  = ["html","rss"]
