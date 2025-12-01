@@ -1,6 +1,7 @@
 ---
 title: 'Moving to a Self-Hosted Bookmarking Service'
 date: 2018-01-06
+author : "Kevin Sauls"
 categories:
     - projects
 tags:

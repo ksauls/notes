@@ -1,6 +1,7 @@
 ---
 title: 'The Power of Curiosity'
 date: 2018-06-30
+author : "Kevin Sauls"
 categories:
     - general
 tags:

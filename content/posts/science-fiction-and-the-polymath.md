@@ -1,6 +1,7 @@
 ---
 title: 'Science Fiction and the Polymath'
 date: 2018-08-07
+author : "Kevin Sauls"
 categories:
     - general
 tags:

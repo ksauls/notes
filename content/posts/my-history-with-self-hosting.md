@@ -1,6 +1,7 @@
 ---
 title: My History with Self Hosting
 date: 2024-05-20
+author : "Kevin Sauls"
 publishDate: 2024-05-27
 tags: 
   - projects

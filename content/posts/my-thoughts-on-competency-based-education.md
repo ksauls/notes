@@ -1,6 +1,7 @@
 ---
 title: My Thoughts on Competency Based Education
 date: 2024-04-15
+author : "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

@@ -1,6 +1,7 @@
 ---
 title: 'Blogging with Jekyll'
 date: 2017-10-30
+author: "Kevin Sauls"
 categories:
     - projects
 tags:

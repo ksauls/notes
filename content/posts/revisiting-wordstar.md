@@ -1,6 +1,7 @@
 ---
 title: Revisiting WordStar
 date: 2024-08-12
+author : "Kevin Sauls"
 categories:
   - technology
 ---

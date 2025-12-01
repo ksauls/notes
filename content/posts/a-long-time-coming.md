@@ -1,6 +1,7 @@
 ---
 title: 'A Long Time Coming'
 date: 2015-10-18
+author: "Kevin Sauls"
 ---
 # A Long Time Coming
 

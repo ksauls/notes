@@ -1,6 +1,7 @@
 ---
 title: The Death of Lost Manuscripts
 date: 2025-07-21
+author: "Kevin Sauls"
 tags:
 ---
 # The Death of Lost Manuscripts

@@ -1,6 +1,7 @@
 ---
 title: 'Changes in my Weather Station'
 date: 2017-11-01
+author: "Kevin Sauls"
 categories:
     - projects
 tags:

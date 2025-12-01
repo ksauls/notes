@@ -1,6 +1,7 @@
 ---
 title: Experimenting with FreeBSD on a Laptop
 date: 2025-06-25
+author : "Kevin Sauls"
 tags:
 
 -   technology

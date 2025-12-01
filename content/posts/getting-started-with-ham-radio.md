@@ -1,6 +1,7 @@
 ---
 title: ' Getting Started with Ham Radio'
 date: 2017-11-12
+author : "Kevin Sauls"
 categories:
     - projects
 tags:

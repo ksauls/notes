@@ -1,6 +1,7 @@
 ---
 title: Connecting the MacBook to the Edgerouter VPN
 date: 2018-02-02
+author: "Kevin Sauls"
 taxonomy:
     categories:
         - projects

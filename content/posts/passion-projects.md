@@ -1,7 +1,7 @@
 ---
 title: Do You Have a Passion Project?
 date: 2025-08-15T14:58:40-04:00
-author: ""
+author: "Kevin Sauls"
 tags:
   - 100days
 keywords:

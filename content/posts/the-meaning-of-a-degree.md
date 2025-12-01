@@ -1,6 +1,7 @@
 ---
 title: 'The Meaning of a Degree'
 date: 2014-05-05
+author : "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

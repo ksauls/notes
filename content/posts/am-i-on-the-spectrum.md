@@ -1,6 +1,7 @@
 ---
 title: Am I on "The Spectrum"?
 date: 2024-08-05
+author: "Kevin Sauls"
 categories:
   - General
 showFullContent: false

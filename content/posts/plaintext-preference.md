@@ -1,6 +1,7 @@
 ---
 title: PlainText Preferences
 date: 2024-05-20
+author : "Kevin Sauls"
 tags:
   - technology
 categories:

@@ -1,6 +1,7 @@
 ---
 title: Confusing Fiction with Fact
 date: 2024-05-13
+author: "Kevin Sauls"
 categories:
   - general
   - Book Reviews

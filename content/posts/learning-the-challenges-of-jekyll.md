@@ -1,6 +1,7 @@
 ---
 title: ' Learning the Challenges of Jekyll'
 date: 2017-11-13
+author : "Kevin Sauls"
 categories:
     - projects
 tags:

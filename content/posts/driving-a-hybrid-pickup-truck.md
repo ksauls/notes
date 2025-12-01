@@ -1,6 +1,7 @@
 ---
 title: 'Driving a Hybrid Pickup Truck'
 date: 2024-06-24
+author: "Kevin Sauls"
 tags:
  - technology
  - general

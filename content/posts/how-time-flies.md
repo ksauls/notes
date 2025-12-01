@@ -1,6 +1,7 @@
 ---
 title: 'How Time Flies!'
 date: 2014-04-24
+author: "Kevin Sauls"
 ---
 # How Time Flies
 

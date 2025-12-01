@@ -1,6 +1,7 @@
 ---
 title: 'Me? A Manager? Not So Much'
 date: 2018-07-04
+author : "Kevin Sauls"
 categories:
    - general
 tags:

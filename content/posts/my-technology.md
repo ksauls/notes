@@ -1,6 +1,7 @@
 ---
 title: My Technology
 date: 2023-06-17
+author : "Kevin Sauls"
 categories:
   - technology
 tagss:

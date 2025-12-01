@@ -1,6 +1,7 @@
 ---
 title: 'My 2020 Reading List'
 date: 2021-01-31
+author : "Kevin Sauls"
 ---
 # My 2020 Reading List
 

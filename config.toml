@@ -1,4 +1,4 @@
-baseurl = "https://iamcuri.us/"
+Baseurl = "https://iamcuri.us/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -117,9 +117,10 @@ ignoreLogs = ['warning-goldmark-raw-html']
      pageRef = 'now.md'
     weight = 70
 rssLimit = 5
-[outputFormats.jsonfeed]
+[outputFormats.json]
   mediaType = "application/json"
   baseName = "feed"
+  rel = "alternate"
   isPlainText = true
 
 [outputs]

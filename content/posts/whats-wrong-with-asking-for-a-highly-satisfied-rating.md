@@ -1,6 +1,7 @@
 ---
 title: What's Wrong With Asking for a "Highly Satisfied" Rating
 date: 2018-08-14
+author : "Kevin Sauls"
 categories:
    - general
 tags:

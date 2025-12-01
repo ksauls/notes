@@ -1,6 +1,7 @@
 ---
 title: 'Why I Think Crypto is Stupid'
 date: 2024-04-22
+author : "Kevin Sauls"
 categories:
   - general
 tags:

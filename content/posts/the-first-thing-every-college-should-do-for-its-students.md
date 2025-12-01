@@ -1,6 +1,7 @@
 ---
 title: 'The First Thing Every College Should Do For Its Students'
 date: 2016-11-14
+author : "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

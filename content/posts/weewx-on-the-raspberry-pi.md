@@ -1,6 +1,7 @@
 ---
 title: 'Weewx on the Raspberry PI'
 date: 2017-11-04
+author : "Kevin Sauls"
 categories:
     - projects
 tags:

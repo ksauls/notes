@@ -1,6 +1,7 @@
 ---
 title: 'How Social Filters Impact an Educated Response'
 date: 2016-11-18
+author : "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

@@ -1,6 +1,7 @@
 ---
 title: 'HomeLab or Self-Hosting as Retirement Hobby'
 date: 2025-02-28
+author: "Kevin Sauls"
 categories:
     - Retirement
 tags:

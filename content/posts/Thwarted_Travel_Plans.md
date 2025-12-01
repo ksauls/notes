@@ -1,17 +1,17 @@
-+++
-title = "Thwarted Travel Plans"
-date = "2025-04-23"
-author = ""
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["travel", ""]
-categories = ["retirement"]
-keywords = ["", ""]
-description = "Thinking about retirement travel"
-showFullContent = false
-readingTime = true
-hideComments = false
-+++
+---
+title : "Thwarted Travel Plans"
+date : "2025-04-23"
+author : "Kevin Sauls"
+authorTwitter : "" #do not include @
+cover : ""
+tags : ["travel", ""]
+categories : ["retirement"]
+keywords : ["", ""]
+description : "Thinking about retirement travel"
+showFullContent : false
+readingTime : true
+hideComments : false
+---
 #### Planning for 2025
 So back in January my wife and I began talking about our plans for 2025.  We knew that 2024 was going be a year of getting a handle on finances, tending to some changes we wanted to make to our home, and really just getting a good feel for what our life in retirement was going to be like.
 

@@ -1,6 +1,7 @@
 ---
 title: 'The Evolution of an Academic'
 date: 2019-11-27
+author : "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

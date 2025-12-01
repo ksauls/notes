@@ -1,6 +1,7 @@
 ---
 title: 'Technology For Its Own Sake'
 date: 2013-12-28
+author : "Kevin Sauls"
 categories:
     - 'General Education'
     - projects

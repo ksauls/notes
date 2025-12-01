@@ -1,6 +1,7 @@
 ---
 title: "Why I'm Leaving Youtube Behind"
 date: "2025-07-15"
+author : "Kevin Sauls"
 categories: 
   - technology
 tags:

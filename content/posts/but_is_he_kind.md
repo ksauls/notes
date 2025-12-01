@@ -1,14 +1,14 @@
-+++
-title = "But Is He Kind?"
-date = "2025-05-23"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = "Kevin Sauls"
-tags = ["philosophy"]
-description = "An encounter in philosophy"
-showFullContent = false
-readingTime = true
-hideComments = true
-+++
+---
+title : "But Is He Kind?"
+date : "2025-05-23"
+#dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
+author : "Kevin Sauls"
+tags : ["philosophy"]
+description : "An encounter in philosophy"
+showFullContent : false
+readingTime : true
+hideComments : true
+---
 
 There is a restaurant in a nearby town that I had wanted to check out for quite some time. It looked very nice and the reviews were positive.  It had all the hallmarks of a great place to have a business lunch or to have relaxing evening meal. A few days ago my wife, sister, and I decided to give it a try.  The ambiance was all that the exterior promised and the service (and food) were excellent.  But this visit led to one of the more bizarre encounters I think I've ever had.
 

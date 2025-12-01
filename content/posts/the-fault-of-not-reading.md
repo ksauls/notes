@@ -1,6 +1,7 @@
 ---
 title: 'The Fault of Not Reading'
 date: 2015-10-25
+author : "Kevin Sauls"
 ---
 # The Fault of Not Reading
 

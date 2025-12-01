@@ -2,7 +2,7 @@
 title : "Fixing OpenBSD Touchpad Palm Rejection Issues"
 date : "2025-08-18T14:03:21-04:00"
 #dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
-author : ""
+author : "Kevin Sauls"
 #authorTwitter : "" #do not include @
 #cover : ""
 tags : ["projects", "OpenBSD", "technology"]

@@ -1,6 +1,7 @@
 ---
 title: 'How We Encourage Cheating in Education'
 date: 2024-04-29
+author: "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

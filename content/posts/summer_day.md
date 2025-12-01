@@ -1,6 +1,7 @@
 ---
 title: "Memories of Summers Past"
 date: "2025-06-16"
+author : "Kevin Sauls"
 ---
 # Memories of Summers Past
 

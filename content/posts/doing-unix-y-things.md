@@ -1,6 +1,7 @@
 ---
 title: 'Doing Unix-y Things'
 date: 2024-06-17
+author: "Kevin Sauls"
 tags:
  - technology
 ---

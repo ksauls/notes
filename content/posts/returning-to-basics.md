@@ -1,6 +1,7 @@
 ---
 title: 'Returning to Basics'
 date: 2021-11-12
+author : "Kevin Sauls"
 categories:
     - 'General Education'
 tags:

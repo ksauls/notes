@@ -1,6 +1,7 @@
 ---
 title: 'Tips for Working from Home'
 date: 2020-03-17
+author : "Kevin Sauls"
 ---
 # Tips for Working from Home
 In response to the coronavirus, many employers have shifted as many workers as possible to teleworking. That is, working from home.  This can be a real challenge if you've not had experience with working from home.  I've worked from home for the last seven years, so  I think I have some pretty reasonable suggestions to help you be successful while working from home and to help you ensure you have an appopriate balance between <!-- more -->work and not-work.

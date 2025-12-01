@@ -1,6 +1,7 @@
 ---
 title: 'Updates on Technology Projects'
 date: 2018-08-13
+author : "Kevin Sauls"
 categories:
     - projects
 tags:

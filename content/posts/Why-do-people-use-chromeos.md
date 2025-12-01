@@ -1,6 +1,7 @@
 ---
 title: 'Why Do People Use Chromeos'
 date: 2024-06-10
+author : "Kevin Sauls"
 tags:
  - technology
 ---

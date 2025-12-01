@@ -1,6 +1,7 @@
 ---
 title: 'Doing the Same Thing And ...'
 date: 2019-11-27
+author: "Kevin Sauls"
 categories:
    - general
 ---

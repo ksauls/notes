@@ -1,6 +1,7 @@
 ---
 title: 'Some Thoughts on Philosophy'
 date: 2017-03-20
+author : "Kevin Sauls"
 ---
 # Some Thoughts on Philosophy
 
@@ -8,7 +9,7 @@ So, I'll begin this treatise with a question:  What is philosophy?  And perhaps 
 
 To take things in order, my simple answer to the question of what is philosophy is to say that it is, generally, the creed by which one lives one's life. I think the dominance of big names in the field -- Nietzsche, Hume, Watts Marx, and so many others -- and the deep, convoluted and difficult writings that these big<!-- more --> names have produced have left most people with the impression that philosophy requires deep, almost mystical thought on very esoteric subjects.  And, from my readings, I think there's sufficient evidence that this impression is not wholly inaccurate. But, the depths of thought that the writings of these great names reveal are, I believe, the exceptions rather than the rule of philosophy. 
 
-Philosophy itself can be seen from several perspectives. These perspectives include ethics, metaphysics, epistemology, and logic.  Each of these four areas explore the world in different, but complementary, ways.  Before I get bogged down in the specifics of these four areas (I won't go too deeply, so no need to fret), I want to back up and make one thing abundantly clear: In the final analysis, philosophy is the way that each of us makes sense of our world and defines how we conduct our lives.  In that sense, each of us possesses a philosophy -- or more accurately, a set of philosophies -- on which we rely as we live our lives. Collectively, these collections of philosophies might be called our "worldview".  That is, how we see and interpret the world around us.
+Philosophy can be seen from several perspectives. These perspectives include ethics, metaphysics, epistemology, and logic.  Each of these four areas explore the world in different, but complementary, ways.  Before I get bogged down in the specifics of these four areas (I won't go too deeply, so no need to fret), I want to back up and make one thing abundantly clear: In the final analysis, philosophy is the way that each of us makes sense of our world and defines how we conduct our lives.  In that sense, each of us possesses a philosophy -- or more accurately, a set of philosophies -- on which we rely as we live our lives. Collectively, these collections of philosophies might be called our "worldview".  That is, how we see and interpret the world around us.
 
 Before I move on to talk about the notion that we each have a unique philosophy that guides our lives, I want to briefly introduce the four major areas in which philosophy concerns itself. I have chosen to arrange them from what I believe to be the most basic, concrete form to the more esoteric. Entire books are written on each of these topics, so this discussion is, by necessity, very limited. Be mindful, too, that I am not a philosopher, so these definitions are my own interpretations and should not be considered definitive.
 

@@ -2,7 +2,7 @@
 title : "Where Do I Get Writing Ideas?"
 date : "2025-09-04T12:35:53-04:00"
 #dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
-author : ""
+author : "Kevin Sauls"
 #authorTwitter : "" #do not include @
 #cover : ""
 tags : ["100days", "writing"]

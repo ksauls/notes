@@ -1,6 +1,7 @@
 ---
 title: Designing your Life
 date: 2017-10-20
+author: "Kevin Sauls"
 categories:
   - General Education
 tagss:

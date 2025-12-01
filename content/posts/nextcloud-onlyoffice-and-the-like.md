@@ -1,6 +1,7 @@
 ---
 title: 'Nextcloud, OnlyOffice and the Like '
 date: 2018-02-25
+author : "Kevin Sauls"
 categories:
     - projects
 tags:
