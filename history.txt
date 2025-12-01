@@ -1,0 +1,1289 @@
+2025-11-30 11:25:45 man history
+2025-11-30 11:25:37 history -R
+2025-11-30 11:25:34 history
+2025-11-30 11:24:37 tldr history
+2025-11-30 11:24:25 history --help
+2025-11-30 11:06:48 lg
+2025-11-30 11:05:40 hugo serve
+2025-11-30 11:05:37 cd ~/hugonotes
+2025-11-27 18:23:11 exit
+2025-11-27 18:10:43 hugo new posts/microblog.md
+2025-11-27 12:59:28 vim extended_footer.html
+2025-11-27 12:58:58 vim footer.html
+2025-11-27 12:58:47 ls
+2025-11-27 12:48:46 vim head.html
+2025-11-27 12:48:28 bat head.html
+2025-11-27 12:48:14 cd partials
+2025-11-27 12:48:10 cd themes/terminal/layouts
+2025-11-27 12:47:40 cd hugonotes
+2025-11-27 10:53:02 cd ..
+2025-11-27 10:52:48 cd _default
+2025-11-27 10:52:42 cd layouts
+2025-11-27 10:52:32 cd ananke
+2025-11-27 10:51:59 cd hugo-bearblog
+2025-11-27 10:51:36 c d..
+2025-11-27 10:51:30 vim home.searechindex.json
+2025-11-27 10:50:41 cd themes
+2025-11-27 10:45:40 vim list.json.json
+2025-11-27 10:45:36 mv list.json.json.bak list.json.json
+2025-11-27 10:33:17 mv list.json.json list.json.bak
+2025-11-27 10:21:32 cd ~/hugonotes/themes/terminal/layouts/_default
+2025-11-27 10:21:02 tmux
+2025-11-27 10:16:46 cd themes/terminal/layouts/_default
+2025-11-27 09:58:27 vim config.toml
+2025-11-27 09:53:13 cd ../..
+2025-11-27 09:52:24 emacs
+2025-11-27 09:51:32 vim omarchy.md
+2025-11-27 09:50:50 nano omarchy.md
+2025-11-27 09:48:45 bat omarchy.md~
+2025-11-27 09:48:23 cd content/posts
+2025-11-27 09:48:18 cd hugoposts
+2025-11-27 09:40:04 ls -al
+2025-11-27 09:40:02 ls 0-al
+2025-11-26 21:43:57 poweroff
+2025-11-26 21:43:53 pweroff
+2025-11-26 17:28:16 sudo reboot
+2025-11-26 17:26:56 syncthing
+2025-11-26 17:26:46 ps aux|grep syncthing
+2025-11-26 17:26:42 kill 613
+2025-11-26 17:26:24 kill -hup 613
+2025-11-26 17:26:14 kill -hup syncthing
+2025-11-26 17:26:05 kill hup syncthing
+2025-11-26 17:25:11 sudo systemctl restart syncthing
+2025-11-26 17:18:23 nmtui
+2025-11-26 17:16:44 NetworkManager --help-nm
+2025-11-26 17:16:03 sudo NetworkManager --help
+2025-11-26 17:15:43 sudo NetworkManager
+2025-11-26 12:38:26 sudo pacman -S aspell-en
+2025-11-26 11:59:39 reboot
+2025-11-26 11:59:13 ip help
+2025-11-26 11:59:08 ip enp0s25 up
+2025-11-26 11:58:49 ip a
+2025-11-26 11:58:46 ifconfig
+2025-11-26 11:58:35 sudo systemctl --now enable dhcpcd.service
+2025-11-26 11:58:24 netclt start
+2025-11-26 11:58:08 sudo systemctl status dhcpcd
+2025-11-26 11:56:52 netctl list
+2025-11-26 11:56:47 netctl
+2025-11-26 11:56:33 sudo systemctl start NetworkManager
+2025-11-26 11:56:21 sudo systemctl stop iwd
+2025-11-26 11:55:38 NetworkManager
+2025-11-26 11:55:03 impala
+2025-11-26 11:13:17 hugo new posts/linuxos.md
+2025-11-22 19:34:53 ping google.com
+2025-11-22 19:33:33 netctl --hep
+2025-11-22 19:33:04 /usr/lib/netctl/dhcp/dhcpcd
+2025-11-22 19:32:32 find / -name dhcpcd 2> /dev/null
+2025-11-22 19:32:25 find / -name dhcpcd
+2025-11-22 19:31:40 sudo systemctl status dhcpd
+2025-11-22 19:27:53 sudo systemctl stop NetworkManager
+2025-11-22 19:27:35 sudo systemctl stop networkManager
+2025-11-22 19:26:50 sudo systemctl --type=service --state=running
+2025-11-22 19:24:57 EXIT
+2025-11-22 19:23:47 sudo impala
+2025-11-22 19:11:05 sudo pacman -Sy iwd
+2025-11-22 19:10:48 sudo pacman -Q iwd
+2025-11-22 19:10:10 sudo pacman -Sy impala
+2025-11-20 20:59:59 mkdir groupthree
+2025-11-20 20:59:36 cd Sync
+2025-11-19 16:26:43 y
+2025-11-19 16:26:32 sudo curl -fsSL https://tailscale.com/install.sh | sh
+2025-11-19 16:26:08 pwd
+2025-11-19 16:25:36 uname -a
+2025-11-19 16:23:12 curl -fsSL https://tailscale.com/install.sh | sh
+2025-11-19 16:21:37 hostname
+2025-11-19 16:19:33 ps aux|grep tailscale
+2025-11-19 16:18:53 ssh kevin@10.103.10.15
+2025-11-19 16:18:02 sudo pacman -Rns octopi
+2025-11-19 16:17:59 sudo pacman -Rns octopi*
+2025-11-19 16:14:30 sudo find / -name tailscale 2> /dev/null
+2025-11-19 16:14:23 sudo find / -name tailscale 2> dev/null
+2025-11-19 16:14:12 sudo find / -name tailscale 2>dev/null
+2025-11-19 16:13:37 sudo find / -name tailscale
+2025-11-19 16:13:19 fd tailscale
+2025-11-19 16:12:59 which tailscale
+2025-11-19 16:12:54 sudo tailscale --help
+2025-11-19 16:12:42 sudo tailscale status
+2025-11-19 16:05:32 sudo networkmanager
+2025-11-19 16:04:38 nmcli dev wifi connect Piedmont-Guest
+2025-11-19 14:10:27 nmcli dev wifi connect Piedmont-Guest password
+2025-11-19 14:10:07 nmcli dev wifi list
+2025-11-19 14:09:18 nmcli deve wifi connect Piedmont-Guest
+2025-11-19 14:07:35 networkctl list
+2025-11-19 14:07:32 networkctl --list
+2025-11-19 14:07:07 nmcli device wifi list
+2025-11-19 14:06:42 networkctl --help
+2025-11-19 13:53:12 hugo new posts/healthcare.md
+2025-11-08 19:22:51 QOwnNotes
+2025-11-08 19:22:38 sudo pacman -Syy qownnotes
+2025-11-08 19:19:43 sudo vim /etc/pacman.conf
+2025-11-08 19:18:46 wget http://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/Arch_Extra/x86_64/home_pbek_QOwnNotes_Arch_Extra.key -O - | sudo pacman-key --add -
+sudo pacman-key --lsign-key F2205FB121DF142B31450865A3BA514562A835DB
+2025-11-08 19:15:04 paru -S qownnotes-pbek
+2025-11-08 19:13:05 paru -S qownnotes
+2025-11-08 19:12:57 sudo paru -S qownnotes
+2025-11-08 19:12:37 pacman -Ss qownnotes
+2025-11-08 19:11:51 sudo pacman -S qownotes
+2025-11-08 19:11:08 sudo pacman -S qownnotes
+2025-10-31 14:45:19 hugo new posts/average_3.md
+2025-10-30 11:47:49 #2025-10-30 11:46:27 vim swayidle.service
+#2025-10-30 11:46:19 ls
+#2025-10-30 11:46:18 cd .config/systemd/user
+#2025-10-30 11:23:22 exit
+#2025-10-30 11:21:55 lg
+#2025-10-30 11:20:37 hugo serve
+#2025-10-30 11:20:32 cd hugonotes
+#2025-10-30 11:20:18 pwd
+#2025-10-30 11:20:17 cd ..
+#2025-10-29 19:24:42 hugo new posts/average_2.md
+#2025-10-28 11:07:18 cd hugoposts
+#2025-10-28 11:07:11 cd
+#2025-10-28 11:05:43 hugo new posts/average_1.md
+#2025-10-28 11:05:30 cd Sync/notes/
+#2025-10-27 17:53:38 lsblk -do name,rota
+#2025-10-27 17:53:28 ls -d -o name,rota
+#2025-10-27 17:53:19 ls -do name,rota
+#2025-10-27 17:52:59 sudo aura -Rsu cnijfilter-mx920
+#2025-10-27 17:52:35 skanpage
+#2025-10-27 17:50:28 sudo aura -A cnijfilter-mx920
+#2025-10-27 17:50:16 sudo aura -As mx920
+#2025-10-27 17:49:59 sudo aura -A cnijfilter-mx920series
+#2025-10-27 17:49:28 sudo aura -Rsu canon-pixma-mx920-complete
+#2025-10-27 17:43:36 sudo aura -A canon-pixma-mx920-complete
+#2025-10-27 17:42:47 sudo aura -As cnijfilter-mx920series
+#2025-10-27 17:42:27 sudo aura -As AUR/cnijfilter-mx920series
+#2025-10-27 17:42:04 aura -As readme
+#2025-10-27 17:41:57 sudo pacman -S aura
+#2025-10-27 17:41:52 sudo pacman -aura
+#2025-10-27 17:40:36 sudo pacman -S AUR/cnijfilter-mx920series
+#2025-10-27 17:40:26 sudo pacman -S cnijfilter-mx920series
+#2025-10-27 17:40:19 sudo yay -S cnijfilter-mx920series
+#2025-10-27 17:37:58 scanimage -L
+#2025-10-27 17:37:44 sudo sane-find-scanner
+#2025-10-27 17:37:28 sane-find-scanner
+#2025-10-27 17:34:19 reboot
+#2025-10-27 17:32:33 sudo pacman -S skanpage
+#2025-10-24 14:23:46 sudo parted
+#2025-10-24 14:23:23 parted
+#2025-10-24 14:23:08 sudo pacman -Q parted
+#2025-10-24 14:23:00 sudo pacman -Q gparted
+#2025-10-24 14:21:58 gparted
+#2025-10-24 14:19:25 lsblk
+#2025-10-24 14:19:23 mount -a
+#2025-10-24 14:18:54 cd Downloads/ventoy-1.1.07/
+#2025-10-24 14:13:51 cd ventoy-1.1.07
+#2025-10-24 14:13:45 cd vnetoy-1.1.07
+#2025-10-24 14:13:34 tar -zxvf ventoy-1.1.07-linux.tar.gz
+#2025-10-24 14:13:27 cd Downloads
+#2025-10-23 20:11:02 firefox
+#2025-10-23 20:10:55 sudo pacman -Q extra/chromium
+#2025-10-23 20:10:45 sudo pacman -Q cachyos/chromium
+#2025-10-23 20:10:37 sudo pacman -Q chromium
+#2025-10-23 20:10:18 sudo pacman -Syu cachyos/chromium-bin
+#2025-10-23 20:10:02 sudo pacman -Q chromium-bin
+#2025-10-23 20:09:50 sudo pacman -Rns brave-bin
+#2025-10-23 20:09:41 sudo pacman -Q brave
+#2025-10-23 20:09:17 sudo pacman --help
+#2025-10-23 20:09:12 sudo pacman -list
+#2025-10-23 20:08:59 sudo pacman -Rns brave
+#2025-10-23 20:02:40 brave
+#2025-10-23 19:45:37 vim .config/niri/config.kdl
+#2025-10-23 19:39:59 vim config.kdl
+#2025-10-23 19:39:51 cd .config/niri
+#2025-10-23 19:38:31 sudo pacman -Syu cachyos/brave-bin
+#2025-10-23 19:38:12 sudo pacman -Ss brave
+#2025-10-23 19:37:35 yay -S librewolf
+#2025-10-23 19:37:15 sudo pacman -Q librewolf
+#2025-10-23 19:37:09 sudo pacman -Fy
+#2025-10-23 19:34:53 sudo pacman -Q opera
+#2025-10-23 19:34:31 sudo pacman -Su
+#2025-10-23 19:32:56 sudo pacman -S brave
+#2025-10-23 19:32:31 sudo pacman -S chromium
+#2025-10-23 19:09:41 nmcli device wifi list
+#2025-10-23 16:57:56 clear
+#2025-10-23 16:57:30 speedtest-cli
+#2025-10-23 16:57:20 sudo pacman -S speedtest-cli
+#2025-10-23 16:57:10 sudo pacman -S speedtest
+#2025-10-23 16:53:33 nmcli c
+#2025-10-23 16:51:36 sudo reboot
+#2025-10-23 16:51:31 nmcli device wifi connect bookshelf password 2LCDNospE
+#2025-10-23 16:50:55 nmcli device wlan0 connect bookshelf password 2LCDNospE
+#2025-10-23 16:50:19 nmcli r
+#2025-10-23 16:50:13 nmcli n
+#2025-10-23 16:50:02 nmcli g
+#2025-10-23 16:49:59 nmcli device wifi g
+#2025-10-23 16:49:19 nmcli --help
+#2025-10-23 16:49:08 nmcli device wifi --ask bookshelf password 2LCDNospE
+#2025-10-23 16:49:02 nmcli device wifi connect --ask bookshelf password 2LCDNospE
+#2025-10-23 16:44:57 ip a
+#2025-10-23 16:44:49 nmcli device wifi connect TMOBILE-3CA1 password 2LCDNospE
+#2025-10-23 16:44:39 nmcli device wifi connect TMOBILE-3CA1 2LCDNospE
+#2025-10-23 16:44:16 nmcli device connect wifi TMOBILE-3CA1 2LCDNospE
+#2025-10-23 16:42:23 sudo nm-connection-editor
+#2025-10-23 16:42:12 nm-connection-editor
+#2025-10-23 16:41:46 sudo systemctl status NetworkManager
+#2025-10-23 16:39:56 networkctl --help
+#2025-10-23 16:39:44 sudo networkmanager
+#2025-10-23 16:39:36 3
+#2025-10-23 16:39:24 sudo networkctl
+#2025-10-23 16:39:19 networkmanager
+#2025-10-23 16:29:25 cd ~/hugonotes
+#2025-10-23 16:29:06 alias --save lg "lazygit"
+#2025-10-23 16:28:08 fd fish
+#2025-10-23 16:28:02 fd
+#2025-10-23 16:27:53 fzf
+#2025-10-23 16:27:19 fzf --help
+#2025-10-23 16:27:14 sudo fzf / fish
+#2025-10-23 16:27:06 sudo fzf fish
+#2025-10-23 16:26:47 which fish
+#2025-10-23 16:26:37 history|grep nano
+#2025-10-23 16:26:15 vim ~/.profile
+#2025-10-23 16:24:52 history|grep vim
+#2025-10-23 16:24:06 history
+#2025-10-23 16:23:40 cd user
+#2025-10-23 16:23:37 cd systemd
+#2025-10-23 16:23:28 cd .config/
+#2025-10-23 16:20:46 ln -s ~/Sync/notes/content/posts hugoposts
+#2025-10-23 16:20:26 rm hugoposts
+#2025-10-23 16:20:14 ls -al
+#2025-10-23 16:19:57 cd ~/hugoposts
+#2025-10-23 16:19:36 notes
+#2025-10-23 16:19:34 ln -s ~/Sync/notes hugonotes
+#2025-10-23 16:19:17 rm hugonotes
+#2025-10-23 16:19:11 ln -s ~/Sync/notes/contents/posts hugoposts
+#2025-10-23 16:18:50 ln -s ~/sync/notes/ hugonotes
+#2025-10-23 16:15:55 lazygit
+#2025-10-23 11:59:37 xrandr
+#2025-10-23 11:54:46 bat config.kdl
+#2025-10-23 11:45:55 autorandr
+#2025-10-23 11:45:33 xrandr --output DP-1 on
+#2025-10-23 11:45:29 xrandr --output DP-1 --on
+#2025-10-23 11:44:25 niri msg outputs
+#2025-10-22 21:20:12 cd /tmp
+#2025-10-22 21:20:05 ./tempe.sh
+#2025-10-22 21:20:01 cd /usr/local/bin
+#2025-10-22 21:19:50 tempe.sh
+#2025-10-22 21:19:45 tempe
+#2025-10-22 21:18:38 sudo chmod +x tempe.sh
+#2025-10-22 21:15:55 sudo nvim tempe.sh
+#2025-10-22 21:13:58 nvim tempe.sh
+#2025-10-22 21:08:31 networkd
+#2025-10-22 21:07:22 ps aux|grep dnsmasq
+#2025-10-22 21:06:59 ls d*
+#2025-10-22 21:06:56 ls d
+#2025-10-22 21:06:53 ls dh
+#2025-10-22 21:06:48 ls dh*
+#2025-10-22 21:06:41 nvim dhcpd.conf
+#2025-10-22 21:06:21 nvim dhcpcd.conf
+#2025-10-22 21:03:45 NetworkManager
+#2025-10-22 21:03:36 cd NetworkManager/
+#2025-10-22 21:03:30 cd /etc
+#2025-10-22 21:02:58 nslookup archive.saulsnet.net
+#2025-10-22 21:02:53 nslookup saulsnet.net
+#2025-10-22 20:31:18 hugo new posts/demos.md
+#2025-10-22 14:25:17 sudo pacman -S lazygit
+#2025-10-22 14:25:11 pacman -S lazygit
+#2025-10-22 14:21:17 git push -u origin main
+#2025-10-22 14:21:07 git commit -m "added nixos"
+#2025-10-22 14:21:00 git add .
+#2025-10-22 14:14:36 bash
+#2025-10-22 14:14:22 eval "$(ssh-agent -s)"
+#2025-10-22 14:14:13 eval "$(sshagent -s)"
+#2025-10-22 14:13:39 ssh-keygen -t ed25519 -C "kevin_1207@yahoo.com"
+#2025-10-22 14:09:44 git config --global user.name "Kevin Sauls"
+#2025-10-22 14:09:27 git config --global user.email "kevin@kevinsauls.com"
+#2025-10-22 14:09:19 gitconfig --global user.email "kevin@kevinsauls.com"
+#2025-10-22 14:08:31 which git
+#2025-10-22 14:05:09 sudo pacman -S ispell
+#2025-10-22 13:53:18 cd ~/Sync/notes/
+#2025-10-22 13:47:55 cat local-overides.quirks
+#2025-10-22 13:47:50 cd /etc/libinput
+#2025-10-22 13:47:10 xinput list
+#2025-10-22 13:38:40 emacs
+#2025-10-22 13:37:50 cd /Sync/notes/
+#2025-10-22 13:37:14 cat config.fish
+#2025-10-22 13:37:07 alias --save cat=bat
+#2025-10-22 13:36:48 vim
+#2025-10-22 13:36:42 alias --save vim="nvim"
+#2025-10-22 13:36:18 alias --save vim = "nvim"
+#2025-10-22 13:34:34 fish_config
+#2025-10-22 13:34:27 vim config_variables
+#2025-10-22 13:34:03 vim config.fish
+#2025-10-22 13:33:54 cd fish
+#2025-10-22 13:32:42 fastfetch
+#2025-10-22 13:32:29 cd .config
+#2025-10-22 13:32:07 source .zshrc
+#2025-10-22 13:31:35 vim .zshrc
+#2025-10-22 13:31:09 nvim
+#2025-10-22 13:30:54 sudo pacman -S neovim
+#2025-10-22 13:30:26 vim titties.md
+#2025-10-22 13:28:35 vim .bashrc
+#2025-10-22 13:28:23 source .bashrc
+#2025-10-22 13:26:22 sudo pacman -S kitty
+#2025-10-22 13:25:52 apt install nvim
+#2025-10-22 13:24:28 cp /usr/share/cachyos-zsh-config/cachyos-config.zsh ~/.zshrc
+#2025-10-22 13:24:03 mv .zshrc zshrc.bak
+#2025-10-22 13:22:42 vim /usr/share/cachyos-zsh-config/cachyos-config.zsh
+#2025-10-22 13:22:06 bat .zshrc
+#2025-10-22 13:19:29 bat .bashrc
+#2025-10-22 13:19:23 cat .bashrc
+#2025-10-22 13:19:06 bat .viminfo
+#2025-10-22 13:17:49 vim .profile
+#2025-10-22 13:17:22 bar .viminfo
+#2025-10-22 13:17:03 kitty
+#2025-10-22 13:15:26 waypaper --random
+#2025-10-22 13:06:52 niri validate
+#2025-10-22 11:58:32 wev
+#2025-10-22 11:58:22 sudo pacman -S wev
+#2025-10-22 11:53:12 xev
+#2025-10-22 11:49:26 cd .config/niri/
+#2025-10-22 11:31:02 niri msg output
+#2025-10-22 11:27:21 vim configuration.kdl
+#2025-10-22 11:24:32 niri/scratchpad
+#2025-10-22 11:24:21 niri scratchpad
+#2025-10-22 11:22:02 bat config.jsonc
+#2025-10-22 11:21:52 cd waybar
+#2025-10-22 11:18:21 swww
+#2025-10-22 11:12:47 onlyoffice-desktopeditors
+#2025-10-22 11:12:42 systemctl --user enable --now xwayland-satellite
+#2025-10-22 11:11:14 cd system
+#2025-10-22 11:10:50 cd /etc/systemd
+#2025-10-22 11:10:41 which xwayland-satellite
+#2025-10-22 11:10:11 xwayland-satellite  -v
+#2025-10-22 11:09:36 journalctl --user unit=niri -b
+#2025-10-22 11:06:08 sudo systemctl enable xwayland-satellite
+#2025-10-22 11:04:47 xwayland-satellite
+#2025-10-22 11:04:40 xwayland-satellite onlyoffice-desktopeditors
+#2025-10-22 10:48:18 sudo systemctl start cups.service
+#2025-10-22 10:48:12 sudo systemctl enable cups.service
+#2025-10-22 10:46:52 sudo pacman -S cups
+#2025-10-22 10:44:50 sudo systemctl enable org.cups.cupsd.service
+#sudo systemctl start org.cups.cupsd.service
+#2025-10-22 10:41:55 print
+#2025-10-22 10:39:36 sudo pacman -S libreoffice
+#2025-10-22 10:39:09 export DISPLAY 0:1
+#2025-10-22 10:36:52 fuzzel
+#2025-10-22 10:26:36 bat .config/niri/config.kdl|grep power-off-monitors
+#2025-10-22 10:26:17 bat .config/niri/config.kdl
+#2025-10-22 10:25:51 power-off-monitors
+#2025-10-22 10:23:35 wofi
+#2025-10-22 10:19:10 sudo pacman -S udiskie
+#2025-10-22 10:18:55 sudo pacman -S fuzzel
+#2025-10-22 10:15:39 sudo systemctl stop ufw
+#2025-10-22 10:15:08 sudo systemctl reload NetworkManager
+#2025-10-22 10:14:29 sudo systemctl list-units
+#2025-10-22 10:14:08 systemctl --help
+#2025-10-22 10:14:01 sudo systemctl list-jobs
+#2025-10-22 10:13:56 sudo systemctl list
+#2025-10-22 10:13:50 sudo systemctl restart network
+#2025-10-22 10:13:46 sudo systemctl restart networking
+#2025-10-22 10:12:29 sudo dhclient
+#2025-10-22 10:12:16 dhclient
+#2025-10-22 10:12:07 netctl list
+#2025-10-22 10:12:03 netctl
+#2025-10-22 10:08:01 sudo pacman -Sy udiskie
+#2025-10-22 10:07:32 sudo yay -S fuzzel
+#2025-10-22 10:06:59 which fuzzel
+#2025-10-22 10:03:46 swaymsg output * off
+#2025-10-22 10:03:13 niri msg output eDP-1 off
+#2025-10-22 09:51:36 sudo systemctl start ufw
+#2025-10-22 09:51:19 sudo ufw allow 22/tcp
+#2025-10-22 09:42:38 niri msg overview-state
+#2025-10-22 09:42:15 niri msg --help
+#2025-10-22 09:37:25 vim swayidle.services
+#2025-10-22 09:35:51 sudo systemctl status ufw
+#2025-10-22 09:35:25 sudo systemctl status sshd
+#2025-10-22 09:33:51 sudo systemctl start sshd
+#2025-10-22 09:33:44 sudo systemctl enable sshd
+#2025-10-22 09:33:41 sudo systemctl enable ssh
+#2025-10-22 09:33:23 sudo pacman -S openssh
+#2025-10-22 09:26:48 systemctl --user daemon-reload
+#2025-10-22 09:22:55 niri msg output * off
+#2025-10-22 09:22:29 niri msg output dpms off
+#2025-10-22 09:22:14 niri msg output dpms
+#2025-10-22 09:21:12 sudo niri msg "dispatch * dpms off"
+#2025-10-22 09:19:25 sudo niri msg "output * dpms off"
+#2025-10-22 09:19:12 niri msg "output * dpms off"
+#2025-10-22 09:17:56 which sway
+#2025-10-22 09:16:57 sudo find / -name swaymsg 2> /dev/null
+#2025-10-22 09:16:35 sudo which swaymsg
+#2025-10-22 09:16:29 which swaymsg
+#2025-10-22 09:15:23 sudo swaymsg "output * dpms off"
+#2025-10-22 09:15:11 sudo yay -S swaymsg
+#2025-10-22 09:14:47 sudo pacman -S swaymsg
+#2025-10-22 09:14:34 swaymsg "output * dpms off"
+#2025-10-22 08:55:09 bat swayidle.service
+#2025-10-22 08:54:52 cd ~/.config/systemd/
+#2025-10-22 08:54:39 bat sleep.conf
+#2025-10-22 08:54:05 bat oomd.conf
+#2025-10-22 08:53:40 bat user.conf
+#2025-10-21 19:53:51 biat .viminfo
+#2025-10-21 19:53:43 cls
+#2025-10-21 19:52:25 echo "fuck this"
+#2025-10-21 19:52:20 eco "fuck this"
+#2025-10-21 19:49:05 cl
+#2025-10-21 19:42:38 sudo pacman -S obs-studio kdenlive
+#2025-10-21 19:40:11 sudo pacman -S obsidian
+#2025-10-21 19:39:22 mv .emacs.d.main .emacs.d
+#2025-10-21 19:39:12 rm -R  .emacs.d
+#2025-10-21 19:39:06 rm .emacs.d
+#2025-10-21 19:38:58 cd .emacs.d
+#2025-10-21 19:37:17 emacs init.el
+#2025-10-21 19:37:10 cd ~/emacs-configs/mainEditor/
+#2025-10-21 19:37:00 rm -R hugotest
+#2025-10-21 19:35:29 hugo server --buildDrafts --navigateToChanged
+#2025-10-21 19:34:53 vim index.html
+#2025-10-21 19:34:10 bat index.html
+#2025-10-21 19:33:57 page
+#2025-10-21 19:33:48 cd tags
+#2025-10-21 19:33:41 cd public
+#2025-10-21 19:32:29 mv .emacs.d.bak .emacs.d
+#2025-10-21 19:31:49 emacs --debug-init
+#2025-10-21 19:31:00 cd hugotest/quickstart/
+#2025-10-21 19:30:26 ln -s ~/emacs-configs/doomemacs .emacs.d
+#2025-10-21 19:30:05 cd ~
+#2025-10-21 19:29:53 cd doomemacs/
+#2025-10-21 19:29:09 vim init.el
+#2025-10-21 19:28:57 cd tits
+#2025-10-21 19:28:50 cd ~/emacs-configs/
+#2025-10-21 19:26:46 cd content-org
+#2025-10-21 19:24:30 rm .#all-posts.org#
+#2025-10-21 19:24:05 rm "#all-posts*#"
+#2025-10-21 19:23:53 rm #all-posts*#
+#2025-10-21 19:23:41 rm all-posts.*
+#2025-10-21 19:23:26 cd hugotest//quickstart/content-org/
+#2025-10-21 19:22:58 cd content
+#2025-10-21 19:21:52 cd 1
+#2025-10-21 19:21:49 cd page
+#2025-10-21 19:21:39 cd ~/hugotest/quickstart/
+#2025-10-21 19:21:33 cd /hugotest/quickstart
+#2025-10-21 19:11:37 hugo servier --buildDrafts --navigateToChanged
+#2025-10-21 19:09:16 nano init.el
+#2025-10-21 19:09:02 cd default
+#2025-10-21 19:09:00 cd emacs-configs/
+#2025-10-21 19:08:43 nano ~/emacs-configs/default/init.el
+#2025-10-21 17:53:57 ln -s ~/emacs-configs/default/.emacs.d .emacs.d
+#2025-10-21 17:52:20 cd emacs-configs/default/
+#2025-10-21 17:52:16 cd emacs-configs/def
+#2025-10-21 17:52:05 mv .emacs.d .emacs.d.main
+#2025-10-21 17:51:56 mv emacs.d emacs.d.main
+#2025-10-21 17:49:19 cd emacs-configs/mainEditor/
+#2025-10-21 17:43:37 cd ~/hugotest/quickstart
+#2025-10-21 17:40:59 la
+#2025-10-21 17:31:10 vim hugo.toml
+#2025-10-21 17:30:52 mkdir content-org
+#2025-10-21 17:29:49 hugo mod get -u
+#2025-10-21 17:29:37 vim go.mod
+#2025-10-21 17:28:32 hugo mod init hugotest
+#2025-10-21 17:25:32 cd quickstart/
+#2025-10-21 17:25:29 rm go.mod
+#2025-10-21 17:25:13 cd hugotest
+#2025-10-21 17:25:10 cd ../..
+#2025-10-21 17:23:00 sudo pacman -S go
+#2025-10-21 17:22:53 which go
+#2025-10-21 17:19:21 hugo new site quickstart
+#2025-10-21 17:18:55 mkdir hugotest
+#2025-10-21 17:18:26 hugo version
+#2025-10-21 17:18:09 sudo pacman -S hugo
+#2025-10-21 17:17:51 which hugo
+#2025-10-21 17:17:46 hugo
+#2025-10-21 17:12:12 ps aux|grep waypaper
+#2025-10-21 17:11:37 vim config.ini
+#2025-10-21 17:10:24 cd waypaper
+#2025-10-21 17:08:57 sudo pacman -S waypaper
+#2025-10-21 17:08:50 waypaper
+#2025-10-21 16:04:57 swaybg
+#2025-10-21 16:02:58 tar -xvf wallpapers.tar
+#2025-10-21 16:02:51 cd ~/Pictures
+#2025-10-21 16:00:00 sftp kevin@10.103.10.15
+#2025-10-21 14:27:46 ssh kevin@10.103.10.15
+#2025-10-21 14:13:26 cd ../systemd/user/
+#2025-10-21 14:13:18 cd .config/sway
+#2025-10-21 14:13:09 nano swayidle.service
+#2025-10-21 13:58:01 sudo systemctl --user daemon-reload
+#2025-10-21 13:23:27 cd .systemd
+#2025-10-21 13:19:42 sudo reboot now
+#2025-10-21 13:19:38 reboot now
+#2025-10-21 13:18:45 ln -s ~/emacs-configs/mainEditor .emacs.d
+#2025-10-21 13:18:27 rmdir .emacs.d
+#2025-10-21 13:18:20 rm main*
+#2025-10-21 13:16:26 rm mainEditor
+#2025-10-21 13:15:40 ln -s ~/emacs-configs/mainEditor
+#2025-10-21 13:15:11 cd .emacs.d.bak
+#2025-10-21 13:14:49 ln -s /emacs-configs/mainEditor .emacs.d
+#2025-10-21 13:14:31 mv .emacs.d .emacs.d.bak
+#2025-10-21 13:14:07 main
+#2025-10-21 13:13:48 cd emacs-configs
+#2025-10-21 13:12:25 bat dot.emacs
+#2025-10-21 13:08:22 cd Sync
+#2025-10-21 13:07:33 sudo pacman -S emacs-wayland
+#2025-10-21 13:07:24 which emacs-wayland
+#2025-10-21 13:03:42 sudo pacman -S emacs
+#2025-10-21 13:03:24 emacsclient -c
+#2025-10-21 13:01:53 cd /
+#2025-10-21 13:00:26 sudo pacman -Syu
+#2025-10-21 12:58:46 sudo chmod +x main
+#2025-10-21 12:58:11 sudo vim main
+#2025-10-21 12:57:19 bat main
+#2025-10-21 12:57:12 cd usr/local/bin
+#2025-10-21 12:56:12 find /run/media/kevin/80fa9d21-78f2-443e-9e15-84bd13ea482b/ -name main 2> /dev/null
+#2025-10-21 12:55:35 cd share
+#2025-10-21 12:55:29 cd usr
+#2025-10-21 12:55:24 cd *
+#2025-10-21 12:55:21 cd kevin
+#2025-10-21 12:55:17 cd /run/media
+#2025-10-21 12:54:57 cd /mnt
+#2025-10-21 12:54:55 c d/mnt
+#2025-10-21 12:45:21 mkdir Sync
+#2025-10-21 12:00:04 sudo libinput list-devices
+#2025-10-21 11:59:58 libinput list-devices
+#2025-10-21 11:59:32 cd /etc/libinput/
+#2025-10-21 11:59:26 bat /etc/libinput/
+#2025-10-21 11:58:10 sudo vim /etc/libinput/local-overides.quirks
+#2025-10-21 11:57:38 bat /etc/libinput/local-overides.quirks
+#2025-10-20 21:29:50 poweroff
+#2025-10-20 20:51:21 sudo pacman -S onlyoffice
+#2025-10-20 20:51:03 sudo pacman -Rns onlyoffice-bin
+#2025-10-20 20:50:58 pacman -Rns onlyoffice-bin
+#2025-10-20 20:50:32 sudo pacman -Q
+#2025-10-20 20:49:53 sudo pacman -Rns onlyoffice
+#2025-10-20 20:49:44 pacman -Rns onlyoffice
+#2025-10-20 20:49:37 yay -Rns onlyoffice
+#2025-10-20 20:49:27 yay-Rns onlyoffice
+#2025-10-20 20:49:21 sudo yay -Rns onlyoffice
+#2025-10-20 20:48:59 sudo pacman -Rns krita
+#2025-10-20 20:47:33 krita
+#2025-10-20 20:47:22 sudo pacman -Sy krita
+#2025-10-20 20:46:42 ps aux|grep krita
+#2025-10-20 20:46:00 systemctl --user status swayidle.service
+#2025-10-20 20:45:48 systemctl --user start swayidle.service
+#2025-10-20 20:45:40 systemctl --user enable swayidle.service
+#2025-10-20 20:45:34 sudo systemctl --user enable swayidle.service
+#2025-10-20 20:45:07 history|grep swayidle
+#2025-10-20 20:44:47 sudo systemctl enable --now syncthing@kevin.service
+#2025-10-20 20:44:07 history|grep syncthing
+#2025-10-20 20:43:39 sudo systemctl enable --now syncthing@.service
+#2025-10-20 20:40:07 ps aux|grep onlyoffice
+#2025-10-20 20:38:19 gimp
+#2025-10-20 20:36:47 sudo pacman -S swayidle syncthing emacs onlyoffice gimp vlc krita
+#2025-10-20 20:35:37 tar -xvf config.tar
+#2025-10-20 20:34:24 tar -cf config.tar .config .local
+#2025-10-20 20:00:50 cd syncthing
+#2025-10-20 20:00:46 cd state
+#2025-10-20 20:00:15 cd .local
+#2025-10-20 20:00:04 find / -name syncthing 2> /dev/null
+#2025-10-20 19:59:46 which syncthing
+#2025-10-20 19:54:31 ssh root@10.103.10.30
+#2025-10-20 19:54:15 ssh kevin@10.103.10.30
+#2025-10-20 19:53:59 cd .ssh
+#2025-10-20 19:53:50 bat .bash_profile
+#2025-10-20 19:53:26 bat .profile
+#2025-10-20 19:52:25 cd .cache
+#2025-10-20 19:00:29 systemctl --user status swayidle
+#2025-10-20 19:00:14 swayidle
+#2025-10-20 18:59:58 ls sway*
+#2025-10-20 18:59:53 cd /usr/bin
+#2025-10-20 18:43:34 rm swayidle.service
+#2025-10-20 18:41:06 cd systemd/user/
+#2025-10-20 18:38:12 swaylock
+#2025-10-20 18:37:56 which swayidle
+#2025-10-20 18:36:23 bat config
+#2025-10-20 18:36:19 cd config
+#2025-10-20 18:36:15 cd ~/.config/sway
+#2025-10-20 18:36:10 cd ~/.config/s
+#2025-10-20 18:35:00 cd /etc/systemd/system/
+#2025-10-20 18:34:44 systemctl enable swayidle
+#2025-10-20 18:34:12 sudo systemctl status waybar
+#2025-10-20 18:33:35 history|grep systemctl
+#2025-10-20 18:33:27 history|grep --user
+#2025-10-20 18:32:59 systemctl status waybar
+#2025-10-20 18:32:23 cd ../
+#2025-10-20 18:30:40 cd niri.service.wants/
+#2025-10-20 18:30:16 sudo chmod +x swayidle.service
+#2025-10-20 18:29:53 cd ~/.config
+#2025-10-20 17:34:52 nano config
+#2025-10-20 17:34:45 nvim config
+#2025-10-20 17:34:37 cd sway
+#2025-10-20 17:34:34 mkdir sway
+#2025-10-20 17:33:42 cd hypr
+#2025-10-20 17:32:50 systemctl status hypridle
+#2025-10-20 17:31:47 swayidle -h
+#2025-10-20 17:31:28 sudo systemctl enable swayidle.service
+#2025-10-20 17:31:16 sudo pacman -S swayidle
+#2025-10-20 17:31:11 pacman -S swayidle
+#2025-10-20 17:30:55 find / -name swayidle 2> /dev/null
+#2025-10-20 17:30:21 sudo systemctl status swayidle
+#2025-10-20 16:05:52 systemctl --user add-wants niri.service swayidle.service
+#2025-10-20 16:04:15 cd .config/systemd/user/
+#2025-10-20 16:03:02 sudo ufw status
+#2025-10-20 16:02:45 sudo ufw allow ssh
+#2025-10-20 16:02:35 sudo ufw allow OpenSSH
+#2025-10-20 16:02:04 systemctl status ufw
+#2025-10-20 16:00:40 sudo pacman -Sy openssh
+#2025-10-20 15:57:38 systemctl --user enable niri
+#2025-10-20 15:56:55 systemctl --user enable waybar
+#2025-10-20 15:56:49 sudo systemctl --user enable waybar
+#2025-10-20 14:51:27 sudo systemctl status syncthing@kevin
+#2025-10-20 14:51:22 sudo systemctl status syncthing
+#2025-10-20 14:47:09 cd stat
+#2025-10-20 14:47:06 cd /home/kevin/.local
+#2025-10-20 14:46:49 sudo find / -name syncthing 2> /dev/null
+#2025-10-20 14:46:40 sudo find / -name syncthing 2>1 /dev/null
+#2025-10-20 14:46:35 find / -name syncthing 2>1 /dev/null
+#2025-10-20 14:46:19 find / -name syncthing
+#2025-10-20 14:46:08 fzf syncthing
+#2025-10-20 14:45:42 sudo systemctl enable syncthing --user
+#2025-10-20 14:45:21 sudo systemctl --user enable syncthing.service
+#2025-10-20 14:44:36 cd systemd/system
+#2025-10-20 14:41:33 sudo systemctl restart syncthing
+#2025-10-20 14:41:08 syncthing
+#2025-10-20 14:40:12 sudo pacman -S syncthing emacs
+#2025-10-20 14:10:49 sudo nmbd -D
+#2025-10-20 14:10:43 sudo nmbd -d
+#2025-10-20 14:10:26 find / -name nmdb
+#2025-10-20 14:10:08 sudo systemctl start nmbd
+#2025-10-20 14:09:19 sudo pacman -S nmbd
+#2025-10-20 14:09:11 sudo systemctl restart smb nmdb
+#2025-10-20 14:08:18 sudo  vim smb.conf
+#2025-10-20 14:07:34 cd /etc/samba
+#2025-10-20 14:06:52 sudo systemctl restart smb.service
+#2025-10-20 14:04:25 sudo pacman -S gvfs-smb
+#2025-10-20 13:28:07 sudo pacman -S  kdenetwork-filesharing
+#2025-10-20 13:25:53 sudo systemctl enable avahi
+#2025-10-20 13:25:13 sudo pacman -S avahi nss-mdns
+#2025-10-20 13:24:35 avahi-discover
+#2025-10-20 13:24:28 sudo pacman -S dbus
+#2025-10-20 13:23:33 sudo pacman -Syu Avahi pygtk pytyhon-dbus
+#2025-10-20 13:23:21 sudo pacman -Sy Avahi pygtk pytyhon-dbus
+#2025-10-20 13:22:39 avahi-browse-domains
+#2025-10-20 13:17:35 sudo systemctl start smb
+#2025-10-20 13:17:25 testparm
+#2025-10-20 13:17:20 sudo mv samba.conf smb.conf
+#2025-10-20 13:17:13 mv samba.conf smb.conf
+#2025-10-20 13:17:03 sudo nano /etc/samba/samba.conf
+#2025-10-20 13:11:45 cd private
+#2025-10-20 13:11:21 sudo smbpasswd -a kevin
+#2025-10-20 13:09:41 nano /etc/samba/samba.conf
+#2025-10-20 13:09:20 sudo systemctl enable smb
+#2025-10-20 13:07:46 sudo systemctl status samba.service
+#2025-10-20 13:07:31 sudo systemctl restart samba
+#2025-10-20 13:07:17 sudo cp examples_smb.conf.default /etc/samba/samba.conf
+#2025-10-20 13:05:44 vim *default
+#2025-10-20 12:55:19 smbclient -L 10.103.10.30/Storage -U kevin
+#2025-10-20 12:55:07 smbclient -L -U kevin 10.103.10.30/Storage
+#2025-10-20 12:54:38 smbclient -L 10.103.10.30/Storage
+#2025-10-20 12:54:33 cd Storage
+#2025-10-20 12:54:18 smbclient -L 10.103.10.30
+#2025-10-20 12:51:59 smbclient smb://10.103.10.30/Storage
+#2025-10-20 12:51:50 smbclient smb://10.103.10.30\Storage
+#2025-10-20 12:51:35 smbclient smb://10.103.10.30
+#2025-10-20 12:50:58 sudo pacman -S samba
+#2025-10-20 12:50:47 which samba
+#2025-10-20 12:46:04 mv config.j.bak config.jsonc
+#2025-10-20 12:45:54 mv config config.bak
+#2025-10-20 12:44:34 systemctl --user add-wants niri.service waybar.service
+#2025-10-20 12:44:23 sudo systemctl --user add-wants niri.service waybar.service
+#2025-10-20 12:36:30 waybar &
+#2025-10-20 12:35:51 waybar
+#2025-10-20 12:35:36 vim config
+#2025-10-20 12:31:58 sudo pkill scx-manager
+#2025-10-20 12:31:54 sudo pkil scx-manager
+#2025-10-20 12:31:42 ps aux
+#2025-10-20 12:31:38 ps aux|grep sche*
+#2025-10-20 12:30:54 sudo pkill krita
+#2025-10-20 12:24:26 vim micro.desktop
+#2025-10-20 12:24:20 ls|grep micro.desktop
+#2025-10-20 12:24:00 cd applications/
+#2025-10-20 12:23:19 /usr/share
+#2025-10-20 12:22:52 cd /etc/skel/.config/wofi
+#2025-10-20 12:22:30 find / -name wofi
+#2025-10-20 12:22:21 find / -name wofi 2>1 /dev/null
+#2025-10-20 12:22:07 cd wofi
+#2025-10-20 12:22:03 cd /etc/
+#2025-10-20 12:21:52 cd flatpak
+#2025-10-20 12:20:37 micro
+#2025-10-20 12:15:11 cd btop
+#2025-10-20 12:14:46 cd .config/wofi
+#2025-10-20 12:08:23 mv config.jsonc config.j.bak
+#2025-10-20 12:08:08 cd .config/waybar
+#2025-10-20 12:05:00 cp -r waybar/ ~/.config/.
+#2025-10-20 12:04:51 cp waybar/ ~/.config/.
+#2025-10-20 12:02:58 nano config.jsonc
+#2025-10-20 12:01:53 sudo vim config.jsonc
+#2025-10-20 12:01:49 sudo cp config.jsonc config.jsonc.bak
+#2025-10-20 12:01:12 sudo nvim config.jsonc
+#2025-10-20 12:00:19 cd xdg
+#2025-10-20 11:56:44 obs
+#2025-10-20 11:56:43 obsstudio
+#2025-10-20 11:56:38 obs-studio
+#2025-10-20 11:56:22 btop
+#2025-10-20 11:54:16 cd ../niri
+#2025-10-20 11:54:13 cd niri
+#2025-10-20 11:45:21 nano config.kdl
+2025-10-30 11:46:27 vim swayidle.service
+2025-10-30 11:46:18 cd .config/systemd/user
+2025-10-29 19:24:42 hugo new posts/average_2.md
+2025-10-28 11:07:11 cd
+2025-10-28 11:05:43 hugo new posts/average_1.md
+2025-10-28 11:05:30 cd Sync/notes/
+2025-10-27 17:53:38 lsblk -do name,rota
+2025-10-27 17:53:28 ls -d -o name,rota
+2025-10-27 17:53:19 ls -do name,rota
+2025-10-27 17:52:59 sudo aura -Rsu cnijfilter-mx920
+2025-10-27 17:52:35 skanpage
+2025-10-27 17:50:28 sudo aura -A cnijfilter-mx920
+2025-10-27 17:50:16 sudo aura -As mx920
+2025-10-27 17:49:59 sudo aura -A cnijfilter-mx920series
+2025-10-27 17:49:28 sudo aura -Rsu canon-pixma-mx920-complete
+2025-10-27 17:43:36 sudo aura -A canon-pixma-mx920-complete
+2025-10-27 17:42:47 sudo aura -As cnijfilter-mx920series
+2025-10-27 17:42:27 sudo aura -As AUR/cnijfilter-mx920series
+2025-10-27 17:42:04 aura -As readme
+2025-10-27 17:41:57 sudo pacman -S aura
+2025-10-27 17:41:52 sudo pacman -aura
+2025-10-27 17:40:36 sudo pacman -S AUR/cnijfilter-mx920series
+2025-10-27 17:40:26 sudo pacman -S cnijfilter-mx920series
+2025-10-27 17:40:19 sudo yay -S cnijfilter-mx920series
+2025-10-27 17:37:58 scanimage -L
+2025-10-27 17:37:44 sudo sane-find-scanner
+2025-10-27 17:37:28 sane-find-scanner
+2025-10-27 17:32:33 sudo pacman -S skanpage
+2025-10-24 14:23:46 sudo parted
+2025-10-24 14:23:23 parted
+2025-10-24 14:23:08 sudo pacman -Q parted
+2025-10-24 14:23:00 sudo pacman -Q gparted
+2025-10-24 14:21:58 gparted
+2025-10-24 14:19:25 lsblk
+2025-10-24 14:19:23 mount -a
+2025-10-24 14:18:54 cd Downloads/ventoy-1.1.07/
+2025-10-24 14:13:51 cd ventoy-1.1.07
+2025-10-24 14:13:45 cd vnetoy-1.1.07
+2025-10-24 14:13:34 tar -zxvf ventoy-1.1.07-linux.tar.gz
+2025-10-24 14:13:27 cd Downloads
+2025-10-23 20:11:02 firefox
+2025-10-23 20:10:55 sudo pacman -Q extra/chromium
+2025-10-23 20:10:45 sudo pacman -Q cachyos/chromium
+2025-10-23 20:10:37 sudo pacman -Q chromium
+2025-10-23 20:10:18 sudo pacman -Syu cachyos/chromium-bin
+2025-10-23 20:10:02 sudo pacman -Q chromium-bin
+2025-10-23 20:09:50 sudo pacman -Rns brave-bin
+2025-10-23 20:09:41 sudo pacman -Q brave
+2025-10-23 20:09:17 sudo pacman --help
+2025-10-23 20:09:12 sudo pacman -list
+2025-10-23 20:08:59 sudo pacman -Rns brave
+2025-10-23 20:02:40 brave
+2025-10-23 19:45:37 vim .config/niri/config.kdl
+2025-10-23 19:39:59 vim config.kdl
+2025-10-23 19:39:51 cd .config/niri
+2025-10-23 19:38:31 sudo pacman -Syu cachyos/brave-bin
+2025-10-23 19:38:12 sudo pacman -Ss brave
+2025-10-23 19:37:35 yay -S librewolf
+2025-10-23 19:37:15 sudo pacman -Q librewolf
+2025-10-23 19:37:09 sudo pacman -Fy
+2025-10-23 19:34:53 sudo pacman -Q opera
+2025-10-23 19:34:31 sudo pacman -Su
+2025-10-23 19:32:56 sudo pacman -S brave
+2025-10-23 19:32:31 sudo pacman -S chromium
+2025-10-23 16:57:56 clear
+2025-10-23 16:57:30 speedtest-cli
+2025-10-23 16:57:20 sudo pacman -S speedtest-cli
+2025-10-23 16:57:10 sudo pacman -S speedtest
+2025-10-23 16:53:33 nmcli c
+2025-10-23 16:51:31 nmcli device wifi connect bookshelf password 2LCDNospE
+2025-10-23 16:50:55 nmcli device wlan0 connect bookshelf password 2LCDNospE
+2025-10-23 16:50:19 nmcli r
+2025-10-23 16:50:13 nmcli n
+2025-10-23 16:50:02 nmcli g
+2025-10-23 16:49:59 nmcli device wifi g
+2025-10-23 16:49:19 nmcli --help
+2025-10-23 16:49:08 nmcli device wifi --ask bookshelf password 2LCDNospE
+2025-10-23 16:49:02 nmcli device wifi connect --ask bookshelf password 2LCDNospE
+2025-10-23 16:44:49 nmcli device wifi connect TMOBILE-3CA1 password 2LCDNospE
+2025-10-23 16:44:39 nmcli device wifi connect TMOBILE-3CA1 2LCDNospE
+2025-10-23 16:44:16 nmcli device connect wifi TMOBILE-3CA1 2LCDNospE
+2025-10-23 16:42:23 sudo nm-connection-editor
+2025-10-23 16:42:12 nm-connection-editor
+2025-10-23 16:41:46 sudo systemctl status NetworkManager
+2025-10-23 16:39:36 3
+2025-10-23 16:39:24 sudo networkctl
+2025-10-23 16:39:19 networkmanager
+2025-10-23 16:29:06 alias --save lg "lazygit"
+2025-10-23 16:28:08 fd fish
+2025-10-23 16:28:02 fd
+2025-10-23 16:27:53 fzf
+2025-10-23 16:27:19 fzf --help
+2025-10-23 16:27:14 sudo fzf / fish
+2025-10-23 16:27:06 sudo fzf fish
+2025-10-23 16:26:47 which fish
+2025-10-23 16:26:37 history|grep nano
+2025-10-23 16:26:15 vim ~/.profile
+2025-10-23 16:24:52 history|grep vim
+2025-10-23 16:23:40 cd user
+2025-10-23 16:23:37 cd systemd
+2025-10-23 16:23:28 cd .config/
+2025-10-23 16:20:46 ln -s ~/Sync/notes/content/posts hugoposts
+2025-10-23 16:20:26 rm hugoposts
+2025-10-23 16:19:57 cd ~/hugoposts
+2025-10-23 16:19:36 notes
+2025-10-23 16:19:34 ln -s ~/Sync/notes hugonotes
+2025-10-23 16:19:17 rm hugonotes
+2025-10-23 16:19:11 ln -s ~/Sync/notes/contents/posts hugoposts
+2025-10-23 16:18:50 ln -s ~/sync/notes/ hugonotes
+2025-10-23 16:15:55 lazygit
+2025-10-23 11:59:37 xrandr
+2025-10-23 11:54:46 bat config.kdl
+2025-10-23 11:45:55 autorandr
+2025-10-23 11:45:33 xrandr --output DP-1 on
+2025-10-23 11:45:29 xrandr --output DP-1 --on
+2025-10-23 11:44:25 niri msg outputs
+2025-10-22 21:20:12 cd /tmp
+2025-10-22 21:20:05 ./tempe.sh
+2025-10-22 21:20:01 cd /usr/local/bin
+2025-10-22 21:19:50 tempe.sh
+2025-10-22 21:19:45 tempe
+2025-10-22 21:18:38 sudo chmod +x tempe.sh
+2025-10-22 21:15:55 sudo nvim tempe.sh
+2025-10-22 21:13:58 nvim tempe.sh
+2025-10-22 21:08:31 networkd
+2025-10-22 21:07:22 ps aux|grep dnsmasq
+2025-10-22 21:06:59 ls d*
+2025-10-22 21:06:56 ls d
+2025-10-22 21:06:53 ls dh
+2025-10-22 21:06:48 ls dh*
+2025-10-22 21:06:41 nvim dhcpd.conf
+2025-10-22 21:06:21 nvim dhcpcd.conf
+2025-10-22 21:03:36 cd NetworkManager/
+2025-10-22 21:03:30 cd /etc
+2025-10-22 21:02:58 nslookup archive.saulsnet.net
+2025-10-22 21:02:53 nslookup saulsnet.net
+2025-10-22 20:31:18 hugo new posts/demos.md
+2025-10-22 14:25:17 sudo pacman -S lazygit
+2025-10-22 14:25:11 pacman -S lazygit
+2025-10-22 14:21:17 git push -u origin main
+2025-10-22 14:21:07 git commit -m "added nixos"
+2025-10-22 14:21:00 git add .
+2025-10-22 14:14:36 bash
+2025-10-22 14:14:22 eval "$(ssh-agent -s)"
+2025-10-22 14:14:13 eval "$(sshagent -s)"
+2025-10-22 14:13:39 ssh-keygen -t ed25519 -C "kevin_1207@yahoo.com"
+2025-10-22 14:09:44 git config --global user.name "Kevin Sauls"
+2025-10-22 14:09:27 git config --global user.email "kevin@kevinsauls.com"
+2025-10-22 14:09:19 gitconfig --global user.email "kevin@kevinsauls.com"
+2025-10-22 14:08:31 which git
+2025-10-22 14:05:09 sudo pacman -S ispell
+2025-10-22 13:53:18 cd ~/Sync/notes/
+2025-10-22 13:47:55 cat local-overides.quirks
+2025-10-22 13:47:50 cd /etc/libinput
+2025-10-22 13:47:10 xinput list
+2025-10-22 13:37:50 cd /Sync/notes/
+2025-10-22 13:37:14 cat config.fish
+2025-10-22 13:37:07 alias --save cat=bat
+2025-10-22 13:36:48 vim
+2025-10-22 13:36:42 alias --save vim="nvim"
+2025-10-22 13:36:18 alias --save vim = "nvim"
+2025-10-22 13:34:34 fish_config
+2025-10-22 13:34:27 vim config_variables
+2025-10-22 13:34:03 vim config.fish
+2025-10-22 13:33:54 cd fish
+2025-10-22 13:32:42 fastfetch
+2025-10-22 13:32:29 cd .config
+2025-10-22 13:32:07 source .zshrc
+2025-10-22 13:31:35 vim .zshrc
+2025-10-22 13:31:09 nvim
+2025-10-22 13:30:54 sudo pacman -S neovim
+2025-10-22 13:30:26 vim titties.md
+2025-10-22 13:28:35 vim .bashrc
+2025-10-22 13:28:23 source .bashrc
+2025-10-22 13:26:22 sudo pacman -S kitty
+2025-10-22 13:25:52 apt install nvim
+2025-10-22 13:24:28 cp /usr/share/cachyos-zsh-config/cachyos-config.zsh ~/.zshrc
+2025-10-22 13:24:03 mv .zshrc zshrc.bak
+2025-10-22 13:22:42 vim /usr/share/cachyos-zsh-config/cachyos-config.zsh
+2025-10-22 13:22:06 bat .zshrc
+2025-10-22 13:19:29 bat .bashrc
+2025-10-22 13:19:23 cat .bashrc
+2025-10-22 13:19:06 bat .viminfo
+2025-10-22 13:17:49 vim .profile
+2025-10-22 13:17:22 bar .viminfo
+2025-10-22 13:17:03 kitty
+2025-10-22 13:15:26 waypaper --random
+2025-10-22 13:06:52 niri validate
+2025-10-22 11:58:32 wev
+2025-10-22 11:58:22 sudo pacman -S wev
+2025-10-22 11:53:12 xev
+2025-10-22 11:49:26 cd .config/niri/
+2025-10-22 11:31:02 niri msg output
+2025-10-22 11:27:21 vim configuration.kdl
+2025-10-22 11:24:32 niri/scratchpad
+2025-10-22 11:24:21 niri scratchpad
+2025-10-22 11:22:02 bat config.jsonc
+2025-10-22 11:21:52 cd waybar
+2025-10-22 11:18:21 swww
+2025-10-22 11:12:47 onlyoffice-desktopeditors
+2025-10-22 11:12:42 systemctl --user enable --now xwayland-satellite
+2025-10-22 11:11:14 cd system
+2025-10-22 11:10:50 cd /etc/systemd
+2025-10-22 11:10:41 which xwayland-satellite
+2025-10-22 11:10:11 xwayland-satellite  -v
+2025-10-22 11:09:36 journalctl --user unit=niri -b
+2025-10-22 11:06:08 sudo systemctl enable xwayland-satellite
+2025-10-22 11:04:47 xwayland-satellite
+2025-10-22 11:04:40 xwayland-satellite onlyoffice-desktopeditors
+2025-10-22 10:48:18 sudo systemctl start cups.service
+2025-10-22 10:48:12 sudo systemctl enable cups.service
+2025-10-22 10:46:52 sudo pacman -S cups
+2025-10-22 10:44:50 sudo systemctl enable org.cups.cupsd.service
+sudo systemctl start org.cups.cupsd.service
+2025-10-22 10:41:55 print
+2025-10-22 10:39:36 sudo pacman -S libreoffice
+2025-10-22 10:39:09 export DISPLAY 0:1
+2025-10-22 10:36:52 fuzzel
+2025-10-22 10:26:36 bat .config/niri/config.kdl|grep power-off-monitors
+2025-10-22 10:26:17 bat .config/niri/config.kdl
+2025-10-22 10:25:51 power-off-monitors
+2025-10-22 10:23:35 wofi
+2025-10-22 10:19:10 sudo pacman -S udiskie
+2025-10-22 10:18:55 sudo pacman -S fuzzel
+2025-10-22 10:15:39 sudo systemctl stop ufw
+2025-10-22 10:15:08 sudo systemctl reload NetworkManager
+2025-10-22 10:14:29 sudo systemctl list-units
+2025-10-22 10:14:08 systemctl --help
+2025-10-22 10:14:01 sudo systemctl list-jobs
+2025-10-22 10:13:56 sudo systemctl list
+2025-10-22 10:13:50 sudo systemctl restart network
+2025-10-22 10:13:46 sudo systemctl restart networking
+2025-10-22 10:12:29 sudo dhclient
+2025-10-22 10:12:16 dhclient
+2025-10-22 10:08:01 sudo pacman -Sy udiskie
+2025-10-22 10:07:32 sudo yay -S fuzzel
+2025-10-22 10:06:59 which fuzzel
+2025-10-22 10:03:46 swaymsg output * off
+2025-10-22 10:03:13 niri msg output eDP-1 off
+2025-10-22 09:51:36 sudo systemctl start ufw
+2025-10-22 09:51:19 sudo ufw allow 22/tcp
+2025-10-22 09:42:38 niri msg overview-state
+2025-10-22 09:42:15 niri msg --help
+2025-10-22 09:37:25 vim swayidle.services
+2025-10-22 09:35:51 sudo systemctl status ufw
+2025-10-22 09:35:25 sudo systemctl status sshd
+2025-10-22 09:33:51 sudo systemctl start sshd
+2025-10-22 09:33:44 sudo systemctl enable sshd
+2025-10-22 09:33:41 sudo systemctl enable ssh
+2025-10-22 09:33:23 sudo pacman -S openssh
+2025-10-22 09:26:48 systemctl --user daemon-reload
+2025-10-22 09:22:55 niri msg output * off
+2025-10-22 09:22:29 niri msg output dpms off
+2025-10-22 09:22:14 niri msg output dpms
+2025-10-22 09:21:12 sudo niri msg "dispatch * dpms off"
+2025-10-22 09:19:25 sudo niri msg "output * dpms off"
+2025-10-22 09:19:12 niri msg "output * dpms off"
+2025-10-22 09:17:56 which sway
+2025-10-22 09:16:57 sudo find / -name swaymsg 2> /dev/null
+2025-10-22 09:16:35 sudo which swaymsg
+2025-10-22 09:16:29 which swaymsg
+2025-10-22 09:15:23 sudo swaymsg "output * dpms off"
+2025-10-22 09:15:11 sudo yay -S swaymsg
+2025-10-22 09:14:47 sudo pacman -S swaymsg
+2025-10-22 09:14:34 swaymsg "output * dpms off"
+2025-10-22 08:55:09 bat swayidle.service
+2025-10-22 08:54:52 cd ~/.config/systemd/
+2025-10-22 08:54:39 bat sleep.conf
+2025-10-22 08:54:05 bat oomd.conf
+2025-10-22 08:53:40 bat user.conf
+2025-10-21 19:53:51 biat .viminfo
+2025-10-21 19:53:43 cls
+2025-10-21 19:52:25 echo "fuck this"
+2025-10-21 19:52:20 eco "fuck this"
+2025-10-21 19:49:05 cl
+2025-10-21 19:42:38 sudo pacman -S obs-studio kdenlive
+2025-10-21 19:40:11 sudo pacman -S obsidian
+2025-10-21 19:39:22 mv .emacs.d.main .emacs.d
+2025-10-21 19:39:12 rm -R  .emacs.d
+2025-10-21 19:39:06 rm .emacs.d
+2025-10-21 19:38:58 cd .emacs.d
+2025-10-21 19:37:17 emacs init.el
+2025-10-21 19:37:10 cd ~/emacs-configs/mainEditor/
+2025-10-21 19:37:00 rm -R hugotest
+2025-10-21 19:35:29 hugo server --buildDrafts --navigateToChanged
+2025-10-21 19:34:53 vim index.html
+2025-10-21 19:34:10 bat index.html
+2025-10-21 19:33:57 page
+2025-10-21 19:33:48 cd tags
+2025-10-21 19:33:41 cd public
+2025-10-21 19:32:29 mv .emacs.d.bak .emacs.d
+2025-10-21 19:31:49 emacs --debug-init
+2025-10-21 19:31:00 cd hugotest/quickstart/
+2025-10-21 19:30:26 ln -s ~/emacs-configs/doomemacs .emacs.d
+2025-10-21 19:30:05 cd ~
+2025-10-21 19:29:53 cd doomemacs/
+2025-10-21 19:29:09 vim init.el
+2025-10-21 19:28:57 cd tits
+2025-10-21 19:28:50 cd ~/emacs-configs/
+2025-10-21 19:26:46 cd content-org
+2025-10-21 19:24:30 rm .#all-posts.org#
+2025-10-21 19:24:05 rm "#all-posts*#"
+2025-10-21 19:23:53 rm #all-posts*#
+2025-10-21 19:23:41 rm all-posts.*
+2025-10-21 19:23:26 cd hugotest//quickstart/content-org/
+2025-10-21 19:22:58 cd content
+2025-10-21 19:21:52 cd 1
+2025-10-21 19:21:49 cd page
+2025-10-21 19:21:39 cd ~/hugotest/quickstart/
+2025-10-21 19:21:33 cd /hugotest/quickstart
+2025-10-21 19:11:37 hugo servier --buildDrafts --navigateToChanged
+2025-10-21 19:09:16 nano init.el
+2025-10-21 19:09:02 cd default
+2025-10-21 19:09:00 cd emacs-configs/
+2025-10-21 19:08:43 nano ~/emacs-configs/default/init.el
+2025-10-21 17:53:57 ln -s ~/emacs-configs/default/.emacs.d .emacs.d
+2025-10-21 17:52:20 cd emacs-configs/default/
+2025-10-21 17:52:16 cd emacs-configs/def
+2025-10-21 17:52:05 mv .emacs.d .emacs.d.main
+2025-10-21 17:51:56 mv emacs.d emacs.d.main
+2025-10-21 17:49:19 cd emacs-configs/mainEditor/
+2025-10-21 17:43:37 cd ~/hugotest/quickstart
+2025-10-21 17:40:59 la
+2025-10-21 17:31:10 vim hugo.toml
+2025-10-21 17:30:52 mkdir content-org
+2025-10-21 17:29:49 hugo mod get -u
+2025-10-21 17:29:37 vim go.mod
+2025-10-21 17:28:32 hugo mod init hugotest
+2025-10-21 17:25:32 cd quickstart/
+2025-10-21 17:25:29 rm go.mod
+2025-10-21 17:25:13 cd hugotest
+2025-10-21 17:23:00 sudo pacman -S go
+2025-10-21 17:22:53 which go
+2025-10-21 17:19:21 hugo new site quickstart
+2025-10-21 17:18:55 mkdir hugotest
+2025-10-21 17:18:26 hugo version
+2025-10-21 17:18:09 sudo pacman -S hugo
+2025-10-21 17:17:51 which hugo
+2025-10-21 17:17:46 hugo
+2025-10-21 17:12:12 ps aux|grep waypaper
+2025-10-21 17:11:37 vim config.ini
+2025-10-21 17:10:24 cd waypaper
+2025-10-21 17:08:57 sudo pacman -S waypaper
+2025-10-21 17:08:50 waypaper
+2025-10-21 16:04:57 swaybg
+2025-10-21 16:02:58 tar -xvf wallpapers.tar
+2025-10-21 16:02:51 cd ~/Pictures
+2025-10-21 16:00:00 sftp kevin@10.103.10.15
+2025-10-21 14:13:26 cd ../systemd/user/
+2025-10-21 14:13:18 cd .config/sway
+2025-10-21 14:13:09 nano swayidle.service
+2025-10-21 13:58:01 sudo systemctl --user daemon-reload
+2025-10-21 13:23:27 cd .systemd
+2025-10-21 13:19:42 sudo reboot now
+2025-10-21 13:19:38 reboot now
+2025-10-21 13:18:45 ln -s ~/emacs-configs/mainEditor .emacs.d
+2025-10-21 13:18:27 rmdir .emacs.d
+2025-10-21 13:18:20 rm main*
+2025-10-21 13:16:26 rm mainEditor
+2025-10-21 13:15:40 ln -s ~/emacs-configs/mainEditor
+2025-10-21 13:15:11 cd .emacs.d.bak
+2025-10-21 13:14:49 ln -s /emacs-configs/mainEditor .emacs.d
+2025-10-21 13:14:31 mv .emacs.d .emacs.d.bak
+2025-10-21 13:14:07 main
+2025-10-21 13:13:48 cd emacs-configs
+2025-10-21 13:12:25 bat dot.emacs
+2025-10-21 13:07:33 sudo pacman -S emacs-wayland
+2025-10-21 13:07:24 which emacs-wayland
+2025-10-21 13:03:42 sudo pacman -S emacs
+2025-10-21 13:03:24 emacsclient -c
+2025-10-21 13:01:53 cd /
+2025-10-21 13:00:26 sudo pacman -Syu
+2025-10-21 12:58:46 sudo chmod +x main
+2025-10-21 12:58:11 sudo vim main
+2025-10-21 12:57:19 bat main
+2025-10-21 12:57:12 cd usr/local/bin
+2025-10-21 12:56:12 find /run/media/kevin/80fa9d21-78f2-443e-9e15-84bd13ea482b/ -name main 2> /dev/null
+2025-10-21 12:55:35 cd share
+2025-10-21 12:55:29 cd usr
+2025-10-21 12:55:24 cd *
+2025-10-21 12:55:21 cd kevin
+2025-10-21 12:55:17 cd /run/media
+2025-10-21 12:54:57 cd /mnt
+2025-10-21 12:54:55 c d/mnt
+2025-10-21 12:45:21 mkdir Sync
+2025-10-21 12:00:04 sudo libinput list-devices
+2025-10-21 11:59:58 libinput list-devices
+2025-10-21 11:59:32 cd /etc/libinput/
+2025-10-21 11:59:26 bat /etc/libinput/
+2025-10-21 11:58:10 sudo vim /etc/libinput/local-overides.quirks
+2025-10-21 11:57:38 bat /etc/libinput/local-overides.quirks
+2025-10-20 20:51:21 sudo pacman -S onlyoffice
+2025-10-20 20:51:03 sudo pacman -Rns onlyoffice-bin
+2025-10-20 20:50:58 pacman -Rns onlyoffice-bin
+2025-10-20 20:50:32 sudo pacman -Q
+2025-10-20 20:49:53 sudo pacman -Rns onlyoffice
+2025-10-20 20:49:44 pacman -Rns onlyoffice
+2025-10-20 20:49:37 yay -Rns onlyoffice
+2025-10-20 20:49:27 yay-Rns onlyoffice
+2025-10-20 20:49:21 sudo yay -Rns onlyoffice
+2025-10-20 20:48:59 sudo pacman -Rns krita
+2025-10-20 20:47:33 krita
+2025-10-20 20:47:22 sudo pacman -Sy krita
+2025-10-20 20:46:42 ps aux|grep krita
+2025-10-20 20:46:00 systemctl --user status swayidle.service
+2025-10-20 20:45:48 systemctl --user start swayidle.service
+2025-10-20 20:45:40 systemctl --user enable swayidle.service
+2025-10-20 20:45:34 sudo systemctl --user enable swayidle.service
+2025-10-20 20:45:07 history|grep swayidle
+2025-10-20 20:44:47 sudo systemctl enable --now syncthing@kevin.service
+2025-10-20 20:44:07 history|grep syncthing
+2025-10-20 20:43:39 sudo systemctl enable --now syncthing@.service
+2025-10-20 20:40:07 ps aux|grep onlyoffice
+2025-10-20 20:38:19 gimp
+2025-10-20 20:36:47 sudo pacman -S swayidle syncthing emacs onlyoffice gimp vlc krita
+2025-10-20 20:35:37 tar -xvf config.tar
+2025-10-20 20:34:24 tar -cf config.tar .config .local
+2025-10-20 20:00:50 cd syncthing
+2025-10-20 20:00:46 cd state
+2025-10-20 20:00:15 cd .local
+2025-10-20 20:00:04 find / -name syncthing 2> /dev/null
+2025-10-20 19:59:46 which syncthing
+2025-10-20 19:54:31 ssh root@10.103.10.30
+2025-10-20 19:54:15 ssh kevin@10.103.10.30
+2025-10-20 19:53:59 cd .ssh
+2025-10-20 19:53:50 bat .bash_profile
+2025-10-20 19:53:26 bat .profile
+2025-10-20 19:52:25 cd .cache
+2025-10-20 19:00:29 systemctl --user status swayidle
+2025-10-20 19:00:14 swayidle
+2025-10-20 18:59:58 ls sway*
+2025-10-20 18:59:53 cd /usr/bin
+2025-10-20 18:43:34 rm swayidle.service
+2025-10-20 18:41:06 cd systemd/user/
+2025-10-20 18:38:12 swaylock
+2025-10-20 18:37:56 which swayidle
+2025-10-20 18:36:23 bat config
+2025-10-20 18:36:19 cd config
+2025-10-20 18:36:15 cd ~/.config/sway
+2025-10-20 18:36:10 cd ~/.config/s
+2025-10-20 18:35:00 cd /etc/systemd/system/
+2025-10-20 18:34:44 systemctl enable swayidle
+2025-10-20 18:34:12 sudo systemctl status waybar
+2025-10-20 18:33:35 history|grep systemctl
+2025-10-20 18:33:27 history|grep --user
+2025-10-20 18:32:59 systemctl status waybar
+2025-10-20 18:32:23 cd ../
+2025-10-20 18:30:40 cd niri.service.wants/
+2025-10-20 18:30:16 sudo chmod +x swayidle.service
+2025-10-20 18:29:53 cd ~/.config
+2025-10-20 17:34:52 nano config
+2025-10-20 17:34:45 nvim config
+2025-10-20 17:34:37 cd sway
+2025-10-20 17:34:34 mkdir sway
+2025-10-20 17:33:42 cd hypr
+2025-10-20 17:32:50 systemctl status hypridle
+2025-10-20 17:31:47 swayidle -h
+2025-10-20 17:31:28 sudo systemctl enable swayidle.service
+2025-10-20 17:31:16 sudo pacman -S swayidle
+2025-10-20 17:31:11 pacman -S swayidle
+2025-10-20 17:30:55 find / -name swayidle 2> /dev/null
+2025-10-20 17:30:21 sudo systemctl status swayidle
+2025-10-20 16:05:52 systemctl --user add-wants niri.service swayidle.service
+2025-10-20 16:04:15 cd .config/systemd/user/
+2025-10-20 16:03:02 sudo ufw status
+2025-10-20 16:02:45 sudo ufw allow ssh
+2025-10-20 16:02:35 sudo ufw allow OpenSSH
+2025-10-20 16:02:04 systemctl status ufw
+2025-10-20 16:00:40 sudo pacman -Sy openssh
+2025-10-20 15:57:38 systemctl --user enable niri
+2025-10-20 15:56:55 systemctl --user enable waybar
+2025-10-20 15:56:49 sudo systemctl --user enable waybar
+2025-10-20 14:51:27 sudo systemctl status syncthing@kevin
+2025-10-20 14:51:22 sudo systemctl status syncthing
+2025-10-20 14:47:09 cd stat
+2025-10-20 14:47:06 cd /home/kevin/.local
+2025-10-20 14:46:49 sudo find / -name syncthing 2> /dev/null
+2025-10-20 14:46:40 sudo find / -name syncthing 2>1 /dev/null
+2025-10-20 14:46:35 find / -name syncthing 2>1 /dev/null
+2025-10-20 14:46:19 find / -name syncthing
+2025-10-20 14:46:08 fzf syncthing
+2025-10-20 14:45:42 sudo systemctl enable syncthing --user
+2025-10-20 14:45:21 sudo systemctl --user enable syncthing.service
+2025-10-20 14:44:36 cd systemd/system
+2025-10-20 14:40:12 sudo pacman -S syncthing emacs
+2025-10-20 14:10:49 sudo nmbd -D
+2025-10-20 14:10:43 sudo nmbd -d
+2025-10-20 14:10:26 find / -name nmdb
+2025-10-20 14:10:08 sudo systemctl start nmbd
+2025-10-20 14:09:19 sudo pacman -S nmbd
+2025-10-20 14:09:11 sudo systemctl restart smb nmdb
+2025-10-20 14:08:18 sudo  vim smb.conf
+2025-10-20 14:07:34 cd /etc/samba
+2025-10-20 14:06:52 sudo systemctl restart smb.service
+2025-10-20 14:04:25 sudo pacman -S gvfs-smb
+2025-10-20 13:28:07 sudo pacman -S  kdenetwork-filesharing
+2025-10-20 13:25:53 sudo systemctl enable avahi
+2025-10-20 13:25:13 sudo pacman -S avahi nss-mdns
+2025-10-20 13:24:35 avahi-discover
+2025-10-20 13:24:28 sudo pacman -S dbus
+2025-10-20 13:23:33 sudo pacman -Syu Avahi pygtk pytyhon-dbus
+2025-10-20 13:23:21 sudo pacman -Sy Avahi pygtk pytyhon-dbus
+2025-10-20 13:22:39 avahi-browse-domains
+2025-10-20 13:17:35 sudo systemctl start smb
+2025-10-20 13:17:25 testparm
+2025-10-20 13:17:20 sudo mv samba.conf smb.conf
+2025-10-20 13:17:13 mv samba.conf smb.conf
+2025-10-20 13:17:03 sudo nano /etc/samba/samba.conf
+2025-10-20 13:11:45 cd private
+2025-10-20 13:11:21 sudo smbpasswd -a kevin
+2025-10-20 13:09:41 nano /etc/samba/samba.conf
+2025-10-20 13:09:20 sudo systemctl enable smb
+2025-10-20 13:07:46 sudo systemctl status samba.service
+2025-10-20 13:07:31 sudo systemctl restart samba
+2025-10-20 13:07:17 sudo cp examples_smb.conf.default /etc/samba/samba.conf
+2025-10-20 13:05:44 vim *default
+2025-10-20 12:55:19 smbclient -L 10.103.10.30/Storage -U kevin
+2025-10-20 12:55:07 smbclient -L -U kevin 10.103.10.30/Storage
+2025-10-20 12:54:38 smbclient -L 10.103.10.30/Storage
+2025-10-20 12:54:33 cd Storage
+2025-10-20 12:54:18 smbclient -L 10.103.10.30
+2025-10-20 12:51:59 smbclient smb://10.103.10.30/Storage
+2025-10-20 12:51:50 smbclient smb://10.103.10.30\Storage
+2025-10-20 12:51:35 smbclient smb://10.103.10.30
+2025-10-20 12:50:58 sudo pacman -S samba
+2025-10-20 12:50:47 which samba
+2025-10-20 12:46:04 mv config.j.bak config.jsonc
+2025-10-20 12:45:54 mv config config.bak
+2025-10-20 12:44:34 systemctl --user add-wants niri.service waybar.service
+2025-10-20 12:44:23 sudo systemctl --user add-wants niri.service waybar.service
+2025-10-20 12:36:30 waybar &
+2025-10-20 12:35:51 waybar
+2025-10-20 12:35:36 vim config
+2025-10-20 12:31:58 sudo pkill scx-manager
+2025-10-20 12:31:54 sudo pkil scx-manager
+2025-10-20 12:31:42 ps aux
+2025-10-20 12:31:38 ps aux|grep sche*
+2025-10-20 12:30:54 sudo pkill krita
+2025-10-20 12:24:26 vim micro.desktop
+2025-10-20 12:24:20 ls|grep micro.desktop
+2025-10-20 12:24:00 cd applications/
+2025-10-20 12:23:19 /usr/share
+2025-10-20 12:22:52 cd /etc/skel/.config/wofi
+2025-10-20 12:22:30 find / -name wofi
+2025-10-20 12:22:21 find / -name wofi 2>1 /dev/null
+2025-10-20 12:22:07 cd wofi
+2025-10-20 12:22:03 cd /etc/
+2025-10-20 12:21:52 cd flatpak
+2025-10-20 12:20:37 micro
+2025-10-20 12:15:11 cd btop
+2025-10-20 12:14:46 cd .config/wofi
+2025-10-20 12:08:23 mv config.jsonc config.j.bak
+2025-10-20 12:08:08 cd .config/waybar
+2025-10-20 12:05:00 cp -r waybar/ ~/.config/.
+2025-10-20 12:04:51 cp waybar/ ~/.config/.
+2025-10-20 12:02:58 nano config.jsonc
+2025-10-20 12:01:53 sudo vim config.jsonc
+2025-10-20 12:01:49 sudo cp config.jsonc config.jsonc.bak
+2025-10-20 12:01:12 sudo nvim config.jsonc
+2025-10-20 12:00:19 cd xdg
+2025-10-20 11:56:44 obs
+2025-10-20 11:56:43 obsstudio
+2025-10-20 11:56:38 obs-studio
+2025-10-20 11:56:22 btop
+2025-10-20 11:54:16 cd ../niri
+2025-10-20 11:54:13 cd niri
+2025-10-20 11:45:21 nano config.kdl

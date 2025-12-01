@@ -4,7 +4,7 @@
   {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
     {{- $.Scratch.Add "index" (dict
       "objectID" (sha1 .Permalink)
-      "date" (time.Format "Monday, Jan 2, 2006" .Date)
+      "date" (time.Format "2006-01-02" .Date)
       "description" .Description
      
       "permalink" .Permalink
