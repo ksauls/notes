@@ -3,7 +3,7 @@ languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 #theme = "ananke"
-theme = "terminal"
+theme = "hugo-bearblog"
 pagination.pagerSize = 5
 
 [params]
@@ -116,12 +116,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
      name = 'Now'
      pageRef = 'now.md'
     weight = 70
-rssLimit = 5
-[outputFormats.json]
-  mediaType = "application/json"
-  baseName = "feed"
-  rel = "alternate"
-  isPlainText = true
+rssLimit = 2
 
 [outputs]
-home  = ["html","json","rss"]
+home  = ["html","rss"]
