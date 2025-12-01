@@ -8,14 +8,12 @@
       "description" .Description
      
       "permalink" .Permalink
-      "publish_date" .PublishDate
      
      
       "title" .Title
       "type" .Type
       "url" .Permalink
       "section" .Section
-      "tags" .Params.Tags
       "categories" .Params.Categories
       "author" .Params.authors
       "content_html" .Content
