@@ -1,0 +1,22 @@
+---
+title: 'Exploring New Web Options'
+date: 2025-12-02T11:17:57-05:00
+author: "Kevin Sauls"
+draft: false
+categories: technologyx
+tags:
+--- 
+Every once in while I get the itch to change things up.  Recently, as I noted in my previous note on [Micro.blog]({{< relref "microblog.md" >}}) I ran across the idea of the indieweb and micro blogging and thought I'd give it a try. Along the way, though, I ran into a whole host of other options that are available and, frankly, I'm a bit overwhelmed.  I want to try then ALL!
+
+As I noted in that post, though, the sailing has not been smooth. I did finally get to the point of getting a couple of posts from this blog posted to the [saulsnet.org](https://saulsnet.org) website though only the summaries are there. And there's currently no link back to the original post. There's a fix for that, I think, but I just haven't started working on that one yet.
+
+In my wandering around the web looking for answers to the problems I encountered with micro.blog, I also ran across a host of other options. All of them focusing on breaking away from the corporate internet and returning -- or at least *trying* to return -- to the fun internet of twenty years ago. You know, back when real, actual people created their own webpages focusing on sharing their interests and knowledge rather than all the corporate crap we see today: ads, shilling for companies, chasing views and "engagement". Back before everyone wanted to make their millions on the internet. That's what piqued my interest in the web to start with and it's something I dearly miss.
+
+Right now I'm trying micro.blog. Later, I may try [omg.lol](https://omg.lol), or one of the other independent web services that collectively create the indieweb. I'm still reading about the indieweb so that I really understand what it's about. It _seems_ fairly straightforward, but every time I think that, I get bit. Once I've learned more, maybe I'll write a post on that later.
+
+And, I'm toying with the Fediverse. Like the indieweb, I'm still wrapping my head around that whole bag of snakes and figuring out how to use it and even if I *should* use it.  Well, I guess, really, the indieweb and the Fediverse are kind of the same thing. Or at least parts of the same thing. So maybe I am already toying with it.
+
+I just wish my damn curiosity wouldn't keep adding to my list of "what's that all about?".
+
+
+
