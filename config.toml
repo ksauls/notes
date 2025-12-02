@@ -62,6 +62,9 @@ enableGitInfo = true
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[taxonomies]
+   series = "series"
+
 [markup]
   [markup.goldmark]
     renderer.unsafe = true
@@ -120,4 +123,4 @@ ignoreLogs = ['warning-goldmark-raw-html']
 limit = 2
 
 [outputs]
-home  = ["html","rss"]
+home  = ["html","rss","json"]

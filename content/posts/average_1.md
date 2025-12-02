@@ -1,15 +1,13 @@
 ---
 title : "Moving Away from Windows for the  Average User"
 date : "2025-10-28T11:05:44-04:00"
-dateFormat : "2006-01-02" # This value can be configured for per-post date formatting
-author : "Kevin Sauls"
 #authorTwitter : "" #do not include @
 #cover : ""
 tags : ["100days", "technology", "linux"]
 categories : ["",""]
 showFullContent : false
 readingTime : true
-
+series: ['Linux for the Average User']
 ---
 
 This is part 1 of an ongoing series on moving away from Windows and onto Linux.  In this post we'll explore the reasons for the move and examine the two main alternatives together with their benefits and challenges.

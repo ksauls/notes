@@ -10,7 +10,9 @@
 </p>
 {{ end }}{{ end }}
 <content>
+  {{ partial "series.html" . }}
   {{ .Content }}
+  {{ partial "series.html" . }}
 </content>
 <p>
   {{ range (.GetTerms "tags") }}

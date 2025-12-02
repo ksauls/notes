@@ -9,7 +9,7 @@ tags : ["100days", "linux", "technology"]
 categories : ["",""]
 showFullContent : false
 readingTime : true
-
+series: ['Linux for the Average User']
 ---
 This is part 2 of an ongoing series on moving away from Windows and onto Linux.  In this post we'll explore several alternatives for the most common  programs that the average user is likely to use, along with a few o their pros and cons.
 

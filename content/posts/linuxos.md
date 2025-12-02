@@ -9,7 +9,7 @@ tags : ["100days", "linux"]
 categories : ["",""]
 showFullContent : false
 readingTime : true
-
+series: ['Linux for the Average User']
 ---
 This is part 4 of an ongoing series on moving away from Windows and onto Linux.  In this post we'll take a look at what I consider the best Linux operating system for the average user. 
 ---
