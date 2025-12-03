@@ -1,0 +1,27 @@
+---
+title: 'Being Someone Different While Traveling'
+date: 2025-12-03T09:44:42-05:00
+draft: false
+categories: travel
+tags:
+---
+In Rolf Potts' *Vagabond's Way* one of the many lessons he shares is that traveling allows one to be "someone else".  Reading that reminded me of something I've often thought of through the years: Who would I be if I was not who I am?
+
+Growing up we develop into the person that we think others want us to be. What  I mean by that is that who we become is strongly influenced by our parents, our peers, and our community. We want to fit in, we want other's approval and acceptance, so we follow a path that we perceive is expected of us. How we dress, how we perceive the body, how we pursue a career, a marriage, a life, is all mediated by the expectations we perceive from others.
+
+As we grow older and are exposed to new and different ideas and values we may question our choices. This is neither good nor bad but simply a reflection of our expanding worldview. We begin to question who we are and who we might be if circumstances had been different, if we had grown up in a different environment, or in a different religion, and so on.
+
+"Who would I be if I could be anyone; if I wasn't bound by the constraints of my current circumstances?" The challenge is that it's difficult to answer that question within our current situation. Now, some people *are* able to make those kinds of changes. The young man who realizes he is gay and after angsting about it for a long while finally
+decides to face his reality and make the changes in his life needed to live that reality.  Or the young woman who chooses to rebel against the constraints of her religion and go in her own direction, risking shunning by her friends and family. There are many examples of people who, despite the risk of social ostracism follows their heart to live the life they choose to live. But they are, I believe, mostly the exception. Most of us choose to conform rather than face the challenges of going against the grain of their community. And this is where travel may come in.
+
+For most of us the constraining factor is the fear of social isolation. Of going against the norms. Of being judged. We fear trying on a new skin because those around us have come to expect us to be who we've always been. The conservative young woman who is always properly dressed. The young man who is a "go-getter". Yet these same people may harbor different desires. That young woman looks at her more daring friends and yearns to know what it's like to brazenly go braless in public or to wear that shockingly skimpy bikini. That young man hates "climbing the ladder" and wants, instead, to become the artist or writer he feels is inside him. Or perhaps they are both curious about living a more liberated life, exploring their more licentious side. "What's it like," they may wonder, "to walk naked on a beach? For others to see my nakedness?" This is something they may never pursue in their current circumstances. After all, someone they know may see them. The embarrassment would be mortifying.  Travel removes those constraints in many ways, depending, of course, on the values of the culture they are visiting.
+
+When you travel, even within your own country, you remove yourself from the constraints imposed on you by your community. You can take risks because the risk of encountering someone you know is minimized. 
+
+That young woman takes the risk of doffing her bra or donning that revealing skimpy bikini because no one she knows will see her. She may experience discomfort initially because the experience is new and different from what she's known. She's conscious of what others may see, of the unfamiliar movement of her breasts in public or the obviousness of her nipples. But she realizes it doesn't matter. The people who see her are unknown to her. She doesn't care what they think because she will likely never see them again. Whether she ever repeats the experience is mostly irrelevant. What is important is that she answered the call to experiment, to find out what the experience was like.
+
+And if she does encounter someone she knows, on that nude beach, for example, they may very likely be in the same state. It may be embarrassing but it would be a shared embarrassment.
+
+Now, travel is not necessarily a call to "go wild" and do stupid and irresponsible things. Rather, it's an opportunity to explore your curiosities. To find out who you really are. To have experiences that you might otherwise never have and to answer questions about those experiences. 
+
+At the end of the day, travel allows you to answer the question: Who would I be if I was not who I am? And, just perhaps, to make that person a reality in your daily life.

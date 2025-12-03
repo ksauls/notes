@@ -11,7 +11,9 @@ showFullContent : false
 readingTime : true
 series: ['Linux for the Average User']
 ---
+
 This is part 4 of an ongoing series on moving away from Windows and onto Linux.  In this post we'll take a look at what I consider the best Linux operating system for the average user. 
+
 ---
 
 You've made the decision to move to Linux. Now comes the most challenging part: Which distribution should you use? There is a bewildering number of options and it is not at all clear what the differences are so you're left adrift in that sea of options, unable to clearly see what direction to take.

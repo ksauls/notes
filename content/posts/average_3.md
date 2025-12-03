@@ -11,7 +11,9 @@ showFullContent : false
 readingTime : true
 series: ['Linux for the Average User']
 ---
+
 This is part 3 of an ongoing series on moving away from Windows and onto Linux.  In this post we'll explore several more alternatives for the most common  programs that the average user is likely to use, along with a few of their pros and cons.
+
 ---
 
 To be honest, the average user most likely does little more on their computer than write a few documents, surf the web, and check email. Given this, the software I covered in my [previous post]({{< relref "/posts/average_2.md" >}}) are more than sufficient to meet those needs.
