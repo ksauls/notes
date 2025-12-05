@@ -2,10 +2,8 @@ Baseurl = "https://iamcuri.us/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-#theme = "ananke"
-theme = "PaperMod"
-hugo_version = "0.147.8"
-hugo_extended = 1
+#theme = "ananke
+theme = "hugo-bearblog"
 
 pagination.pagerSize = 10 
 
