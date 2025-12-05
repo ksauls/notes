@@ -4,6 +4,8 @@ languageCode = "en-us"
 # Remove it if you use the theme as a remote Hugo Module.
 #theme = "ananke"
 theme = "hugo-bearblog"
+hugo_version = "0.147.8"
+hugo_extended = 1
 
 pagination.pagerSize = 10 
 
