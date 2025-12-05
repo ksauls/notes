@@ -1,6 +1,7 @@
 ---
 title: 'Exploring the Fediverse'
 date: 2025-12-04
+author: "Kevin Sauls"
 draft: false
 categories: technology
 tags:

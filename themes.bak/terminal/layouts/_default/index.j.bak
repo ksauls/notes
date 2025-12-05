@@ -1,0 +1,6 @@
+{{- range .Data.Pages }}
+{
+  "name": "{{ .Title }}",
+  "link": "{{ .Permalink }}"
+}{{ if not (last .Data.Pages) }},{{ end }}
+{{- end -}}
