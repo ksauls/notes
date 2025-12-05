@@ -1,0 +1,9 @@
+[submodule "themes/hugo-bearblog/layouts/partials/themes/PaperMod"]
+	path = themes/hugo-bearblog/layouts/partials/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/bilberry-hugo-theme"]
+	path = themes/bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme.git

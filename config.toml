@@ -3,12 +3,13 @@ languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 #theme = "ananke"
-theme = "hugo-bearblog"
+theme = "PaperMod"
+
 pagination.pagerSize = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
+  # the list of set content will show up on your i/bilndex page (baseurl).
  
   contentTypeName = "posts"
 
@@ -87,7 +88,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"
       words = "words"
-
    
 [menus]
   [[menus.main]]
