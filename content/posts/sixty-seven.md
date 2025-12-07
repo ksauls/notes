@@ -2,11 +2,11 @@
 title: 'Sixty Seven Trips Around the Sun'
 date: 2025-12-05T17:08:56-05:00
 author: "Kevin Sauls"
-draft: true
+draft: false
 categories: general
 tags:
 ---
-It's hard to believe, but on Sunday, I will celebrate sixty-seven trips around the sun.  I have now lived longer than both of my parents and several of my uncles. Given a family history of deaths at younger ages for the men, I'm just a tad surprised that I'm still kicking. And kicking well!
+It's hard to believe, but in a few days, I will celebrate sixty-seven trips around the sun.  I have now lived longer than both of my parents and several of my uncles. Given a family history of deaths at younger ages for the men, I'm just a tad surprised that I'm still kicking. And kicking well!
 
 It's odd, though.  I don't *feel* 67.  I feel more like 25 or 30. Well, except for the bad knee and tweaky shoulder. In fact, I actually feel better today than I did, say, twenty years ago.
 
