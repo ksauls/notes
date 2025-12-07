@@ -3,7 +3,6 @@ title : "Thwarted Travel Plans"
 date : "2025-04-23"
 author : "Kevin Sauls"
 authorTwitter : "" #do not include @
-cover : ""
 tags : ["travel", ""]
 categories : ["retirement"]
 keywords : ["", ""]

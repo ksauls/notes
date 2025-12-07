@@ -3,8 +3,8 @@ languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 #theme = "ananke
-theme = "hugo-bearblog"
-
+#theme = "hugo-bearblog"
+theme = "PaperMod"
 pagination.pagerSize = 10 
 
 [params]
@@ -25,7 +25,7 @@ pagination.pagerSize = 10
   # center theme with default width
   centerTheme = true
 
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
   autoCover = true
