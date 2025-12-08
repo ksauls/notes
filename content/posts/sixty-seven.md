@@ -4,7 +4,7 @@ date: 2025-12-05T17:08:56-05:00
 author: "Kevin Sauls"
 draft: false
 categories: general
-tags:
+tags: ["general"]
 ---
 It's hard to believe, but in a few days, I will celebrate sixty-seven trips around the sun.  I have now lived longer than both of my parents and several of my uncles. Given a family history of deaths at younger ages for the men, I'm just a tad surprised that I'm still kicking. And kicking well!
 
