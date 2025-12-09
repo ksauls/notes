@@ -3,7 +3,7 @@ title: 'Christmas Market Fail'
 date: 2025-12-08T19:38:36-05:00
 draft: false
 categories:
-tags: general
+tags: ["general"]
 ---
 
 My wife and I decided to take our Grand-daughter to the "Christkindle" German Christmas Market in Lawrenceville, GA this past weekend. Now, as a general rule I'm not terribly fond of these kinds of events because of the crowds and the prices. Still, it was something different and it seemed like a good way to get our granddaughter out of the house and engaged in the world around her.
