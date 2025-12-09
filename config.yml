@@ -56,6 +56,11 @@ params:
   #defaultCommentSystems:
   #  remark42: true
 
+  homeInfoParams:
+      Title: Welcome!
+      Content: "Here you'll find a potpourri of ideas, explorations, ruminations, and explanations of the things that capture my interest.  
+      I make no promises as to the veracity of my words, only that they are what I believed at the time I wrote them."
+ 
   profileMode:
     enabled: false
     title: Kevin Sauls 

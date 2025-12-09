@@ -18,7 +18,7 @@ The issue has become so pervasive that there is a sub on Reddit dedicated to thi
 
 It's gotten so ridiculous that I recently bought an item online and on the payment page I found this:
 
-![end tipping](/posts/endtipping/endtipping2.jpg)
+![end tipping](endtipping2.jpg)
 
 In what world should a WEBSITE expect a tip?  What am I tipping for?  WHO am I tipping?  I just paid 80 bucks for product and the COMPANY expects a tip? 
 

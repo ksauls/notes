@@ -9,6 +9,7 @@ tags:
 
 ---
 ![](strongfemale.jpg)
+
 I ran across a video of comedian Fern Brady a few days ago. I thought her jokes and presentation were pretty good and went searching for more.  One of the videos I ran across was her being interviewed by Richard Herring, on his _Richard Herring's Leicester Square Theatre Podcast_.  In the course of that interview I learned both that Fern is autistic and that she had written a book.  This intrigued me so I had to track it down.
 
 _Strong Female Character_(2023) is an autobiography in which she shares her experiences growing up in Scotland as a female with undiagnosed autism. She provides a ton of information related to autism in women and girls. She notes, for example, that autism in females may present quite differently that in males. 
