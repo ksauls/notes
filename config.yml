@@ -11,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-
+rssLimit: 5
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "My Little Corner of the Web"
