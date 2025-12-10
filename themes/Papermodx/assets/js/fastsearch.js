@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open('GET', "../index.json");
+    xhr.open('GET', "https://iamcuri.us/index.json");
     xhr.send();
 }
 
