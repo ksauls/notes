@@ -3,8 +3,7 @@ title: 'What the Hell is a PoC Radio?'
 date: 2025-12-19T11:35:16-05:00
 draft: false
 categories:
-tags:["technology", "radio"]
-
+tags: ["technology", "radio"]
 ---
 In my previous post I noted that I was getting back into Ham Radio.  For those not familiar, Ham offers a ton of opportunities for experimentation, learning, and exploring new ideas and concepts.  Part of what brought me back to radio was messing around with Meshtastic, a technology that allows for unlicensed communication between devices. It is commonly used for IoT type scenarios, but can also be used for messages ala SMS. Unlike SMS, though, Meshtastic and similar "LoRa" technologies don't rely on an intact infrastructure. That means that it can be used for areas that don't have cellular access and for those times when the cellular network may be down.
 
