@@ -2,8 +2,8 @@
 title: 'We Are So Gullible Regarding Fiber Internet'
 date: 2025-12-23T12:26:45-05:00
 draft: false
-categories: 'technology'
-tags: 'internet'
+categories: ['technology']
+tags: ['internet']
 
 ---
 
