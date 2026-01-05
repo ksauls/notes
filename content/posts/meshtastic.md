@@ -1,7 +1,7 @@
 ---
 title: 'Exploring MeshTastic and LoRa'
 date: 2026-01-04
-draft: true
+draft: false 
 categories: ["Technology"]
 tags: ["mesh_networks"]
 
