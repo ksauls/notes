@@ -1,5 +1,5 @@
 ---
-title: 'Why 'Numbers of Books Read' is a Poor Reading Goal'
+title: 'Why Numbers-of-Books-Read is a Poor Reading Goal'
 date: 2026-01-07
 draft: true
 categories: ["general"]
