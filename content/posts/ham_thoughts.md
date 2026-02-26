@@ -1,7 +1,7 @@
 ---
 title: 'Some Thoughts on Studying for the Ham Extra Class'
 date: 2026-02-26T13:20:02-05:00
-draft: true
+draft:  false
 categories: Radio
 tags:
 ---
