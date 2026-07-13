@@ -3,7 +3,6 @@ title: Iamcuri.us
 paginate.papersize: 10 
 theme: Papermodx
 # NOTE remove this line if you copy exampleSite outof hugo-PaperModX
-# themesdir: /titt
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -22,7 +21,7 @@ params:
     - posts
     - projects
     - book_reviews
-  disableAnchoredHeadings: true
+  disableAnchoredHeadings: false 
   images: [""]
   DateFormat: "2006-01-02"
   useCustomAnalytics: false
@@ -76,12 +75,12 @@ params:
 
 
   socialIcons:
-    - name: Mastodon 
-      url: "https://mastodon.social/@ksauls"
+ #   - name: Mastodon 
+ #     url: "https://mastodon.social/@ksauls"
     - name: rss-simple
       url: "index.xml"
-    - name: Bluesky
-      url: "https://bsky.com"
+ #   - name: Bluesky
+ #     url: "https://bsky.com"
   #editPost:
  #   URL: "https://github.com/reorx/hugo-PaperModX/tree/exampleSite/content"
  #   Text: "Suggest Changes" # edit text

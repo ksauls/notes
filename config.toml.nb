@@ -1,0 +1,102 @@
+# The base URL of your website
+# This is typically the location where your home page should be
+baseurl = "https://iamcuri.us"
+ignoreLogs = ['warning-goldmark-raw-html']
+# The language of your website
+# Unfortunately, this theme doesn't support multilingual websites at the moment
+# However, every string displayed on the website can be translated using this config:
+# See the bottom of the [params] section of this file for more information
+#languageCode = "en"
+
+# The theme to use (wow, you're using my theme, that's so cool!)
+# This must match the name of the directory in the themes/ directory
+# If you didn't specify a directory to clone the repository into, it may be named "hugo-nbterm" instead
+theme = "nbterm"
+
+# Title of your website
+# This is displayed in the header and in the browser tab
+title = "Iamcuri.us"
+
+
+[pagination]
+
+# Number of articles to show per page
+pagerSize = 5
+
+
+[params]
+
+# Color to use with the theme
+# The following colors are available:
+# purple, blue, teal, green, yellow, red, gray
+color = "green"
+
+# Custom favicon
+# This must be a valid URL!
+# If unset, it will use the theme default
+#favicon = "/favicon.png"
+
+# Brief description of your website
+# This is used for search engine indexing/social media preview
+description = "Hi there! This is my personal website!"
+
+# Copyright holder
+# This information will be displayed in the footer
+copyright = "Copyright © 2026 Kevin Sauls."
+
+# The type of content to index on the home page
+# This must match a directory in the content/ directory
+contentTypeName = "posts"
+
+# Enable estimated reading time information on articles
+# This can also be configured on a per-article basis
+readingTime = true
+
+# Keywords of the website
+# This is used for search engine indexing/social media preview
+keywords = "blog,developer,personal,sysadmin"
+
+# Strings to use for the website
+# If your website isn't in english, this can be useful
+minuteReadingTime = "min read"
+readMore = "Read more"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+pageNotFound = "Page not found."
+pageNotFoundButton = "Go back home"
+writtenBy = "By"
+
+
+[menu]
+
+# Add menu links
+# This will be displayed right under the header
+[[menu.main]]
+identifier = "posts"
+name = "./posts"
+url = "/posts"
+
+[[menu.main]]
+identifier = "contact"
+name = "./contact"
+url = "/contact"
+
+[[menu.main]]
+identifier = "tags"
+name = "./tags"
+url = "/tags"
+
+[[menu.main]]
+identifier = "categories"
+name = "./categories"
+url = "/categories"
+
+[taxonomies]
+# Taxonomies supported by nbterm
+tag = "tags"
+author = "author"
+category = "categories"
+
+[markup.goldmark.renderer]
+# Set to true if you want to add custom HTML in your markdown source files
+unsafe = false

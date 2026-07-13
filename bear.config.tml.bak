@@ -1,4 +1,4 @@
-baseURL = 'https://saulsnet.org'
+baseURL = 'https://iamcuri.us'
 languageCode = 'en-us'
 ignoreLogs = ['warning-goldmark-raw-html']
 title = "Kevin's corner of the web"
