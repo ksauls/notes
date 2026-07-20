@@ -100,3 +100,6 @@ category = "categories"
 [markup.goldmark.renderer]
 # Set to true if you want to add custom HTML in your markdown source files
 unsafe = false
+
+[outputs]
+home = ["HTML","RSS","JSON"]
