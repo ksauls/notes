@@ -1,8 +1,8 @@
 +++
 title = "An Update on My Experience with Micro.blog"
 author = ["Kevin Sauls"]
-date = 2026-07-16
-publishDate = 2026-07-16
+date = 2026-07-28
+publishDate = 2026-07-28
 lastmod = 2026-07-28T11:43:27-04:00
 draft = false
 +++
