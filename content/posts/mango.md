@@ -1,5 +1,5 @@
 +++
-title = "First Impressions ofs MangoWM"
+title = "First Impressions of MangoWM"
 author = ["Kevin Sauls"]
 date = 2026-08-07T00:00:00-04:00
 publishDate = 2026-08-07T00:00:00-04:00
@@ -26,6 +26,9 @@ So, what's different? It's early in my exploration, so I cannot be definitive. I
 
 First, MangoWM seems a bit easier to configure. Niri is highly configurable but the syntax can be a bit ... confusing. Once you start working with it, it begins to make sense, but initially it is a challenge. MangoWM, though, seems to have a much simpler process.
 Here's the difference between defining a keybind in MangoWM and Niri:
+
+
+In MangoWM it looks like this:
 
 ```cfg
 bind=SUPER,b,spawn,firefox
