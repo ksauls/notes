@@ -3,30 +3,10 @@ title = "Reorganizing My HomeLab"
 author = ["Kevin Sauls"]
 date = 2026-07-20
 publishDate = 2026-07-20
-lastmod = 2026-07-20T19:34:11-04:00
+lastmod = 2026-08-08T16:32:20-04:00
 tags = ["homelab,proxmox,truenas"]
 draft = false
 +++
-
-<div class="ox-hugo-toc toc">
-
-<div class="heading">Table of Contents</div>
-
-- [In the Beginning ...](#in-the-beginning-dot-dot-dot)
-- [The Problem](#the-problem)
-- [Where I am Today](#where-i-am-today)
-- [My Equipment](#my-equipment)
-- [Revisiting my OS choices](#revisiting-my-os-choices)
-    - [Unraid Thoughts](#unraid-thoughts)
-    - [My thoughts on Proxmox](#my-thoughts-on-proxmox)
-- [The Changes](#the-changes)
-    - [Why Truenas](#why-truenas)
-- [And Proxmox?](#and-proxmox)
-- [At the End of the Day ...](#at-the-end-of-the-day-dot-dot-dot)
-
-</div>
-<!--endtoc-->
-
 
 ## In the Beginning ... {#in-the-beginning-dot-dot-dot}
 
