@@ -3,8 +3,7 @@ title = "A Quick Update on MangoWM"
 author = ["Kevin Sauls"]
 date = 2026-08-14T00:00:00-04:00
 publishDate = 2026-08-14T00:00:00-04:00
-lastmod = 2026-08-14T11:36:09-04:00
-tags = ["mangowm,", "tech"]
+lastmod = 2026-08-14T11:40:21-04:00
 draft = false
 +++
 
@@ -14,9 +13,10 @@ In my last post about MangoWM I noted that there were several things that I want
 ## Getting a Good Basic Configuration {#getting-a-good-basic-configuration}
 
 To get started, you can simply copy the default configuration from /etc/mango.
-&lt;code&gt;
 
-&lt;/code&gt;
+```nil
+# cp /etc/mango/config.conf ~/.config/mango/
+```
 
 But I wanted a bit more, so I used [DreamMaoMao's](https://github.com/DreamMaoMao/mango-config) configuration files. From what I understand, DreamMaoMao created Mango, so I figured that would be an even better starting point.
 
