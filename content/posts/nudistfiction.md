@@ -17,6 +17,8 @@ So let me begin by saying I had no idea that "nudist fiction" was a genre. That 
 
 What  I think he (I assume it was a he) wanted to know is why there was no fiction that simply treated nudity as 'normal'.
 
+From what he has said and what little bit of review  I did in preparing to write this article stories that might fall under the genre of nudist fiction takes one of two forms: Stories written to titillate the reader with either sexual innuendo or direct reference to sexual activities under the guise of "nudism"; or, stories written to propagandize (positively or negatively) the practice of social nudism.
+
 On the surface, and what I think that Reddit poster was trying to get at, is that nudist fiction would be fiction that isn't necessarily centered around the concepts and practices of nudism but may be set in a nudist environment or have characters that are nude. All without any particular focus on the practice of nudity or on the "titillation" factor. But how, exactly, would you do that as a writer?
 
 Think about it.  In most stories, one of things you do is describe your characters.  Their height, hair color, facial features, clothing, etc. Sometimes those descriptions are germane to the story, sometimes they simply provide a richer experience for the reader; they help the reader to visual the scene. If you do that for a character that is nude, what would you say? If you describe their bodies -- breasts, penis, etc -- then you've moved into the area of titillation. If you omit those descriptions have you omitted pertinent information? Would the reader be able to visualize the scene as easily (and would it really matter in terms of moving the story along?)
