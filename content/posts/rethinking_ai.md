@@ -3,7 +3,7 @@ title: 'Rethinking My Views on AI'
 date: 2026-11-13T09:36:45-05:00
 draft: false
 categories:
-tags: AI,technology
+tags: [ AI,technology ]
 
 ---
 Let me be honest: I've never been a big fan of artificial intelligence (AI). My reasons for this are varied.  
